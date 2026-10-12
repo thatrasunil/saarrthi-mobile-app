@@ -1,0 +1,5397 @@
+{
+  "venkateswara": {
+    "placeId": "venkateswara",
+    "titleEn": "Tirumala Srivari Temple Precinct & Queue Map",
+    "titleTe": "తిరుమల శ్రీవారి ఆలయ ప్రాంగణం & క్యూ మార్గం",
+    "layoutType": "grand-temple",
+    "centerCoordinates": {
+      "lat": 13.6833,
+      "lng": 79.3473
+    },
+    "routePath": [
+      [
+        80,
+        290
+      ],
+      [
+        140,
+        250
+      ],
+      [
+        110,
+        150
+      ],
+      [
+        170,
+        90
+      ],
+      [
+        270,
+        110
+      ],
+      [
+        380,
+        180
+      ],
+      [
+        450,
+        100
+      ]
+    ],
+    "pins": [
+      {
+        "id": "sanctum",
+        "nameEn": "Ananda Nilayam Main Shrine",
+        "nameTe": "ఆనంద నిలయం (గర్భాలయం)",
+        "category": "sanctum",
+        "lat": 13.6833,
+        "lng": 79.3473,
+        "svgX": 270,
+        "svgY": 110,
+        "descEn": "Sacred gold-plated vimana tower and presiding deity idol.",
+        "descTe": "స్వర్ణమయ ఆనంద నిలయ గోపురం మరియు మూలవిరాట్టు."
+      },
+      {
+        "id": "vaikuntam-1",
+        "nameEn": "Vaikuntam Queue Complex 1 (SED ₹300)",
+        "nameTe": "వైకుంఠం క్యూ కాంప్లెక్స్ 1 (₹300 దర్శనం)",
+        "category": "queue",
+        "lat": 13.683,
+        "lng": 79.3458,
+        "svgX": 110,
+        "svgY": 150,
+        "descEn": "Special Entry Darshan (SED ₹300) and VIP line entry.",
+        "descTe": "ప్రత్యేక ప్రవేశ దర్శనం (₹300) మరియు ప్రముఖుల క్యూ మార్గం."
+      },
+      {
+        "id": "vaikuntam-2",
+        "nameEn": "Vaikuntam Queue Complex 2 (Free SSD)",
+        "nameTe": "వైకుంఠం క్యూ కాంప్లెక్స్ 2 (ఉచిత సర్వదర్శనం)",
+        "category": "queue",
+        "lat": 13.6838,
+        "lng": 79.3455,
+        "svgX": 170,
+        "svgY": 90,
+        "descEn": "Slotted Sarva Darshan (SSD) and free Sarvadarshanam entry line.",
+        "descTe": "ఉచిత సర్వదర్శనం మరియు టైమ్ స్లాట్ టోకెన్ల క్యూ మార్గం."
+      },
+      {
+        "id": "laddu-complex",
+        "nameEn": "Potu & Laddu Distribution Counters",
+        "nameTe": "లడ్డూ ప్రసాదం పంపిణీ కౌంటర్లు",
+        "category": "laddu",
+        "lat": 13.6826,
+        "lng": 79.3482,
+        "svgX": 380,
+        "svgY": 190,
+        "descEn": "40+ automated counters for collecting and buying Tirupati Laddus.",
+        "descTe": "తిరుమల లడ్డూ ప్రసాదం పంపిణీ కౌంటర్లు."
+      },
+      {
+        "id": "footwear-depot",
+        "nameEn": "Free Footwear & Baggage Counter",
+        "nameTe": "ఉచిత పాదరక్షల & లగేజ్ కేంద్రం",
+        "category": "footwear",
+        "lat": 13.6819,
+        "lng": 79.3468,
+        "svgX": 140,
+        "svgY": 260,
+        "descEn": "Free barcode custody counter for shoes and electronic devices.",
+        "descTe": "చెప్పులు, బ్యాగులు భద్రపరిచే ఉచిత కౌంటర్."
+      },
+      {
+        "id": "annaprasadam",
+        "nameEn": "Tarigonda Vengamamba Annaprasadam",
+        "nameTe": "మాతృశ్రీ తరిగొండ వెంగమాంబ అన్నప్రసాదం",
+        "category": "food",
+        "lat": 13.6852,
+        "lng": 79.3462,
+        "svgX": 450,
+        "svgY": 100,
+        "descEn": "Free unlimited satvik meals served continuously 9 AM - 11 PM.",
+        "descTe": "నిత్యాన్నదాన భవనం - ఉచిత స్వామివారి భోజన ప్రసాదం."
+      }
+    ]
+  },
+  "padmavathi": {
+    "placeId": "padmavathi",
+    "titleEn": "Sri Padmavathi Ammavari Temple (Tiruchanur) Precinct Map",
+    "titleTe": "శ్రీ పద్మావతి అమ్మవారి ఆలయం (తిరుచానూరు) ప్రాంగణ మ్యాప్",
+    "layoutType": "grand-temple",
+    "centerCoordinates": {
+      "lat": 13.6068,
+      "lng": 79.4475
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        90
+      ],
+      [
+        412,
+        105
+      ],
+      [
+        370,
+        190
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Tiruchanur Temple Parking Bay",
+        "nameTe": "తిరుచానూరు ఆలయ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.606,
+        "lng": 79.447,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "TTD vehicle and bus parking area along temple entrance lane.",
+        "descTe": "వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear & Baggage Counter",
+        "nameTe": "ఉచిత పాదరక్షల & లగేజ్ కేంద్రం",
+        "category": "footwear",
+        "lat": 13.6064,
+        "lng": 79.4468,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Safe custody token counter for shoes and phones.",
+        "descTe": "చెప్పులు భద్రపరిచే కేంద్రం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Eastern Raja Gopuram Main Entrance",
+        "nameTe": "తూర్పు రాజగోపురం ప్రధాన ప్రవేశం",
+        "category": "entry",
+        "lat": 13.6065,
+        "lng": 79.4473,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Magnificent 7-tier entrance gopuram and covered queue mandapam.",
+        "descTe": "ఏడు అంతస్తుల రాజగోపురం మరియు క్యూ కాంప్లెక్స్."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Balipeetham",
+        "nameTe": "ధ్వజస్తంభం & బలిపీఠం",
+        "category": "info",
+        "lat": 13.6067,
+        "lng": 79.4474,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred golden flag mast facing Mother Padmavathi main shrine.",
+        "descTe": "ఆలయ అంతర ప్రాంగణంలోని పవిత్ర ధ్వజస్తంభం."
+      },
+      {
+        "id": "sundararaja-shrine",
+        "nameEn": "Sri Sundararaja Swamy & Krishna Sub-Shrines",
+        "nameTe": "శ్రీ సుందరరాజ స్వామి & శ్రీ కృష్ణ సన్నిధి",
+        "category": "info",
+        "lat": 13.6069,
+        "lng": 79.447,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Sub-shrines dedicated to Sri Sundararaja Swamy (Varadaraja) and Sri Krishna within the temple prakaram.",
+        "descTe": "ఆలయ ప్రాకారంలోని ఉపాలయాలు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Padmavathi Devi Garbhalayam (Main Shrine)",
+        "nameTe": "శ్రీ పద్మావతి అమ్మవారి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.607,
+        "lng": 79.4475,
+        "svgX": 270,
+        "svgY": 90,
+        "descEn": "Presiding deity of Goddess Lakshmi manifested as Padmavathi, seated in Padmasana on a golden lotus holding two lotuses.",
+        "descTe": "స్వర్ణ పద్మాసనారూఢురాలైన పద్మావతి అమ్మవారి దివ్య దర్శనం."
+      },
+      {
+        "id": "pushkarini",
+        "nameEn": "Padma Sarovaram (Holy Lotus Pushkarini)",
+        "nameTe": "పద్మ సరోవరం (పవిత్ర కోనేరు)",
+        "category": "info",
+        "lat": 13.6072,
+        "lng": 79.4482,
+        "svgX": 412,
+        "svgY": 105,
+        "descEn": "Sacred lake where Goddess Padmavathi emerged on a golden lotus. Devotees take theertha prokshana.",
+        "descTe": "అమ్మవారు స్వర్ణ కమలంలో ఉద్భవించిన పవిత్ర పద్మ సరోవరం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Kumkum Archana, Turmeric & TTD Laddu Prasadam",
+        "nameTe": "కుంకుమార్చన & లడ్డూ ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.6067,
+        "lng": 79.4478,
+        "svgX": 370,
+        "svgY": 190,
+        "descEn": "Collect blessed turmeric, kumkum packets, and fresh TTD Tiruchanur laddu prasadam.",
+        "descTe": "అమ్మవారి పవిత్ర కుంకుమ మరియు తిరుచానూరు లడ్డూ ప్రసాదం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Tiruchanur Arrival & Parking",
+        "titleTe": "తిరుచానూరు పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the TTD parking bay.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram Entrance & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల కేంద్రం",
+        "distance": "50m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the 7-tier Raja Gopuram.",
+        "descTe": "చెప్పులు విడిచి రాజగోపురం ద్వారా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Sundararaja Shrine",
+        "titleTe": "ధ్వజస్తంభం & సుందరరాజ స్వామి సన్నిధి",
+        "distance": "80m",
+        "timeMins": 5,
+        "descEn": "Offer prayers at the flag mast and visit Sri Sundararaja Swamy & Krishna shrines.",
+        "descTe": "ధ్వజస్తంభ నమస్కారం మరియు ఉపాలయాల దర్శనం."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Padmavathi Devi Moolavirat Darshan",
+        "titleTe": "శ్రీ పద్మావతి అమ్మవారి మూలవిరాట్టు దర్శనం",
+        "distance": "100m",
+        "timeMins": 20,
+        "descEn": "Receive the divine compassion and prosperity blessings of Mother Padmavathi in the main shrine.",
+        "descTe": "అమ్మవారి దివ్య గర్భాలయ దర్శనం మరియు ఆశీస్సులు."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Padma Sarovaram & Prasadam",
+        "titleTe": "పద్మ సరోవరం & ప్రసాదం కౌంటర్",
+        "distance": "120m",
+        "timeMins": 10,
+        "descEn": "Sprinkle holy theertham from Padma Sarovaram and collect blessed Kumkum & Tiruchanur Laddu.",
+        "descTe": "పద్మ సరోవర తీర్థం మరియు లడ్డూ ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Tiruchanur Temple Information Office",
+        "titleTe": "తిరుచానూరు ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "chandragiri-fort": {
+    "placeId": "chandragiri-fort",
+    "titleEn": "Chandragiri Fort & Raja Mahal Precinct Map",
+    "titleTe": "చంద్రగిరి కోట & రాజమహల్ ప్రాంగణ మ్యాప్",
+    "layoutType": "heritage-fort",
+    "centerCoordinates": {
+      "lat": 13.6025,
+      "lng": 79.3142
+    },
+    "routePath": [
+      [
+        420,
+        265
+      ],
+      [
+        135,
+        215
+      ],
+      [
+        270,
+        250
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        405,
+        95
+      ],
+      [
+        385,
+        175
+      ],
+      [
+        270,
+        250
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Fort Visitor Parking Bay",
+        "nameTe": "కోట పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.6018,
+        "lng": 79.3148,
+        "svgX": 420,
+        "svgY": 265,
+        "descEn": "Parking for cars, tourist buses, and 2-wheelers near the fort entrance.",
+        "descTe": "వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "cloakroom",
+        "nameEn": "Museum Cloakroom & Facilities",
+        "nameTe": "క్లోక్‌రూమ్ & సదుపాయాల కేంద్రం",
+        "category": "info",
+        "lat": 13.6022,
+        "lng": 79.314,
+        "svgX": 135,
+        "svgY": 215,
+        "descEn": "Free luggage deposit, cloakroom, and visitor washrooms.",
+        "descTe": "లగేజ్ భద్రతా విభాగం మరియు సందర్శకుల సదుపాయాలు."
+      },
+      {
+        "id": "entry",
+        "nameEn": "ASI Fort Gateway & Ticket Counter",
+        "nameTe": "ప్రధాన ప్రవేశ ముఖద్వారం & టికెట్ కౌంటర్",
+        "category": "entry",
+        "lat": 13.602,
+        "lng": 79.3145,
+        "svgX": 270,
+        "svgY": 250,
+        "descEn": "ASI entry ticket counter, security check, and royal fort gateway.",
+        "descTe": "ఏఎస్ఐ టికెట్ కౌంటర్ మరియు కోట ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "raja-mahal",
+        "nameEn": "Raja Mahal Palace & ASI Museum",
+        "nameTe": "రాజమహల్ (చారిత్రక రాజభవనం & మ్యూజియం)",
+        "category": "sanctum",
+        "lat": 13.6027,
+        "lng": 79.3142,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Indo-Saracenic 3-storey royal palace housing ancient Vijayanagara bronzes, stone sculptures, and arms.",
+        "descTe": "విజయనగర సామ్రాజ్య చారిత్రక రాజభవనం మరియు ఏఎస్ఐ మ్యూజియం."
+      },
+      {
+        "id": "rani-mahal",
+        "nameEn": "Rani Mahal Palace & Royal Gardens",
+        "nameTe": "రాణి మహల్ & రాయల్ తోటలు",
+        "category": "info",
+        "lat": 13.603,
+        "lng": 79.3146,
+        "svgX": 405,
+        "svgY": 95,
+        "descEn": "Queen’s palace featuring vaulted arches, royal quarters, and landscaped gardens.",
+        "descTe": "రాణి మహల్ మరియు ఆకట్టుకునే రాయల్ ఉద్యానవనం."
+      },
+      {
+        "id": "sound-light",
+        "nameEn": "Sound & Light Show Amphitheater",
+        "nameTe": "సౌండ్ & లైట్ షో ఓపెన్ థియేటర్",
+        "category": "info",
+        "lat": 13.6024,
+        "lng": 79.3144,
+        "svgX": 385,
+        "svgY": 175,
+        "descEn": "Open amphitheater showcasing evening laser, sound & light historical shows.",
+        "descTe": "సాయంత్రం వేళ విజయవంతంగా సాగే సౌండ్ & లైట్ షో ప్రదర్శన వేదిక."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Fort Arrival & Parking",
+        "titleTe": "కోట పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the visitor plaza.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Cloakroom & ASI Ticket Gate",
+        "titleTe": "క్లోక్‌రూమ్ & టికెట్ కౌంటర్",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Deposit belongings if needed, buy entry ticket, and enter fort grounds.",
+        "descTe": "టికెట్ తీసుకుని కోటలోకి ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Raja Mahal Palace & ASI Museum",
+        "titleTe": "రాజమహల్ & మ్యూజియం దర్శనం",
+        "distance": "80m",
+        "timeMins": 25,
+        "descEn": "Explore the 3-storey royal palace exhibits, bronzes, and weapons gallery.",
+        "descTe": "చారిత్రక రాజభవనం తిలకించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Rani Mahal & Evening Sound & Light Show",
+        "titleTe": "రాణి మహల్ & సౌండ్ షో",
+        "distance": "100m",
+        "timeMins": 30,
+        "descEn": "Visit Rani Mahal royal gardens and attend the evening historical light show.",
+        "descTe": "రాణి మహల్ మరియు సౌండ్ షో వీక్షించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "ASI Chandragiri Office",
+        "titleTe": "ఏఎస్ఐ చంద్రగిరి సమాచార కేంద్రం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "horsley-hills": {
+    "placeId": "horsley-hills",
+    "titleEn": "Horsley Hills Precinct & Viewpoint Map",
+    "titleTe": "హార్స్‌లీ హిల్స్ ప్రాంగణం & వ్యూపాయింట్ మ్యాప్",
+    "layoutType": "hill-waterfall",
+    "centerCoordinates": {
+      "lat": 13.6508,
+      "lng": 78.397
+    },
+    "routePath": [
+      [
+        412,
+        265
+      ],
+      [
+        270,
+        245
+      ],
+      [
+        138,
+        222
+      ],
+      [
+        270,
+        160
+      ],
+      [
+        270,
+        70
+      ],
+      [
+        390,
+        100
+      ],
+      [
+        270,
+        245
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Hilltop Visitor Parking Plaza",
+        "nameTe": "హార్స్‌లీ హిల్స్ పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.65,
+        "lng": 78.3975,
+        "svgX": 412,
+        "svgY": 265,
+        "descEn": "Dedicated vehicle parking near APTDC Haritha Resort.",
+        "descTe": "హార్స్‌లీ హిల్స్ కొండపై వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Forest Checkpost & Entrance Gate",
+        "nameTe": "అటవీ చెక్‌పోస్ట్ & ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6503,
+        "lng": 78.3972,
+        "svgX": 270,
+        "svgY": 245,
+        "descEn": "Forest department entry checkpost and toll booth.",
+        "descTe": "అటవీ విభాగం చెక్‌పోస్ట్ మరియు ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Visitor Amenities & Restrooms",
+        "nameTe": "సందర్శకుల సదుపాయాల కేంద్రం",
+        "category": "footwear",
+        "lat": 13.6505,
+        "lng": 78.3968,
+        "svgX": 138,
+        "svgY": 222,
+        "descEn": "Restroom complex, seating gazebos, and snacks kiosk.",
+        "descTe": "విశ్రాంతి గదులు మరియు తాగునీటి సదుపాయం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Whispering Winds Viewpoint (4,100 ft)",
+        "nameTe": "విస్పరింగ్ విండ్స్ వ్యూపాయింట్ (4,100 అడుగులు)",
+        "category": "sanctum",
+        "lat": 13.651,
+        "lng": 78.397,
+        "svgX": 270,
+        "svgY": 160,
+        "descEn": "Highest elevation cliff viewpoint with cool mountain breeze and valley panoramas.",
+        "descTe": "కొండపై చల్లని గాలితో అలరించే విస్పరింగ్ విండ్స్ వ్యూపాయింట్."
+      },
+      {
+        "id": "info",
+        "nameEn": "Gali Bandalu (Wind Rocks Summit)",
+        "nameTe": "గాలి బండలు పనోరమిక్ శిఖరం",
+        "category": "info",
+        "lat": 13.6515,
+        "lng": 78.397,
+        "svgX": 270,
+        "svgY": 70,
+        "descEn": "Massive rocky cliff edge known for high gusty winds and sunset photography.",
+        "descTe": "సూర్యాస్తమయ దృశ్యాలకు ప్రసిద్ధి చెందిన గాలి బండలు శిఖరం."
+      },
+      {
+        "id": "resort",
+        "nameEn": "APTDC Haritha Resort & Governor Bungalow",
+        "nameTe": "హరిత రిసార్ట్ & చారిత్రక గవర్నర్ బంగ్లా",
+        "category": "food",
+        "lat": 13.6512,
+        "lng": 78.398,
+        "svgX": 390,
+        "svgY": 100,
+        "descEn": "150-year-old British era Governor bungalow, restaurant, and swimming pool.",
+        "descTe": "చారిత్రక గవర్నర్ బంగ్లా మరియు హరిత హోటల్."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Ghat Road Climb & Hilltop Arrival",
+        "titleTe": "ఘాట్ రోడ్డు ప్రయాణం & కొండపైకి చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Drive up the 9 km scenic eucalyptus ghat road to Horsley Hills summit.",
+        "descTe": "సుందరమైన యూకలిప్టస్ ఘాట్ రోడ్డు గుండా ప్రయాణించండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Forest Checkpost & Parking",
+        "titleTe": "చెక్‌పోస్ట్ ప్రవేశం & పార్కింగ్",
+        "distance": "50m",
+        "timeMins": 2,
+        "descEn": "Pass the forest gate and park near APTDC Haritha Resort.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Whispering Winds & Gali Bandalu Viewpoints",
+        "titleTe": "విస్పరింగ్ విండ్స్ & గాలి బండలు సందర్శన",
+        "distance": "150m",
+        "timeMins": 30,
+        "descEn": "Walk to the cliff top viewpoints for 360-degree Valley panoramas.",
+        "descTe": "విస్పరింగ్ విండ్స్ మరియు గాలి బండల వ్యూపాయింట్ తిలకించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Governor Bungalow & Haritha Dining",
+        "titleTe": "గవర్నర్ బంగ్లా & రిసార్ట్",
+        "distance": "100m",
+        "timeMins": 20,
+        "descEn": "Visit the heritage bungalow and enjoy fresh refreshments.",
+        "descTe": "చారిత్రక బంగ్లా తిలకించి భోజన సదుపాయం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "APTDC Horsley Hills Resort",
+        "titleTe": "హరిత రిసార్ట్ సమాచార కేంద్రం",
+        "number": "08571279744"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "jeeva-lingeshwara-temple": {
+    "placeId": "jeeva-lingeshwara-temple",
+    "titleEn": "Sri Jeeva Lingeshwara Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ జీవ లింగేశ్వర స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.6581,
+      "lng": 79.4292
+    },
+    "routePath": [
+      [
+        430,
+        285
+      ],
+      [
+        135,
+        250
+      ],
+      [
+        270,
+        270
+      ],
+      [
+        270,
+        190
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        145,
+        125
+      ],
+      [
+        395,
+        140
+      ],
+      [
+        430,
+        285
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Mangalam Approach Parking Plaza",
+        "nameTe": "మంగళం ఆలయ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6577,
+        "lng": 79.4288,
+        "svgX": 430,
+        "svgY": 285,
+        "descEn": "Open vehicle and auto parking area in Mangalam village.",
+        "descTe": "వాహనాలు మరియు ఆటోల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.658,
+        "lng": 79.4289,
+        "svgX": 135,
+        "svgY": 250,
+        "descEn": "Shoe custody counter near the courtyard entrance.",
+        "descTe": "పాదరక్షలు విడిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Temple Entrance Mukhadwaram",
+        "nameTe": "ఆలయ ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6579,
+        "lng": 79.429,
+        "svgX": 270,
+        "svgY": 270,
+        "descEn": "Stone archway and entrance facing the Tirumala hill slopes.",
+        "descTe": "ఆలయ ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Nandi Mandapam",
+        "nameTe": "ధ్వజస్తంభం & నంది మండపం",
+        "category": "info",
+        "lat": 13.6581,
+        "lng": 79.4291,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast and stone Nandi bull seated facing the Shiva main shrine.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం మరియు నందీశ్వరుని దర్శనం."
+      },
+      {
+        "id": "navagraha-shrine",
+        "nameEn": "Sri Parvathi Ammavaru & Navagraha Sub-Shrines",
+        "nameTe": "పార్వతీ అమ్మవారు & నవగ్రహ సన్నిధులు",
+        "category": "info",
+        "lat": 13.6583,
+        "lng": 79.4289,
+        "svgX": 145,
+        "svgY": 125,
+        "descEn": "Dedicated shrines for Goddess Parvathi, Lord Ganesha, and Navagrahas for Dosha Parihara.",
+        "descTe": "పార్వతీ దేవి మరియు నవగ్రహ ఉపాలయాలు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Jeeva Lingeshwara Swamy Garbhalayam",
+        "nameTe": "శ్రీ జీవ లింగేశ్వర స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.6582,
+        "lng": 79.4292,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Consecrated living Shiva Lingam revered for granting peace of mind, health, and spiritual upliftment.",
+        "descTe": "ప్రశాంత ఆధ్యాత్మిక వాతావరణంలో దర్శనమిచ్చే జీవ లింగేశ్వర స్వామి మూలవిరాట్టు."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Rudrabhishekam, Bilva Archana & Vibhuti Counter",
+        "nameTe": "రుద్రాభిషేకం, బిల్వార్చన & విభూతి ప్రసాదం",
+        "category": "laddu",
+        "lat": 13.658,
+        "lng": 79.4294,
+        "svgX": 395,
+        "svgY": 140,
+        "descEn": "Obtain Rudrabhishekam seva tokens, sacred Bilva leaves, and blessed Vibhuti theertham.",
+        "descTe": "రుద్రాభిషేక పూజ టోకెన్లు మరియు పవిత్ర విభూతి ప్రసాదం స్వీకరించే స్థలం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Mangalam Arrival & Parking",
+        "titleTe": "మంగళం చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle along the foothill approach plaza.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Temple Entrance & Footwear",
+        "titleTe": "ప్రవేశం & పాదరక్షల కేంద్రం",
+        "distance": "20m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the stone archway.",
+        "descTe": "చెప్పులు విడిచి గోపురం ద్వారా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Nandi Mandapam",
+        "titleTe": "ధ్వజస్తంభం & నంది నమస్కారం",
+        "distance": "30m",
+        "timeMins": 5,
+        "descEn": "Bow before the flag mast and take blessings of Nandi.",
+        "descTe": "ధ్వజస్తంభం వద్ద ప్రార్థించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Jeeva Lingeshwara Darshan",
+        "titleTe": "శ్రీ జీవ లింగేశ్వర స్వామి దర్శనం",
+        "distance": "50m",
+        "timeMins": 10,
+        "descEn": "Seek blessings of Lord Shiva in the main temple.",
+        "descTe": "స్వామివారి దివ్య దర్శనం మరియు ఆశీస్సులు."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Navagraha & Vibhuti Prasadam",
+        "titleTe": "నవగ్రహ దర్శనం & విభూతి ప్రసాదం",
+        "distance": "30m",
+        "timeMins": 5,
+        "descEn": "Perform Navagraha pradakshina and receive holy Vibhuti.",
+        "descTe": "నవగ్రహ పూజ చేసి విభూతి పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Mangalam Temple Desk",
+        "titleTe": "ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "panchamukha-anjaneya-temple": {
+    "placeId": "panchamukha-anjaneya-temple",
+    "titleEn": "Sri Pancha Mukha Anjaneya Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ పంచముఖ ఆంజనేయ స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "pancha-mukha-shrine",
+    "centerCoordinates": {
+      "lat": 13.6311,
+      "lng": 79.4149
+    },
+    "routePath": [
+      [
+        370,
+        280
+      ],
+      [
+        270,
+        270
+      ],
+      [
+        135,
+        245
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        160,
+        120
+      ],
+      [
+        270,
+        75
+      ],
+      [
+        395,
+        150
+      ],
+      [
+        370,
+        280
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Balaji Nagar Street Parking Area",
+        "nameTe": "బాలాజీ నగర్ వీధి పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6308,
+        "lng": 79.4145,
+        "svgX": 370,
+        "svgY": 280,
+        "descEn": "Street parking along Balaji Nagar lane for two-wheelers and autos.",
+        "descTe": "వాహనాలు మరియు ఆటోల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.6309,
+        "lng": 79.4146,
+        "svgX": 135,
+        "svgY": 245,
+        "descEn": "Designated shoe keeping stand near the entrance gate.",
+        "descTe": "పాదరక్షలు విడిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Temple Entrance Mukhadwaram",
+        "nameTe": "ఆలయ ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.631,
+        "lng": 79.4147,
+        "svgX": 270,
+        "svgY": 270,
+        "descEn": "Main temple entrance leading into the sacred Hanuman mandapam.",
+        "descTe": "ఆలయ ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Deepasthambham",
+        "nameTe": "ధ్వజస్తంభం & దీపస్తంభం",
+        "category": "info",
+        "lat": 13.6311,
+        "lng": 79.4148,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast and brass lamp pillar in the front courtyard.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం మరియు దీపారాధన స్తంభం."
+      },
+      {
+        "id": "sita-rama-shrine",
+        "nameEn": "Sri Sita Rama Lakshmana Sub-Shrine",
+        "nameTe": "శ్రీ సీతారామ లక్ష్మణ సన్నిధి",
+        "category": "info",
+        "lat": 13.6313,
+        "lng": 79.4147,
+        "svgX": 160,
+        "svgY": 120,
+        "descEn": "Revered shrine of Lord Sri Rama, Sita Devi, and Lakshmana Swamy worshipped with devotion.",
+        "descTe": "శ్రీ సీతారామ లక్ష్మణుల పవిత్ర సన్నిధి."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Pancha Mukha Anjaneya Garbhalayam",
+        "nameTe": "శ్రీ పంచముఖ ఆంజనేయ స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.6312,
+        "lng": 79.4149,
+        "svgX": 270,
+        "svgY": 75,
+        "descEn": "Mighty 5-faced Lord Hanuman idol (Hanuman, Narasimha, Garuda, Varaha, Hayagriva) adorned with Sindhooram and Vadamala.",
+        "descTe": "సింధూర అలంకరణ, వడమాలతో దర్శనమిచ్చే పంచముఖ ఆంజనేయ స్వామి మూలవిరాట్టు."
+      },
+      {
+        "id": "kumkum-prasadam",
+        "nameEn": "Sindhooram, Betel Leaf & Prasadam Counter",
+        "nameTe": "సింధూరం, తమలపాకుల పూజ & ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.631,
+        "lng": 79.4151,
+        "svgX": 395,
+        "svgY": 150,
+        "descEn": "Collect blessed Sindhooram, holy theertham, sweet laddu, and sanctified Vada prasadam.",
+        "descTe": "స్వామివారి దివ్య సింధూరం, తీర్థం మరియు ప్రసాదం స్వీకరించే స్థలం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Balaji Nagar Arrival & Parking",
+        "titleTe": "బాలాజీ నగర్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle along the street parking bay.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Temple Entrance & Footwear",
+        "titleTe": "ప్రవేశం & పాదరక్షల కేంద్రం",
+        "distance": "20m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the temple archway.",
+        "descTe": "చెప్పులు విడిచి ఆలయంలోకి ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Sri Rama Shrine",
+        "titleTe": "ధ్వజస్తంభం & సీతారాముల సన్నిధి",
+        "distance": "40m",
+        "timeMins": 5,
+        "descEn": "Bow before the flag mast and seek blessings at Sri Rama shrine.",
+        "descTe": "ధ్వజస్తంభ నమస్కారం మరియు శ్రీరాముని దర్శనం."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Pancha Mukha Anjaneya Darshan",
+        "titleTe": "పంచముఖ ఆంజనేయ స్వామి దర్శనం",
+        "distance": "50m",
+        "timeMins": 10,
+        "descEn": "Witness the mighty 5-faced Hanuman in the inner temple.",
+        "descTe": "స్వామివారి దివ్య దర్శనం మరియు ఆశీస్సులు."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Sindhooram & Blessed Prasadam",
+        "titleTe": "సింధూరం & ప్రసాదం స్వీకరణ",
+        "distance": "30m",
+        "timeMins": 5,
+        "descEn": "Receive blessed Sindhooram and sacred Vada / Laddu prasadam.",
+        "descTe": "సింధూర ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Pancha Mukha Temple Desk",
+        "titleTe": "ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "bonthalamma-temple": {
+    "placeId": "bonthalamma-temple",
+    "titleEn": "Sri Bonthalamma Talli Alayam Precinct Map",
+    "titleTe": "శ్రీ బొంతలమ్మ తల్లి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "city-shrine",
+    "centerCoordinates": {
+      "lat": 13.6459,
+      "lng": 79.4404
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Approach Lane Parking Area",
+        "nameTe": "ఆలయ అప్రోచ్ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6455,
+        "lng": 79.44,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Street and approach lane parking for two-wheelers and cars.",
+        "descTe": "ద్విచక్ర వాహనాలు మరియు కార్ల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.6458,
+        "lng": 79.4401,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Designated shoe keeping stand near the entrance gate.",
+        "descTe": "పాదరక్షలు విడిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Temple Entrance Mukhadwaram",
+        "nameTe": "ఆలయ ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6457,
+        "lng": 79.4402,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Main entrance gate leading into the sacred Gramadevata courtyard.",
+        "descTe": "గ్రామదేవత ఆలయ ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Trisulam Deepasthambham",
+        "nameTe": "ధ్వజస్తంభం & త్రిశూల దీపస్తంభం",
+        "category": "info",
+        "lat": 13.6459,
+        "lng": 79.4403,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast, trident (Trisula), and brass lamp pillar in the central courtyard.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం, త్రిశూలం మరియు దీపారాధన స్తంభం."
+      },
+      {
+        "id": "neem-tree",
+        "nameEn": "Sacred Neem & Peepal Tree (Vriksha Pradakshina)",
+        "nameTe": "పవిత్ర వేప & రావి వృక్ష ప్రదక్షిణ",
+        "category": "info",
+        "lat": 13.6461,
+        "lng": 79.4402,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Sacred mother neem tree where women tie turmeric threads and perform pradakshina for good health and fertility.",
+        "descTe": "మహిళలు పసుపు దారాలు కట్టి ప్రదక్షిణలు చేసే పవిత్ర వేప చెట్టు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Bonthalamma Talli Moolavirat Garbhalayam",
+        "nameTe": "శ్రీ బొంతలమ్మ తల్లి మూలవిరాట్టు గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.646,
+        "lng": 79.4404,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Consecrated shrine of protective Mother Goddess Bonthalamma adorned with kumkum, turmeric, and silver kavacham.",
+        "descTe": "పసుపు, కుంకుమలతో దివ్యంగా అలంకరించబడిన బొంతలమ్మ తల్లి గర్భగుడి."
+      },
+      {
+        "id": "kumkum-prasadam",
+        "nameEn": "Kumkumarchana, Theertham & Prasadam Counter",
+        "nameTe": "కుంకుమార్చన, తీర్థం & ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.6458,
+        "lng": 79.4406,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Collect sacred Raksha Kumkum, blessed neem leaves, holy theertham, and sweet pongal prasadam.",
+        "descTe": "అమ్మవారి పవిత్ర కుంకుమ, తీర్థం మరియు ప్రసాదం స్వీకరించే స్థలం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Akkarampalle Arrival & Parking",
+        "titleTe": "అక్కరంపల్లె చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle along the approach lane.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Temple Entrance & Footwear",
+        "titleTe": "ప్రవేశం & పాదరక్షల కేంద్రం",
+        "distance": "20m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the temple archway.",
+        "descTe": "చెప్పులు విడిచి ఆలయంలోకి ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Sacred Neem Tree",
+        "titleTe": "ధ్వజస్తంభం & వేప వృక్ష ప్రదక్షిణ",
+        "distance": "40m",
+        "timeMins": 5,
+        "descEn": "Bow before the flag mast and perform pradakshina around the holy neem tree.",
+        "descTe": "ధ్వజస్తంభ నమస్కారం మరియు వృక్ష ప్రదక్షిణ."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Bonthalamma Talli Darshan",
+        "titleTe": "శ్రీ బొంతలమ్మ తల్లి దివ్య దర్శనం",
+        "distance": "60m",
+        "timeMins": 10,
+        "descEn": "Seek blessings of the protective Gramadevata in the main shrine.",
+        "descTe": "అమ్మవారి ఆశీస్సులు పొందండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Kumkumarchana & Blessed Prasadam",
+        "titleTe": "కుంకుమార్చన & ప్రసాదం",
+        "distance": "40m",
+        "timeMins": 5,
+        "descEn": "Receive blessed vermillion (Kumkum) and sacred theertham.",
+        "descTe": "రక్షా కుంకుమ మరియు తీర్థం స్వీకరించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Bonthalamma Temple Committee Office",
+        "titleTe": "బొంతలమ్మ ఆలయ కమిటీ కార్యాలయం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "mogili-temple": {
+    "placeId": "mogili-temple",
+    "titleEn": "Sri Mogileeswara Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ మొగిలీశ్వర స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.2081,
+      "lng": 78.895
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Highway Approach Parking Bay",
+        "nameTe": "హైవే పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.2075,
+        "lng": 78.8945,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Shaded vehicle and car parking area along the Chennai-Bangalore highway.",
+        "descTe": "చెన్నై-బెంగళూరు హైవే వద్ద ఉన్న పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.2079,
+        "lng": 78.8946,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Shoe custody counter near temple entrance.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Eastern Raja Gopuram Entrance",
+        "nameTe": "తూర్పు రాజగోపురం ప్రవేశం",
+        "category": "entry",
+        "lat": 13.2078,
+        "lng": 78.8948,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Ancient stone entrance gateway welcoming devotees.",
+        "descTe": "ఆలయ ప్రధాన ప్రవేశ గోపురం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Gomukha Nandi Spring",
+        "nameTe": "ధ్వజస్తంభం & గోముఖ నంది జలధార",
+        "category": "info",
+        "lat": 13.208,
+        "lng": 78.8949,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred Nandi bull idol where cold perennial water constantly trickles from beneath its feet year-round.",
+        "descTe": "నంది పాదాల నుండి నిరంతరం ప్రవహించే పవిత్ర జీవ జలధార."
+      },
+      {
+        "id": "kamakshi-shrine",
+        "nameEn": "Sri Kamakshi Ammavari Shrine",
+        "nameTe": "శ్రీ కామాక్షి అమ్మవారి సన్నిధి",
+        "category": "info",
+        "lat": 13.2082,
+        "lng": 78.8947,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Goddess Kamakshi (Parvathi Devi) sub-shrine in the sacred courtyard.",
+        "descTe": "శ్రీ కామాక్షి అమ్మవారి ఉపాలయం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Mogileeswara Swamy Swayambhu Garbhalayam",
+        "nameTe": "శ్రీ మొగిలీశ్వర స్వామి స్వయంభూ గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.2083,
+        "lng": 78.895,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Self-manifested Shiva Lingam discovered beneath ancient Mogili (Kewra) thickets.",
+        "descTe": "మొగిలి పొదల్లో వెలసిన స్వయంభూ శివలింగం మరియు పవిత్ర గర్భగుడి."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Bilva Archana & Vibhuti Theertha Prasadam",
+        "nameTe": "బిల్వార్చన & విభూతి ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.2081,
+        "lng": 78.8953,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Collect blessed Vibhuti, holy Bilva leaves, and Nandi spring theertham.",
+        "descTe": "పవిత్ర విభూతి మరియు నంది తీర్థం స్వీకరించండి."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Mogili Arrival & Parking",
+        "titleTe": "మొగిలి పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle along the highway approach bay.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram Entrance & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల కేంద్రం",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the stone gopuram.",
+        "descTe": "చెప్పులు విడిచి గోపురం ద్వారా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Gomukha Nandi Perennial Spring",
+        "titleTe": "గోముఖ నంది పవిత్ర జలధార",
+        "distance": "50m",
+        "timeMins": 5,
+        "descEn": "Witness the mysterious perennial stream trickling from Nandi's feet.",
+        "descTe": "నంది పాదాల నుండి వచ్చే పవిత్ర జలాన్ని దర్శించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Mogileeswara Lingam Darshan",
+        "titleTe": "శ్రీ మొగిలీశ్వర స్వామి దర్శనం",
+        "distance": "70m",
+        "timeMins": 15,
+        "descEn": "Seek blessings of the Swayambhu Shiva Lingam in the main shrine.",
+        "descTe": "స్వామివారి దివ్య దర్శనం మరియు ఆశీస్సులు."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Kamakshi Shrine & Vibhuti Prasadam",
+        "titleTe": "అమ్మవారి దర్శనం & ప్రసాదం",
+        "distance": "50m",
+        "timeMins": 5,
+        "descEn": "Visit Sri Kamakshi Ammavaru and receive holy vibhuti theertham.",
+        "descTe": "కామాక్షి అమ్మవారి దర్శనం మరియు విభూతి ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Mogili Temple Administration Office",
+        "titleTe": "మొగిలి ఆలయ సమాచార విభాగం",
+        "number": "08572281540"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "kanipakam": {
+    "placeId": "kanipakam",
+    "titleEn": "Sri Varasiddhi Vinayaka Swamy Temple (Kanipakam) Precinct Map",
+    "titleTe": "శ్రీ వరసిద్ధి వినాయక స్వామి ఆలయం (కాణిపాకం) ప్రాంగణ మ్యాప్",
+    "layoutType": "grand-temple",
+    "centerCoordinates": {
+      "lat": 13.2796,
+      "lng": 79.0347
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        90
+      ],
+      [
+        415,
+        105
+      ],
+      [
+        370,
+        190
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Devasthanam Visitor Parking Plaza",
+        "nameTe": "దేవస్థానం పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.279,
+        "lng": 79.034,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Large multi-level vehicle and tourist bus parking complex.",
+        "descTe": "వాహనాలు మరియు బస్సుల పార్కింగ్ సముదాయం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear & Baggage Counter",
+        "nameTe": "ఉచిత పాదరక్షల కేంద్రం",
+        "category": "footwear",
+        "lat": 13.2792,
+        "lng": 79.0342,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Free token custody counter for footwear and electronic items.",
+        "descTe": "పాదరక్షలు భద్రపరిచే ఉచిత కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Raja Gopuram & Covered Queue Entrance",
+        "nameTe": "రాజగోపురం & క్యూ కాంప్లెక్స్ ప్రవేశం",
+        "category": "entry",
+        "lat": 13.2793,
+        "lng": 79.0344,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Towering Vijayanagara-style entrance gopuram and special darshan queue entry.",
+        "descTe": "విజయనగర శైలి రాజగోపురం మరియు దర్శన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Mushika (Mouse) Vahanam",
+        "nameTe": "ధ్వజస్తంభం & మూషిక వాహనం",
+        "category": "info",
+        "lat": 13.2795,
+        "lng": 79.0346,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred golden flag mast and Lord Ganesha's Mushika vehicle in the inner courtyard.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం మరియు మూషిక వాహన దర్శనం."
+      },
+      {
+        "id": "shiva-shrine",
+        "nameEn": "Sri Manikantheswara Swamy & Varadaraja Sub-Shrines",
+        "nameTe": "శ్రీ మణికంఠేశ్వర & వరదరాజ స్వామి సన్నిధులు",
+        "category": "info",
+        "lat": 13.2797,
+        "lng": 79.0343,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Ancient Chola-era sub-shrines dedicated to Lord Shiva (Manikantheswara) and Lord Vishnu inside temple prakaram.",
+        "descTe": "ఆలయ ప్రాకారంలోని ప్రాచీన శివ మరియు విష్ణు ఉపాలయాలు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Varasiddhi Vinayaka Garbhalayam (Swayambhu Well)",
+        "nameTe": "శ్రీ వరసిద్ధి వినాయక స్వామి స్వయంభూ బావి (గర్భాలయం)",
+        "category": "sanctum",
+        "lat": 13.2798,
+        "lng": 79.0347,
+        "svgX": 270,
+        "svgY": 90,
+        "descEn": "Self-manifested growing idol of Lord Ganesha in the perennial holy water well. Devotees take sacred well theertham.",
+        "descTe": "నిరంతరం నీరు ఊరే పవిత్ర బావిలో స్వయంభూగా వెలసిన వినాయక స్వామి మూలవిరాట్టు."
+      },
+      {
+        "id": "pushkarini",
+        "nameEn": "Bahuda River Holy Pushkarini Tank (Manikarnika)",
+        "nameTe": "బాహుదా నది మణికర్ణిక పుష్కరిణి",
+        "category": "info",
+        "lat": 13.28,
+        "lng": 79.0352,
+        "svgX": 415,
+        "svgY": 105,
+        "descEn": "Sacred river water temple tank where pilgrims take a cleansing holy bath before darshan.",
+        "descTe": "దర్శనానికి ముందు భక్తులు పవిత్ర స్నానం ఆచరించే పుష్కరిణి."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Kanipakam Laddu, Coconut & Theertham Counter",
+        "nameTe": "కాణిపాకం లడ్డూ & ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.2795,
+        "lng": 79.035,
+        "svgX": 370,
+        "svgY": 190,
+        "descEn": "Famous Kanipakam delicious laddus, unbroken coconut offering return, and sacred theertham bottles.",
+        "descTe": "ప్రసిద్ధ కాణిపాకం లడ్డూ ప్రసాదం మరియు పవిత్ర బావి తీర్థం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Kanipakam Arrival & Parking",
+        "titleTe": "కాణిపాకం పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the Devasthanam parking plaza.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram Entrance & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల కౌంటర్",
+        "distance": "50m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the grand Raja Gopuram.",
+        "descTe": "చెప్పులు విడిచి రాజగోపురం ద్వారా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Manikantheswara Shrine",
+        "titleTe": "ధ్వజస్తంభం & మణికంఠేశ్వర స్వామి సన్నిధి",
+        "distance": "80m",
+        "timeMins": 5,
+        "descEn": "Offer prayers at the flag mast and visit the ancient Shiva sub-shrine.",
+        "descTe": "ధ్వజస్తంభ నమస్కారం మరియు శివాలయ దర్శనం."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Swayambhu Varasiddhi Vinayaka Darshan",
+        "titleTe": "స్వయంభూ వరసిద్ధి వినాయక దర్శనం",
+        "distance": "100m",
+        "timeMins": 20,
+        "descEn": "Seek blessings of the growing Ganesha in the sacred water well and receive holy theertham.",
+        "descTe": "పవిత్ర బావిలోని వినాయక స్వామి దివ్య దర్శనం."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Bahuda Pushkarini & Laddu Prasadam",
+        "titleTe": "పుష్కరిణి తీర్థం & లడ్డూ ప్రసాదం",
+        "distance": "120m",
+        "timeMins": 10,
+        "descEn": "Visit the holy river tank and collect fresh Kanipakam laddu prasadam.",
+        "descTe": "బాహుదా తీర్థం మరియు లడ్డూ ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Kanipakam Devasthanam Temple Office",
+        "titleTe": "కాణిపాకం దేవస్థానం సమాచార విభాగం",
+        "number": "08572281540"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "srivari-padalu-spot": {
+    "placeId": "srivari-padalu-spot",
+    "titleEn": "Srivari Paadaalu (Narayanagiri Peak) Precinct Map",
+    "titleTe": "శ్రీవారి పాదాలు (నారాయణగిరి శిఖరం) ప్రాంగణ మ్యాప్",
+    "layoutType": "hilltop-peak",
+    "centerCoordinates": {
+      "lat": 13.679,
+      "lng": 79.3331
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        145,
+        255
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        90
+      ],
+      [
+        380,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Narayanagiri Peak Parking Bay",
+        "nameTe": "నారాయణగిరి శిఖర పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6785,
+        "lng": 79.3325,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Designated vehicle and taxi parking lot atop Narayanagiri hill road.",
+        "descTe": "నారాయణగిరి కొండపై వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Narayanagiri Hilltop Entrance Arch",
+        "nameTe": "నారాయణగిరి కొండపై ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6788,
+        "lng": 79.3328,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Stone archway and paved stairway leading to the highest point of Tirumala.",
+        "descTe": "తిరుమల ఎత్తైన శిఖరానికి వెళ్లే ప్రవేశ మార్గం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.6789,
+        "lng": 79.3327,
+        "svgX": 145,
+        "svgY": 255,
+        "descEn": "Shoe deposit area before ascending the sacred granite steps.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "panoramic-view",
+        "nameEn": "360° Seshachalam Hills & Ananda Nilayam Viewpoint",
+        "nameTe": "360° ఏడుకొండలు & ఆనంద నిలయం వీక్షణ వేదిక",
+        "category": "info",
+        "lat": 13.6791,
+        "lng": 79.3328,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Spectacular 360-degree viewpoint overlooking the entire Seshachalam mountain range and the golden Ananda Nilayam.",
+        "descTe": "తిరుమల కొండలు మరియు ఆనంద నిలయం వీక్షించే అద్భుత వేదిక."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Padala Mandapam (Sacred Divine Footprints)",
+        "nameTe": "శ్రీ పాదాల మండపం (దివ్య శ్రీవారి పాదాలు)",
+        "category": "sanctum",
+        "lat": 13.6793,
+        "lng": 79.3331,
+        "svgX": 270,
+        "svgY": 90,
+        "descEn": "Glass-encased rock footprints where Lord Venkateswara first set foot on Earth in the Kali Yuga. Harathi and theertham are offered here.",
+        "descTe": "కలియుగంలో శ్రీవారు భూమిపై మొదట అడుగుపెట్టిన పవిత్ర శిలా పాదాలు."
+      },
+      {
+        "id": "theertham-prasadam",
+        "nameEn": "Harathi, Theertham & Kumkum Prasadam Counter",
+        "nameTe": "హారతి, తీర్థం & కుంకుమ ప్రసాదం",
+        "category": "laddu",
+        "lat": 13.679,
+        "lng": 79.3335,
+        "svgX": 380,
+        "svgY": 160,
+        "descEn": "Receive blessed harathi blessings, holy theertham, and sacred akshatas from TTD archakas.",
+        "descTe": "పవిత్ర హారతి ఆశీస్సులు మరియు తీర్థ ప్రసాదం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Narayanagiri Peak Arrival & Parking",
+        "titleTe": "నారాయణగిరి శిఖరం చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the Narayanagiri hill parking lot.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Entrance Arch & Footwear Depot",
+        "titleTe": "ప్రవేశ ద్వారం & పాదరక్షల స్టాండ్",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and take the stone steps up the sacred hill.",
+        "descTe": "చెప్పులు విడిచి మెట్లు ఎక్కండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "360° Seshachalam Mountain Viewpoint",
+        "titleTe": "ఏడుకొండల అద్భుత వీక్షణ",
+        "distance": "50m",
+        "timeMins": 5,
+        "descEn": "Enjoy panoramic vistas of the Seven Hills and Tirumala valley.",
+        "descTe": "అందమైన కొండల దృశ్యాలను తిలకించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Srivari Divine Footprints Darshan",
+        "titleTe": "శ్రీవారి దివ్య పాదాల దర్శనం",
+        "distance": "60m",
+        "timeMins": 15,
+        "descEn": "Offer prayers at the sacred glass-protected footprint relic of Lord Balaji.",
+        "descTe": "శ్రీవారి పవిత్ర పాద ముద్రలను దర్శించుకోండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Harathi & Theertha Prasadam",
+        "titleTe": "హారతి & తీర్థ ప్రసాదం",
+        "distance": "40m",
+        "timeMins": 5,
+        "descEn": "Receive sacred harathi, theertham, and kumkum blessings.",
+        "descTe": "హారతి మరియు తీర్థం స్వీకరించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Narayanagiri Security Post",
+        "titleTe": "నారాయణగిరి భద్రతా విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "srivari-mettu-path": {
+    "placeId": "srivari-mettu-path",
+    "titleEn": "Srivari Mettu Footpath Trail Precinct Map",
+    "titleTe": "శ్రీవారి మెట్టు నడక మార్గం ప్రాంగణ మ్యాప్",
+    "layoutType": "trek-trail",
+    "centerCoordinates": {
+      "lat": 13.6338,
+      "lng": 79.3308
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        145,
+        245
+      ],
+      [
+        270,
+        200
+      ],
+      [
+        270,
+        135
+      ],
+      [
+        270,
+        65
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Srivari Mettu Base Parking Plaza",
+        "nameTe": "శ్రీవారి మెట్టు బేస్ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.633,
+        "lng": 79.33,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Spacious four-wheeler, two-wheeler parking, and taxi drop stand at trail base.",
+        "descTe": "నడక మార్గం వద్ద వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Srivari Mettu Path Entrance Arch (Step 1)",
+        "nameTe": "శ్రీవారి మెట్టు ప్రారంభ ద్వారం (మొదటి మెట్టు)",
+        "category": "entry",
+        "lat": 13.6334,
+        "lng": 79.3305,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Sacred entrance archway and the 1st step of the 2,388 steps pedestrian trail to Tirumala.",
+        "descTe": "తిరుమల 2,388 మెట్ల నడక మార్గం ప్రారంభ ద్వారం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free TTD Luggage & Footwear Transfer Depot",
+        "nameTe": "ఉచిత లగేజ్ & పాదరక్షల రవాణా కేంద్రం",
+        "category": "footwear",
+        "lat": 13.6335,
+        "lng": 79.3303,
+        "svgX": 145,
+        "svgY": 245,
+        "descEn": "Free TTD baggage delivery counter that transfers your bags directly to Tirumala hilltop.",
+        "descTe": "ఉచిత లగేజ్ కేంద్రం - మీ బ్యాగులను కొండపైకి చేరవేస్తుంది."
+      },
+      {
+        "id": "token-checkpoint",
+        "nameEn": "Divya Darshanam (SSD) Token & Biometric Checkpoint (Step 500)",
+        "nameTe": "దివ్య దర్శనం టోకెన్ & బయోమెట్రిక్ కౌంటర్ (500వ మెట్టు)",
+        "category": "info",
+        "lat": 13.6337,
+        "lng": 79.3308,
+        "svgX": 270,
+        "svgY": 200,
+        "descEn": "TTD Divya Darshan token issuance & biometric stamping point for walking pilgrims.",
+        "descTe": "పాదచారులకు దివ్య దర్శన టోకెన్లు ఇచ్చే కేంద్రం."
+      },
+      {
+        "id": "rest-mandapam",
+        "nameEn": "Midpoint Resting Pavilion & RO Water Stalls (Step 1,200)",
+        "nameTe": "మధ్య విశ్రాంతి మండపం & తాగునీటి కేంద్రం (1200వ మెట్టు)",
+        "category": "info",
+        "lat": 13.6342,
+        "lng": 79.3312,
+        "svgX": 270,
+        "svgY": 135,
+        "descEn": "Sheltered rest mandapam with free RO drinking water, restrooms, and medical first-aid.",
+        "descTe": "విశ్రాంతి మండపం, తాగునీరు మరియు ప్రథమ చికిత్స కేంద్రం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Tirumala Summit Terminal & Srivari Padalu (Step 2,388)",
+        "nameTe": "తిరుమల కొండపై ముగింపు & శ్రీవారి పాదాలు (2388వ మెట్టు)",
+        "category": "sanctum",
+        "lat": 13.6348,
+        "lng": 79.3318,
+        "svgX": 270,
+        "svgY": 65,
+        "descEn": "Final 2,388th step joining Tirumala ring road, luggage collection center, and Srivari Temple entry.",
+        "descTe": "కొండపై నడక మార్గం ముగింపు మరియు లగేజ్ సేకరణ కేంద్రం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Base Arrival & Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at Srivari Mettu base.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Free Luggage Handover",
+        "titleTe": "లగేజ్ కౌంటర్ వద్ద ఇవ్వడం",
+        "distance": "50m",
+        "timeMins": 3,
+        "descEn": "Deposit heavy bags for free TTD vehicle transfer to Tirumala.",
+        "descTe": "లగేజ్‌ను ఉచిత బస్సు రవాణా కోసం ఇవ్వండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Entrance & Divya Darshan Token (Step 500)",
+        "titleTe": "ప్రారంభం & టోకెన్ పొందడం",
+        "distance": "300m",
+        "timeMins": 15,
+        "descEn": "Pass entrance arch and scan biometric at Step 500.",
+        "descTe": "500వ మెట్టు వద్ద టోకెన్ బయోమెట్రిక్ చేయించుకోండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Midway Rest Mandapam (Step 1,200)",
+        "titleTe": "విశ్రాంతి మండపం (1200వ మెట్టు)",
+        "distance": "800m",
+        "timeMins": 35,
+        "descEn": "Take a short break and refill water bottles.",
+        "descTe": "తాగునీరు తాగి కాసేపు విశ్రాంతి తీసుకోండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Tirumala Summit Arrival (Step 2,388)",
+        "titleTe": "తిరుమల శిఖరం చేరుకోవడం (2388వ మెట్టు)",
+        "distance": "1.0 km",
+        "timeMins": 45,
+        "descEn": "Reach Tirumala summit, collect luggage, and proceed to Srivari Temple.",
+        "descTe": "కొండపై లగేజ్ తీసుకుని శ్రీవారి దర్శనానికి వెళ్ళండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Srivari Mettu Toll / Security Post",
+        "titleTe": "శ్రీవారి మెట్టు భద్రతా విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "srinivasa-mangapuram": {
+    "placeId": "srinivasa-mangapuram",
+    "titleEn": "Sri Kalyana Venkateswara Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ కల్యాణ వేంకటేశ్వర స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.6108,
+      "lng": 79.3277
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        120
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Temple Visitor Parking Complex",
+        "nameTe": "ఆలయ పార్కింగ్ సముదాయం",
+        "category": "parking",
+        "lat": 13.61,
+        "lng": 79.327,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Spacious four-wheeler and two-wheeler parking opposite the temple gopuram.",
+        "descTe": "రాజగోపురం ఎదురుగా ఉన్న వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear & Baggage Counter",
+        "nameTe": "ఉచిత పాదరక్షల భద్రతా కేంద్రం",
+        "category": "footwear",
+        "lat": 13.6106,
+        "lng": 79.3273,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Deposit shoes before entering the holy temple prakaram.",
+        "descTe": "ఆలయ ప్రాంగణంలోకి ప్రవేశించే ముందు చెప్పులు భద్రపరిచే కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Eastern Raja Gopuram Main Entrance",
+        "nameTe": "తూర్పు రాజగోపురం ప్రధాన ప్రవేశం",
+        "category": "entry",
+        "lat": 13.6105,
+        "lng": 79.3275,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Majestic 5-tier ancient Dravidian entrance tower.",
+        "descTe": "భవ్యం మరియు పురాతనమైన 5 అంతస్తుల రాజగోపురం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Balipeetham Flag Mast",
+        "nameTe": "ధ్వజస్తంభం & బలిపీఠం",
+        "category": "info",
+        "lat": 13.6107,
+        "lng": 79.3276,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Golden flag mast offering sashtanga namaskaram before main temple darshan.",
+        "descTe": "ధ్వజస్తంభానికి సాష్టాంగ నమస్కారం ఆచరించే స్థలం."
+      },
+      {
+        "id": "padmavathi-shrine",
+        "nameEn": "Sri Padmavathi Devi Sub-Shrine",
+        "nameTe": "శ్రీ పద్మావతి అమ్మవారి ఉపాలయం",
+        "category": "info",
+        "lat": 13.6109,
+        "lng": 79.3274,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Shrine of Divine Mother Padmavathi in the inner parikrama corridor.",
+        "descTe": "ప్రాకార మండపంలో ఉన్న శ్రీ పద్మావతి దేవి సన్నిధి."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Kalyana Venkateswara Swamy Garbhalayam",
+        "nameTe": "శ్రీ కల్యాణ వేంకటేశ్వర స్వామి మూలవిరాట్టు",
+        "category": "sanctum",
+        "lat": 13.611,
+        "lng": 79.3277,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Presiding deity standing in grand Kalyana posture where Lord Venkateswara stayed after marriage. Devotees receive sacred Kalyana Kankanam.",
+        "descTe": "కల్యాణ వైభవ రూపంలో స్వామివారి దర్శనం - కల్యాణ కంకణాల ఆశీస్సులు."
+      },
+      {
+        "id": "ranganatha-shrine",
+        "nameEn": "Sri Ranganatha Swamy Shrine",
+        "nameTe": "శ్రీ రంగనాథ స్వామి సన్నిధి",
+        "category": "info",
+        "lat": 13.6109,
+        "lng": 79.328,
+        "svgX": 395,
+        "svgY": 120,
+        "descEn": "Sub-shrine dedicated to Lord Ranganatha in resting posture.",
+        "descTe": "శ్రీ రంగనాథ స్వామి వారి ఉపాలయం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Kalyana Kankanam & TTD Laddu Prasadam Counter",
+        "nameTe": "కల్యాణ కంకణం & లడ్డూ ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.6107,
+        "lng": 79.3279,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Collect sacred wedding thread (Kankanam) and fresh TTD laddu prasadam.",
+        "descTe": "స్వామివారి కల్యాణ కంకణం మరియు లడ్డూ ప్రసాదం పొందే కౌంటర్."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Temple Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle in front of the Raja Gopuram.",
+        "descTe": "రాజగోపురం ఎదురుగా వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram Entrance & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల కేంద్రం",
+        "distance": "50m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the 5-tier Gopuram.",
+        "descTe": "చెప్పులు విడిచి రాజగోపురం గుండా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Padmavathi Shrine",
+        "titleTe": "ధ్వజస్తంభం & పద్మావతి అమ్మవారి సన్నిధి",
+        "distance": "80m",
+        "timeMins": 5,
+        "descEn": "Offer prayers at the flag mast and visit Mother Padmavathi shrine.",
+        "descTe": "ధ్వజస్తంభ నమస్కారం మరియు అమ్మవారి దర్శనం."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Kalyana Venkateswara Swamy Darshan",
+        "titleTe": "శ్రీ కల్యాణ వేంకటేశ్వర స్వామి దర్శనం",
+        "distance": "100m",
+        "timeMins": 15,
+        "descEn": "Receive darshan of the Lord in divine wedding form and blessed Kalyana Kankanam in the main temple.",
+        "descTe": "స్వామివారి కల్యాణ వైభవ దర్శనం మరియు కల్యాణ కంకణాలు."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Ranganatha Shrine & Laddu Prasadam Counter",
+        "titleTe": "రంగనాథ సన్నిధి & లడ్డూ ప్రసాదం",
+        "distance": "120m",
+        "timeMins": 5,
+        "descEn": "Visit Sri Ranganatha Swamy and collect fresh TTD laddu prasadam.",
+        "descTe": "శ్రీ రంగనాథ స్వామి దర్శనం మరియు లడ్డూ ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Srinivasa Mangapuram Temple Office",
+        "titleTe": "శ్రీనివాస మంగాపురం ఆలయ విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "appalayagunta-temple": {
+    "placeId": "appalayagunta-temple",
+    "titleEn": "Sri Prasanna Venkateswara Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ ప్రసన్న వేంకటేశ్వర స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.5373701,
+      "lng": 79.4776129
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        120
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Appalayagunta Temple Parking",
+        "nameTe": "అప్పలాయగుంట పార్కింగ్",
+        "category": "parking",
+        "lat": 13.5368,
+        "lng": 79.4772,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Parking area in front of the temple complex.",
+        "descTe": "ఆలయం ఎదురుగా ఉన్న పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Counter",
+        "nameTe": "పాదరక్షల కౌంటర్",
+        "category": "footwear",
+        "lat": 13.5372,
+        "lng": 79.4773,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Deposit shoes before entering.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Raja Gopuram Entrance",
+        "nameTe": "రాజగోపురం ప్రవేశం",
+        "category": "entry",
+        "lat": 13.5371,
+        "lng": 79.4774,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Ancient Dravidian temple entrance gopuram.",
+        "descTe": "ఆలయ ప్రధాన రాజగోపురం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham Flag Mast",
+        "nameTe": "ధ్వజస్తంభం",
+        "category": "info",
+        "lat": 13.5373,
+        "lng": 79.4775,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred temple flag mast in the outer courtyard.",
+        "descTe": "ఆలయ ధ్వజస్తంభం."
+      },
+      {
+        "id": "anjaneya-shrine",
+        "nameEn": "Sri Anjaneya Swamy Sub-Shrine (Miraculous Healer)",
+        "nameTe": "శ్రీ ఆంజనేయ స్వామి సన్నిధి (వ్యాధి నివారణ)",
+        "category": "info",
+        "lat": 13.5374,
+        "lng": 79.4774,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Powerful Hanuman shrine famous for granting relief from chronic diseases and distress.",
+        "descTe": "వ్యాధి నివారణ ప్రసిద్ధి చెందిన శ్రీ హనుమాన్ సన్నిధి."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Prasanna Venkateswara Swamy Garbhalayam (Abhaya Hasta)",
+        "nameTe": "శ్రీ ప్రసన్న వేంకటేశ్వర స్వామి (అభయ హస్తం)",
+        "category": "sanctum",
+        "lat": 13.5373701,
+        "lng": 79.4776129,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Presiding deity in unique Abhaya Hasta (blessing) posture.",
+        "descTe": "అభయ హస్త ముద్రలో దర్శనమిచ్చే స్వామివారి మూలవిరాట్టు."
+      },
+      {
+        "id": "padmavathi-shrine",
+        "nameEn": "Sri Padmavathi Ammavari Shrine",
+        "nameTe": "శ్రీ పద్మావతి అమ్మవారి సన్నిధి",
+        "category": "info",
+        "lat": 13.5375,
+        "lng": 79.4778,
+        "svgX": 395,
+        "svgY": 120,
+        "descEn": "Sub-shrine for Sri Padmavathi Devi.",
+        "descTe": "శ్రీ పద్మావతి అమ్మవారి ఆలయం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "TTD Prasadam Counter",
+        "nameTe": "టీటీడీ ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.5372,
+        "lng": 79.4777,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Fresh laddu and pulihora prasadam counter.",
+        "descTe": "లడ్డూ మరియు పులిహోర ప్రసాదం కౌంటర్."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Temple Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle in front of the temple complex.",
+        "descTe": "ఆలయం ఎదురుగా వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల కేంద్రం",
+        "distance": "50m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter through the ancient Gopuram.",
+        "descTe": "చెప్పులు విడిచి రాజగోపురం గుండా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Anjaneya Shrine",
+        "titleTe": "ధ్వజస్తంభం & ఆంజనేయ స్వామి సన్నిధి",
+        "distance": "80m",
+        "timeMins": 5,
+        "descEn": "Offer prayers at the flag mast and visit the miraculous Anjaneya Swamy.",
+        "descTe": "ధ్వజస్తంభ నమస్కారం మరియు హనుమాన్ దర్శనం."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Prasanna Venkateswara Swamy Darshan",
+        "titleTe": "శ్రీ ప్రసన్న వేంకటేశ్వర స్వామి దర్శనం",
+        "distance": "100m",
+        "timeMins": 15,
+        "descEn": "Receive darshan of the Lord in Abhaya Hasta posture inside the main temple.",
+        "descTe": "స్వామివారి దివ్య దర్శనం."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Padmavathi Shrine & Prasadam Counter",
+        "titleTe": "పద్మావతి సన్నిధి & ప్రసాదం",
+        "distance": "120m",
+        "timeMins": 5,
+        "descEn": "Visit Mother Padmavathi and collect TTD prasadam.",
+        "descTe": "అమ్మవారి దర్శనం మరియు ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Appalayagunta Temple Office",
+        "titleTe": "అప్పలాయగుంట ఆలయ విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "sree-padmagiri-subramanya": {
+    "placeId": "sree-padmagiri-subramanya",
+    "titleEn": "Sri Padmagiri Balagnana Dandayudhapani Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ పద్మగిరి బాలజ్ఞాన దండాయుధపాణి స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.5851949,
+      "lng": 79.4314015
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        145,
+        125
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        140
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Padmagiri Hill Base Parking",
+        "nameTe": "పద్మగిరి కొండ దిగువన పార్కింగ్",
+        "category": "parking",
+        "lat": 13.5846,
+        "lng": 79.4308,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Shaded vehicle parking area at the base of Padmagiri hill.",
+        "descTe": "కొండ దిగువన ఉన్న వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.585,
+        "lng": 79.4309,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Shoe custody counter near temple gateway.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Hilltop Entrance Raja Gopuram & Steps",
+        "nameTe": "కొండపై రాజగోపురం & మెట్ల మార్గం",
+        "category": "entry",
+        "lat": 13.5849,
+        "lng": 79.4311,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Sacred entrance archway atop the hill overlooking Thanapalli.",
+        "descTe": "కొండపై ఆలయ ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Mayura (Peacock) Vahanam",
+        "nameTe": "ధ్వజస్తంభం & మయూర వాహనం",
+        "category": "info",
+        "lat": 13.5851,
+        "lng": 79.4312,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast and Lord Murugan's divine Peacock vehicle in the courtyard.",
+        "descTe": "మయూర వాహన మండపం మరియు పవిత్ర ధ్వజస్తంభం."
+      },
+      {
+        "id": "shatkona-peetham",
+        "nameEn": "Shatkona Yantra Peetham & Navagraha Shrine",
+        "nameTe": "షట్కోణ యంత్ర పీఠం & నవగ్రహ సన్నిధి",
+        "category": "info",
+        "lat": 13.5852,
+        "lng": 79.431,
+        "svgX": 145,
+        "svgY": 125,
+        "descEn": "Mystic hexagonal Shatkona Yantra established by Sri Ganapathi Swamy.",
+        "descTe": "శ్రీ గణపతి స్వామి స్థాపించిన మహిమాన్విత షట్కోణ యంత్ర పీఠం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Balagnana Dandayudhapani Swamy Garbhalayam",
+        "nameTe": "శ్రీ బాలజ్ఞాన దండాయుధపాణి స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.5851949,
+        "lng": 79.4314015,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Lord Murugan worshipped in celibate Balagnana Dandayudhapani posture holding the divine Vel/Danda.",
+        "descTe": "బాల మురుగన్ (దండాయుధపాణి) దివ్య మూలవిరాట్టు దర్శనం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Vibhuti & Panchamrutham Prasadam Counter",
+        "nameTe": "విభూతి & పంచామృతం ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.5851,
+        "lng": 79.4317,
+        "svgX": 395,
+        "svgY": 140,
+        "descEn": "Collect consecrated Vibhuti and Palani-style holy Panchamrutham prasadam.",
+        "descTe": "పవిత్ర విభూతి మరియు పంచామృత ప్రసాదం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Padmagiri Hill Arrival & Parking",
+        "titleTe": "పద్మగిరి కొండ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the base of the Thanapalli hill.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Hill Steps & Raja Gopuram Entrance",
+        "titleTe": "మెట్లు & రాజగోపురం ప్రవేశం",
+        "distance": "40m",
+        "timeMins": 3,
+        "descEn": "Ascend the steps, deposit footwear, and enter the temple courtyard.",
+        "descTe": "మెట్లు ఎక్కి చెప్పులు విడిచి గోపురం గుండా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Shatkona Yantra Peetham",
+        "titleTe": "ధ్వజస్తంభం & షట్కోణ యంత్రం",
+        "distance": "60m",
+        "timeMins": 5,
+        "descEn": "Offer prayers at the Peacock vehicle and meditate at the mystical Shatkona Yantra.",
+        "descTe": "మయూర వాహనం మరియు షట్కోణ యంత్రాన్ని దర్శించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Balagnana Dandayudhapani Main Temple Darshan",
+        "titleTe": "శ్రీ దండాయుధపాణి స్వామి దర్శనం",
+        "distance": "80m",
+        "timeMins": 15,
+        "descEn": "Receive the powerful blessings of Lord Subramanya Swamy holding the divine Vel.",
+        "descTe": "స్వామివారి దివ్య దర్శనం మరియు ఆశీస్సులు."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Vibhuti & Panchamrutham Prasadam",
+        "titleTe": "విభూతి & పంచామృతం",
+        "distance": "60m",
+        "timeMins": 5,
+        "descEn": "Collect blessed Vibhuti and holy Panchamrutham.",
+        "descTe": "పవిత్ర విభూతి ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Padmagiri Temple Information Office",
+        "titleTe": "పద్మగిరి ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "vakula-matha": {
+    "placeId": "vakula-matha",
+    "titleEn": "Sri Vakula Matha Temple (Perur Banda) Precinct Map",
+    "titleTe": "శ్రీ వకుళమాత ఆలయం (పేరూరు బండ) ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.5995,
+      "lng": 79.3691
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Perur Banda Hill Parking Bay",
+        "nameTe": "పేరూరు బండ కొండ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.599,
+        "lng": 79.3685,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Vehicle parking area at the base and summit of Perur hill.",
+        "descTe": "కొండ దిగువన మరియు పైభాగంలో ఉన్న పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Custody Stand",
+        "nameTe": "పాదరక్షల భద్రతా స్టాండ్",
+        "category": "footwear",
+        "lat": 13.5994,
+        "lng": 79.3687,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Shoe custody counter near temple gateway.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Hilltop Raja Gopuram Entrance",
+        "nameTe": "కొండపై రాజగోపురం ప్రధాన ప్రవేశం",
+        "category": "entry",
+        "lat": 13.5993,
+        "lng": 79.3688,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Magnificent entrance gopuram offering panoramic views of Tirupati valley.",
+        "descTe": "అందమైన లోయ దృశ్యాలతో కూడిన రాజగోపురం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham Flag Mast",
+        "nameTe": "ధ్వజస్తంభం",
+        "category": "info",
+        "lat": 13.5995,
+        "lng": 79.369,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast facing the mother deity.",
+        "descTe": "ఆలయ ప్రాంగణంలోని పవిత్ర ధ్వజస్తంభం."
+      },
+      {
+        "id": "seven-hills-view",
+        "nameEn": "Seven Hills & Ananda Nilayam Viewpoint Balcony",
+        "nameTe": "ఏడుకొండలు & ఆనంద నిలయం వీక్షణ బాల్కనీ",
+        "category": "info",
+        "lat": 13.5996,
+        "lng": 79.3688,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Sacred balcony facing northeast where Mother Vakula gazes lovingly towards Tirumala Seven Hills.",
+        "descTe": "వకుళమాత తన కుమారుడైన శ్రీవారిని వీక్షించే దివ్య కోణం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Vakula Matha Garbhalayam (Mother of Lord Venkateswara)",
+        "nameTe": "శ్రీ వకుళమాత మూలవిరాట్టు (గర్భాలయం)",
+        "category": "sanctum",
+        "lat": 13.5997,
+        "lng": 79.3691,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Presiding deity of Mother Vakula Devi (Yashoda in Dwapara Yuga). Temple bell rings here first before Tirumala Naivedyam.",
+        "descTe": "స్వామివారికి మాతృమూర్తి అయిన వకుళమాత దివ్య దర్శనం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Kumkum Archana & TTD Sweet Prasadam Counter",
+        "nameTe": "కుంకుమార్చన & ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.5995,
+        "lng": 79.3694,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Blessed kumkum, sacred yellow thread, and TTD sweet prasadam.",
+        "descTe": "అమ్మవారి పవిత్ర కుంకుమ మరియు ప్రసాదాలు."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Perur Hill Arrival & Parking",
+        "titleTe": "పేరూరు కొండ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the Perur Banda hill parking lot.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram Entrance & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల స్టాండ్",
+        "distance": "40m",
+        "timeMins": 2,
+        "descEn": "Deposit shoes and enter the scenic hilltop courtyard.",
+        "descTe": "చెప్పులు విడిచి రాజగోపురం ద్వారా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Seven Hills View Balcony",
+        "titleTe": "ధ్వజస్తంభం & ఏడుకొండల వీక్షణ",
+        "distance": "60m",
+        "timeMins": 5,
+        "descEn": "Offer prayers at the flag mast and gaze towards Tirumala Seven Hills.",
+        "descTe": "ధ్వజస్తంభ దర్శనం మరియు ఏడుకొండలను తిలకించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Vakula Matha Main Shrine Darshan",
+        "titleTe": "శ్రీ వకుళమాత దివ్య దర్శనం",
+        "distance": "80m",
+        "timeMins": 15,
+        "descEn": "Seek the unconditional maternal blessings of Sri Vakula Devi.",
+        "descTe": "శ్రీవారి మాతృమూర్తి ఆశీస్సులు పొందండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Kumkum Archana & Prasadam",
+        "titleTe": "కుంకుమార్చన & ప్రసాదం",
+        "distance": "60m",
+        "timeMins": 5,
+        "descEn": "Collect blessed kumkum and sweet prasadam.",
+        "descTe": "పవిత్ర కుంకుమ మరియు ప్రసాదం స్వీకరించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Vakulamatha Temple Office",
+        "titleTe": "వకుళమాత ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "agastheeshwara": {
+    "placeId": "agastheeshwara",
+    "titleEn": "Sri Agastheeswara Swamy Temple (Mukkoti) Precinct Map",
+    "titleTe": "శ్రీ అగస్త్యేశ్వర స్వామి ఆలయం (ముక్కోటి) ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.5968,
+      "lng": 79.3411
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        120
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Mukkoti Riverside Parking Bay",
+        "nameTe": "ముక్కోటి నదీతీర పార్కింగ్",
+        "category": "parking",
+        "lat": 13.5962,
+        "lng": 79.3405,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Shaded vehicle parking area along the Swarnamukhi river approach.",
+        "descTe": "స్వర్ణముఖి నది సమీపంలోని వాహనాల పార్కింగ్ ప్రదేశం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.5966,
+        "lng": 79.3407,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Shoe custody counter near temple entrance.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Eastern Raja Gopuram Main Entrance",
+        "nameTe": "తూర్పు రాజగోపురం ప్రధాన ప్రవేశం",
+        "category": "entry",
+        "lat": 13.5965,
+        "lng": 79.3408,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Historic stone entrance tower leading into Sage Agastya’s temple courtyard.",
+        "descTe": "అగస్త్య మహర్షి స్థాపించిన ప్రాచీన ఆలయ ముఖద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Nandi Mandapam",
+        "nameTe": "ధ్వజస్తంభం & నంది మండపం",
+        "category": "info",
+        "lat": 13.5967,
+        "lng": 79.341,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred stone Nandi facing the Shiva shrine and golden flag mast.",
+        "descTe": "శివుని అభిముఖంగా ఉన్న పవిత్ర నందీశ్వరుడు మరియు ధ్వజస్తంభం."
+      },
+      {
+        "id": "anandavalli-shrine",
+        "nameEn": "Sri Anandavalli Ammavari (Parvathi) Shrine",
+        "nameTe": "శ్రీ ఆనందవల్లి అమ్మవారి సన్నిధి",
+        "category": "info",
+        "lat": 13.5969,
+        "lng": 79.3408,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "South-facing shrine of Divine Mother Parvathi (Sri Anandavalli).",
+        "descTe": "పార్వతీ దేవి (ఆనందవల్లి తాయారు) పవిత్ర ఉపాలయం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Agastheeswara Shiva Lingam Garbhalayam",
+        "nameTe": "శ్రీ అగస్త్యేశ్వర స్వామి (శివలింగ గర్భాలయం)",
+        "category": "sanctum",
+        "lat": 13.597,
+        "lng": 79.3411,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Sacred Shiva Lingam consecrated by Sage Agastya, worshipped daily by Lord Venkateswara after his marriage.",
+        "descTe": "అగస్త్య మహర్షి ప్రతిష్టించిన శివలింగం - శ్రీవారు నిత్యం పూజించిన పవిత్ర సన్నిధి."
+      },
+      {
+        "id": "sangamam-ghat",
+        "nameEn": "Triveni Sangamam (Three Rivers Confluence Ghats)",
+        "nameTe": "త్రివేణి సంగమం (స్వర్ణముఖి, కళ్యాణి, భీమ నదుల సంగమ ఘాట్)",
+        "category": "info",
+        "lat": 13.5969,
+        "lng": 79.3414,
+        "svgX": 395,
+        "svgY": 120,
+        "descEn": "Sacred bathing ghat where Swarnamukhi, Kalyani, and Bhima rivers merge.",
+        "descTe": "మూడు పవిత్ర నదులు కలిసే పుణ్యస్నాన ఘాట్."
+      },
+      {
+        "id": "bilva-counter",
+        "nameEn": "Bilva Archana & Vibhuti Prasadam Counter",
+        "nameTe": "బిల్వార్చన & విభూతి ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.5967,
+        "lng": 79.3413,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Collect sacred holy ash (Vibhuti) and consecrated Bilva leaves.",
+        "descTe": "పవిత్ర విభూతి మరియు బిల్వ ప్రసాదాలు."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Riverside Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle along the peaceful Swarnamukhi river road.",
+        "descTe": "నదీతీరంలో వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Raja Gopuram Entrance & Footwear",
+        "titleTe": "రాజగోపురం & పాదరక్షల కేంద్రం",
+        "distance": "50m",
+        "timeMins": 2,
+        "descEn": "Leave footwear and enter through the stone gateway.",
+        "descTe": "చెప్పులు విడిచి రాజగోపురం ద్వారా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Dhwajasthambham & Nandi Namaskaram",
+        "titleTe": "ధ్వజస్తంభం & నందీశ్వర దర్శనం",
+        "distance": "80m",
+        "timeMins": 5,
+        "descEn": "Seek blessings from Lord Nandi and flag mast.",
+        "descTe": "నందీశ్వరుడిని, ధ్వజస్తంభాన్ని దర్శించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Agastheeswara Swamy & Anandavalli Darshan",
+        "titleTe": "అగస్త్యేశ్వర & ఆనందవల్లి దర్శనం",
+        "distance": "100m",
+        "timeMins": 15,
+        "descEn": "Receive darshan of Sage Agastya's Shiva Lingam and Mother Anandavalli in the main temple.",
+        "descTe": "పవిత్ర శివలింగం మరియు అమ్మవారి దివ్య దర్శనం."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Triveni Sangamam View & Vibhuti Prasadam",
+        "titleTe": "త్రివేణి సంగమం & ప్రసాదం",
+        "distance": "120m",
+        "timeMins": 10,
+        "descEn": "Visit the 3-river confluence point and collect blessed Vibhuti.",
+        "descTe": "త్రివేణి సంగమ ఘాట్ వీక్షించి విభూతి ప్రసాదం పొందండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Agastheeswara Temple Information",
+        "titleTe": "అగస్త్యేశ్వర ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "narayanavanam-waterfalls": {
+    "placeId": "narayanavanam-waterfalls",
+    "titleEn": "Narayanavanam Waterfalls Precinct Map",
+    "titleTe": "నారాయణవనం జలపాతం ప్రాంగణ మ్యాప్",
+    "layoutType": "hill-waterfall",
+    "centerCoordinates": {
+      "lat": 13.435,
+      "lng": 79.62
+    },
+    "routePath": [
+      [
+        420,
+        265
+      ],
+      [
+        135,
+        215
+      ],
+      [
+        270,
+        250
+      ],
+      [
+        270,
+        135
+      ],
+      [
+        270,
+        70
+      ],
+      [
+        385,
+        95
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Trailhead Parking Bay",
+        "nameTe": "పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.434,
+        "lng": 79.6208,
+        "svgX": 420,
+        "svgY": 265,
+        "descEn": "Parking for cars and bikes at the forest valley entrance.",
+        "descTe": "వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "shelter",
+        "nameEn": "Rest Shelter & Changing Rooms",
+        "nameTe": "విశ్రాంతి గది & సదుపాయాలు",
+        "category": "info",
+        "lat": 13.4344,
+        "lng": 79.6195,
+        "svgX": 135,
+        "svgY": 215,
+        "descEn": "Forest rest shelter, washrooms, and dress changing rooms.",
+        "descTe": "సందర్శకుల విశ్రాంతి మరియు బట్టలు మార్చుకునే గదులు."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Forest Trailhead Checkpost",
+        "nameTe": "అటవీ మార్గం ప్రవేశ ద్వారం",
+        "category": "entry",
+        "lat": 13.4346,
+        "lng": 79.6202,
+        "svgX": 270,
+        "svgY": 250,
+        "descEn": "Forest department entry checkpoint and trail start.",
+        "descTe": "అటవీ విభాగం ప్రవేశం మరియు ట్రయల్ ప్రారంభం."
+      },
+      {
+        "id": "pool",
+        "nameEn": "Natural Theertham Pool (Kund)",
+        "nameTe": "సహజ తీర్థం మరియు కుండం",
+        "category": "sanctum",
+        "lat": 13.4352,
+        "lng": 79.62,
+        "svgX": 270,
+        "svgY": 135,
+        "descEn": "Clear natural plunge pool formed by sacred cascading waters.",
+        "descTe": "జలపాతం కింద ఏర్పడిన సహజ స్నాన ఘట్టం."
+      },
+      {
+        "id": "falls",
+        "nameEn": "Main Waterfalls Cascade",
+        "nameTe": "ప్రధాన జలపాతం",
+        "category": "info",
+        "lat": 13.4356,
+        "lng": 79.62,
+        "svgX": 270,
+        "svgY": 70,
+        "descEn": "Perennial sacred waterfalls originating from the Seshachalam forest hill range.",
+        "descTe": "కొండల పైనుంచి దూకే మనోహరమైన జలపాతం."
+      },
+      {
+        "id": "viewpoint",
+        "nameEn": "Canopy Observation Deck",
+        "nameTe": "వ్యూ పాయింట్ & అబ్జర్వేషన్ డెక్",
+        "category": "info",
+        "lat": 13.4354,
+        "lng": 79.6206,
+        "svgX": 385,
+        "svgY": 95,
+        "descEn": "Scenic photography viewpoint overlooking the waterfalls and forest valley.",
+        "descTe": "జలపాతం మరియు పచ్చని లోయను చూసే సుందరమైన వ్యూ పాయింట్."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Forest Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the trailhead.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Forest Checkpoint & Trail Entry",
+        "titleTe": "ట్రయల్ ప్రవేశం",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Pass forest entry gate and follow the shaded pathway.",
+        "descTe": "అటవీ మార్గంలోకి అడుగుపెట్టండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Rest Shelter & Changing Sheds",
+        "titleTe": "విశ్రాంతి కేంద్రం",
+        "distance": "50m",
+        "timeMins": 3,
+        "descEn": "Rest area and visitor facilities.",
+        "descTe": "విశ్రాంతి సదుపాయాలు ఉపయోగించుకోండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Natural Theertham Pool & Waterfalls",
+        "titleTe": "జలపాతం & తీర్థ స్నానం",
+        "distance": "120m",
+        "timeMins": 15,
+        "descEn": "Reach the pristine waterfalls and pool.",
+        "descTe": "పవిత్ర జలపాతం చేరుకోండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Canopy Viewpoint & Photography",
+        "titleTe": "వ్యూ పాయింట్ దర్శనం",
+        "distance": "80m",
+        "timeMins": 10,
+        "descEn": "Enjoy panoramic views of the green gorge.",
+        "descTe": "ప్రకృతి అందాలను వీక్షించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Forest Range Office",
+        "titleTe": "అటవీ రేంజ్ కార్యాలయం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "moolasthana-yellamma-chandragiri": {
+    "placeId": "moolasthana-yellamma-chandragiri",
+    "titleEn": "Sri Moolasthana Yellamma Temple Precinct Map",
+    "titleTe": "శ్రీ మూలస్థాన ఎల్లమ్మ ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.5843325,
+      "lng": 79.3158065
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        120
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Yellamma Temple Parking",
+        "nameTe": "ఆలయ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.5838,
+        "lng": 79.3155,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Vehicle parking space near the main temple arch.",
+        "descTe": "ఆలయ ముఖద్వారం వద్ద పార్కింగ్."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear Stand",
+        "nameTe": "ఉచిత పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.5841,
+        "lng": 79.3154,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Designated shoe stand before entering inner courtyard.",
+        "descTe": "ఉచిత చెప్పుల కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Temple Entrance Arch & Gopuram",
+        "nameTe": "ఆలయ ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.584,
+        "lng": 79.3157,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Main entrance arch to the sacred Shakti temple.",
+        "descTe": "శ్రీ ఎల్లమ్మ ఆలయ ప్రధాన ప్రవేశం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Trisulam",
+        "nameTe": "ధ్వజస్తంభం & త్రిశూలం",
+        "category": "info",
+        "lat": 13.5842,
+        "lng": 79.5826,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast and consecrated divine Trisulam of Goddess Shakti.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం మరియు శక్త్యాయుధం."
+      },
+      {
+        "id": "neem-tree",
+        "nameEn": "Sacred Consecrated Neem Tree",
+        "nameTe": "పవిత్ర వేపవృక్ష ప్రదక్షిణ",
+        "category": "info",
+        "lat": 13.5843,
+        "lng": 79.3156,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Centuries-old holy neem tree where Sage Agastya consecrated Mother Yellamma for healing.",
+        "descTe": "అగస్త్య మహర్షి ప్రతిష్టించిన దివ్య వేపచెట్టు మరియు ప్రదక్షిణ స్థలం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Moolasthana Yellamma Devi Main Shrine",
+        "nameTe": "శ్రీ మూలస్థాన ఎల్లమ్మ దేవి మూలవిరాట్",
+        "category": "sanctum",
+        "lat": 13.5844,
+        "lng": 79.3158,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Powerful ancient Moolasthana Shakti shrine renowned for healing and protection.",
+        "descTe": "ఆరోగ్యం, రక్షణ ప్రసాదించే మూలస్థాన ఎల్లమ్మ అమ్మవారి దివ్య గర్భాలయం."
+      },
+      {
+        "id": "ashta-lakshmi",
+        "nameEn": "Ashta Lakshmi & Navagraha Shrine",
+        "nameTe": "అష్టలక్ష్మి & నవగ్రహ సన్నిధి",
+        "category": "info",
+        "lat": 13.5845,
+        "lng": 79.316,
+        "svgX": 395,
+        "svgY": 120,
+        "descEn": "Sub-shrine for Ashta Lakshmis and Navagraha deities.",
+        "descTe": "అష్టలక్ష్మి మరియు నవగ్రహ మండపం."
+      },
+      {
+        "id": "prasadam",
+        "nameEn": "Kumkuma & Teertham Counter",
+        "nameTe": "కుంకుమ & ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.5841,
+        "lng": 79.3159,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "Blessed turmeric, kumkum, and temple prasadam.",
+        "descTe": "అమ్మవారి కుంకుమ మరియు ప్రసాద వితరణ."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle near Chandragiri bus stand.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Entrance & Footwear",
+        "titleTe": "ప్రవేశం & పాదరక్షలు",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Leave footwear and enter main gate.",
+        "descTe": "చెప్పులు విడిచి ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Sacred Neem Tree Pradakshina",
+        "titleTe": "వేపచెట్టు ప్రదక్షిణ",
+        "distance": "50m",
+        "timeMins": 5,
+        "descEn": "Perform pradakshina around the holy neem tree.",
+        "descTe": "పవిత్ర వేపచెట్టుకు ప్రదక్షిణ చేయండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Moolasthana Yellamma Devi Darshan",
+        "titleTe": "శ్రీ ఎల్లమ్మ దర్శనం",
+        "distance": "80m",
+        "timeMins": 15,
+        "descEn": "Seek blessings of Mother Yellamma in the main shrine.",
+        "descTe": "అమ్మవారి మూలవిరాట్ దర్శనం చేసుకోండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Kumkum & Prasadam Collection",
+        "titleTe": "కుంకుమ ప్రసాదం",
+        "distance": "60m",
+        "timeMins": 5,
+        "descEn": "Receive blessed kumkuma prasadam.",
+        "descTe": "కుంకుమ ప్రసాదం స్వీకరించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Yellamma Temple Information Office",
+        "titleTe": "ఎల్లమ్మ ఆలయ సమాచార విభాగం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "kailasa-kona": {
+    "placeId": "kailasa-kona",
+    "titleEn": "Kailasa Kona Falls Precinct Map",
+    "titleTe": "కైలాస కోన జలపాతం ప్రాంగణ మ్యాప్",
+    "layoutType": "hill-waterfall",
+    "centerCoordinates": {
+      "lat": 13.3882826,
+      "lng": 79.6330908
+    },
+    "routePath": [
+      [
+        420,
+        265
+      ],
+      [
+        135,
+        215
+      ],
+      [
+        270,
+        250
+      ],
+      [
+        270,
+        135
+      ],
+      [
+        270,
+        70
+      ],
+      [
+        385,
+        95
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Trailhead Parking Bay",
+        "nameTe": "పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.3875,
+        "lng": 79.6335,
+        "svgX": 420,
+        "svgY": 265,
+        "descEn": "Parking for cars, tourist cabs, and 2-wheelers at Puttur road trailhead.",
+        "descTe": "వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "shelter",
+        "nameEn": "Rest Shelter & Changing Sheds",
+        "nameTe": "విశ్రాంతి కేంద్రం & బట్టలు మార్చుకునే గదులు",
+        "category": "info",
+        "lat": 13.3878,
+        "lng": 79.6325,
+        "svgX": 135,
+        "svgY": 215,
+        "descEn": "Forest rest shelter and separate dress changing sheds for men and women.",
+        "descTe": "విశ్రాంతి కేంద్రం మరియు డ్రెస్సింగ్ రూములు."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Forest Entry & Ticket Checkpoint",
+        "nameTe": "అటవీ ముఖద్వారం & టికెట్ కౌంటర్",
+        "category": "entry",
+        "lat": 13.388,
+        "lng": 79.633,
+        "svgX": 270,
+        "svgY": 250,
+        "descEn": "Forest department entry ticket gate and starting point of the gorge path.",
+        "descTe": "ప్రవేశ ద్వారం మరియు టికెట్ కేంద్రం."
+      },
+      {
+        "id": "pool",
+        "nameEn": "Kailasanatheswara Holy Kund (Theertham)",
+        "nameTe": "కైలాసనాథ పవిత్ర తీర్థ కుండం",
+        "category": "sanctum",
+        "lat": 13.3883,
+        "lng": 79.6331,
+        "svgX": 270,
+        "svgY": 135,
+        "descEn": "Sacred crystal mineral water plunge pool where Lord Shiva meditated after the divine wedding.",
+        "descTe": "శివుడు తపస్సు చేసిన పవిత్ర ఖనిజ జలాల స్నాన ఘట్టం."
+      },
+      {
+        "id": "falls",
+        "nameEn": "Kailasa Kona Main Waterfalls (40 ft)",
+        "nameTe": "కైలాస కోన ప్రధాన జలపాతం",
+        "category": "info",
+        "lat": 13.3886,
+        "lng": 79.6331,
+        "svgX": 270,
+        "svgY": 70,
+        "descEn": "Perennial 40-foot mountain waterfall rich in medicinal minerals.",
+        "descTe": "40 అడుగుల ఎత్తు నుండి జాలువారే ఔషధ జలపాతం."
+      },
+      {
+        "id": "viewpoint",
+        "nameEn": "Scenic Rock Viewpoint & Shiva Sannidhi",
+        "nameTe": "వ్యూ పాయింట్ & శివ సన్నిధి",
+        "category": "info",
+        "lat": 13.3885,
+        "lng": 79.6338,
+        "svgX": 385,
+        "svgY": 95,
+        "descEn": "Small cave shrine of Lord Shiva and panoramic view of the rocky waterfall gorge.",
+        "descTe": "శివుని సన్నిధి మరియు జలపాత లోయ దృశ్యం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the Puttur highway entry.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Forest Ticket Gate & Pathway",
+        "titleTe": "టికెట్ కౌంటర్ & ప్రవేశం",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Get entry ticket and take the shaded hill path.",
+        "descTe": "టికెట్ తీసుకుని అటవీ మార్గంలోకి వెళ్లండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Rest Shelter & Changing Facilities",
+        "titleTe": "విశ్రాంతి గది",
+        "distance": "50m",
+        "timeMins": 3,
+        "descEn": "Visitor changing facilities.",
+        "descTe": "విశ్రాంతి సదుపాయాలు."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Kailasa Kona Theertham & Waterfalls",
+        "titleTe": "జలపాతం & తీర్థ స్నానం",
+        "distance": "120m",
+        "timeMins": 15,
+        "descEn": "Take a refreshing dip in the crystal waterfall pool.",
+        "descTe": "ఔషధ జలపాత స్నానం ఆస్వాదించండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Shiva Cave Shrine & Viewpoint",
+        "titleTe": "శివ సన్నిధి & వ్యూ పాయింట్",
+        "distance": "60m",
+        "timeMins": 10,
+        "descEn": "Offer prayers at the ancient Shiva shrine.",
+        "descTe": "శివలింగాన్ని దర్శించి ప్రకృతిని ఆస్వాదించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Kailasa Kona Tourism Helpdesk",
+        "titleTe": "కైలాస కోన సమాచార కేంద్రం",
+        "number": "08772264555"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "narayanavanam": {
+    "placeId": "narayanavanam",
+    "titleEn": "Sri Kalyana Venkateswara Swamy Temple (Divine Wedding Site)",
+    "titleTe": "శ్రీ కల్యాణ వేంకటేశ్వర స్వామి ఆలయం (నారాయణవనం కల్యాణ వేదిక)",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.4184,
+      "lng": 79.5828
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        120
+      ],
+      [
+        395,
+        160
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Narayanavanam Temple Parking",
+        "nameTe": "నారాయణవనం పార్కింగ్",
+        "category": "parking",
+        "lat": 13.4178,
+        "lng": 79.582,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Parking area opposite the historic temple gopuram.",
+        "descTe": "ఆలయ రాజగోపురం ఎదురుగా ఉన్న పార్కింగ్."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear Counter",
+        "nameTe": "పాదరక్షల కౌంటర్",
+        "category": "footwear",
+        "lat": 13.4181,
+        "lng": 79.5822,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Shoe custody counter.",
+        "descTe": "చెప్పులు భద్రపరిచే ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Vijayanagara Raja Gopuram Gateway",
+        "nameTe": "విజయనగర రాజగోపురం ప్రవేశం",
+        "category": "entry",
+        "lat": 13.418,
+        "lng": 79.5824,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Towering Vijayanagara style entrance gateway built by King Akasa Raju.",
+        "descTe": "ఆకాశరాజు నిర్మించిన చారిత్రక రాజగోపురం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Kalyanotsava Mandapam",
+        "nameTe": "ధ్వజస్తంభం & కల్యాణోత్సవ మండపం",
+        "category": "info",
+        "lat": 13.4182,
+        "lng": 79.5826,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Grand carved stone mandapam where Lord Venkateswara married Goddess Padmavathi.",
+        "descTe": "శ్రీవారి కల్యాణం జరిగిన పవిత్ర కల్యాణ మండపం."
+      },
+      {
+        "id": "padmavathi-shrine",
+        "nameEn": "Sri Padmavathi Devi Mula Sannidhi",
+        "nameTe": "శ్రీ పద్మావతి దేవి మూల సన్నిధి",
+        "category": "info",
+        "lat": 13.4185,
+        "lng": 79.5825,
+        "svgX": 150,
+        "svgY": 130,
+        "descEn": "Shrine of Goddess Padmavathi at her birthplace/wedding site.",
+        "descTe": "అమ్మవారి పవిత్ర సన్నిధి."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Kalyana Venkateswara Swamy Garbhalayam",
+        "nameTe": "శ్రీ కల్యాణ వేంకటేశ్వర స్వామి మూలవిరాట్టు",
+        "category": "sanctum",
+        "lat": 13.4186,
+        "lng": 79.5828,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Presiding deity in divine wedding splendour.",
+        "descTe": "కల్యాణ వైభవ రూపంలో స్వామివారి గర్భాలయం."
+      },
+      {
+        "id": "agastheeswara-shrine",
+        "nameEn": "Sri Agastheeswara Swamy (Shiva) Sub-Shrine",
+        "nameTe": "శ్రీ అగస్త్యేశ్వర స్వామి (శివ) ఆలయం",
+        "category": "info",
+        "lat": 13.4185,
+        "lng": 79.5831,
+        "svgX": 395,
+        "svgY": 120,
+        "descEn": "Ancient Shiva temple installed by Sage Agastya within the complex.",
+        "descTe": "అగస్త్య మహర్షి ప్రతిష్టించిన శివాలయం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "TTD Prasadam Counter",
+        "nameTe": "ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.4183,
+        "lng": 79.583,
+        "svgX": 395,
+        "svgY": 160,
+        "descEn": "TTD laddu and temple holy prasadam.",
+        "descTe": "స్వామివారి ప్రసాదాల కౌంటర్."
+      }
+    ]
+  },
+  "silathoranam": {
+    "placeId": "silathoranam",
+    "titleEn": "Silathoranam Natural Geological Arch & Park",
+    "titleTe": "శిలాతోరణం సహజ శిలా వంపు & ఉద్యానవనం",
+    "layoutType": "geo-nature-park",
+    "centerCoordinates": {
+      "lat": 13.6914,
+      "lng": 79.3412
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        160,
+        190
+      ],
+      [
+        270,
+        100
+      ],
+      [
+        380,
+        140
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Silathoranam Visitor Parking Bay",
+        "nameTe": "శిలాతోరణం పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.6908,
+        "lng": 79.3418,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Dedicated vehicle parking area with shaded trees.",
+        "descTe": "వాహనాల పార్కింగ్ ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Geological Park Welcome Gateway",
+        "nameTe": "ఉద్యానవనం ప్రధాన ప్రవేశ ద్వారం",
+        "category": "entry",
+        "lat": 13.691,
+        "lng": 79.3415,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Entrance to the national geological monument park.",
+        "descTe": "జాతీయ భూగర్భ స్మారక ఉద్యానవన ప్రవేశం."
+      },
+      {
+        "id": "garden-path",
+        "nameEn": "Landscaped Botanical Garden Promenade",
+        "nameTe": "సుందర వృక్ష ఉద్యానవన మార్గం",
+        "category": "info",
+        "lat": 13.6912,
+        "lng": 79.341,
+        "svgX": 160,
+        "svgY": 190,
+        "descEn": "Paved garden path surrounded by lush Seshachalam endemic flora.",
+        "descTe": "శేషాచలం అరుదైన వృక్ష జాతులతో కూడిన అందమైన నడక దారి."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Silathoranam Natural Rock Arch (2.5B Yrs Old)",
+        "nameTe": "శిలాతోరణం సహజ శిలా వంపు (250 కోట్ల సంవత్సరాల పురాతనం)",
+        "category": "sanctum",
+        "lat": 13.6915,
+        "lng": 79.3412,
+        "svgX": 270,
+        "svgY": 100,
+        "descEn": "World-famous 2.5 billion year old natural pre-Cambrian geological rock arch formation spanning 25 feet across.",
+        "descTe": "ప్రపంచ ప్రసిద్ధ సహజసిద్ధ రాతి తోరణం - 250 కోట్ల సంవత్సరాల పురాతన అద్భుతం."
+      },
+      {
+        "id": "viewing-deck",
+        "nameEn": "ASI Geological Viewing Deck & Photo Point",
+        "nameTe": "వీక్షణ వేదిక & ఫోటో పాయింట్",
+        "category": "info",
+        "lat": 13.6917,
+        "lng": 79.3414,
+        "svgX": 380,
+        "svgY": 140,
+        "descEn": "Railed viewing platform for photography and viewing the geological strata.",
+        "descTe": "శిలాతోరణాన్ని తిలకించేందుకు మరియు ఫోటోలు తీసుకునేందుకు వీక్షణ వేదిక."
+      }
+    ]
+  },
+  "srivari-udyanavanam": {
+    "placeId": "srivari-udyanavanam",
+    "titleEn": "Srivari Udyanavanam (TTD Sacred Gardens)",
+    "titleTe": "శ్రీవారి ఉద్యానవనం (టీటీడీ దివ్య తోటలు)",
+    "layoutType": "botanical-garden",
+    "centerCoordinates": {
+      "lat": 13.6905,
+      "lng": 79.3425
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        160,
+        200
+      ],
+      [
+        270,
+        110
+      ],
+      [
+        380,
+        140
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Udyanavanam Visitor Parking Bay",
+        "nameTe": "ఉద్యానవనం పార్కింగ్ స్థలం",
+        "category": "parking",
+        "lat": 13.6898,
+        "lng": 79.343,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Shaded vehicle parking area surrounded by flowering trees.",
+        "descTe": "వాహనాల పార్కింగ్ ప్రదేశం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Divya Udyanavanam Floral Welcome Gateway",
+        "nameTe": "దివ్య ఉద్యానవనం పుష్ప ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6901,
+        "lng": 79.3427,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Main entrance archway leading into the sacred 460-acre horticulture gardens.",
+        "descTe": "పవిత్ర ఉద్యానవన ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "topiary-walk",
+        "nameEn": "Shankha-Chakra Topiary & Promenade",
+        "nameTe": "శంఖ-చక్ర ఆకారాల సుందర మార్గం",
+        "category": "info",
+        "lat": 13.6903,
+        "lng": 79.342,
+        "svgX": 160,
+        "svgY": 200,
+        "descEn": "Ornamental topiary plants shaped as Garuda, Shankha, Chakra, and lotus ponds with fountains.",
+        "descTe": "శంఖ చక్రాలు, గరుడ ఆకారాలలో తీర్చిదిద్దిన పచ్చని మొక్కలు."
+      },
+      {
+        "id": "flower-beds",
+        "nameEn": "Sacred Srivari Seva Flower Beds & Tulsi Nursery",
+        "nameTe": "శ్రీవారి కైంకర్యాల పూలతోట & తులసి వనం",
+        "category": "sanctum",
+        "lat": 13.6906,
+        "lng": 79.3425,
+        "svgX": 270,
+        "svgY": 110,
+        "descEn": "Sacred polyhouses cultivating exclusive roses, jasmines, marigolds, and Krishna Tulasi strictly reserved for Lord Venkateswara’s daily sevas.",
+        "descTe": "శ్రీవారి నిత్య పూజలకు, అలంకరణకు ఉపయోగించే ప్రత్యేక పుష్పాల తోట."
+      },
+      {
+        "id": "garland-pavilion",
+        "nameEn": "Thomala Garland Crafting Pavilion (Mala Mandapam)",
+        "nameTe": "తోమాల సేవా పూలమాలల తయారీ మండపం",
+        "category": "info",
+        "lat": 13.6908,
+        "lng": 79.3428,
+        "svgX": 380,
+        "svgY": 140,
+        "descEn": "Specialized pavilion where master artisans weave massive floral garlands for daily temple Alankarams.",
+        "descTe": "శ్రీవారికి సమర్పించే దివ్య తోమాల పూలమాలలను తయారుచేసే కేంద్రం."
+      }
+    ]
+  },
+  "bhu-varaha": {
+    "placeId": "bhu-varaha",
+    "titleEn": "Sri Bhu Varaha Swamy Temple Precinct Map",
+    "titleTe": "శ్రీ భూ వరాహ స్వామి ఆలయ ప్రాంగణ మ్యాప్",
+    "layoutType": "sacred-pushkarini",
+    "centerCoordinates": {
+      "lat": 13.6841,
+      "lng": 79.3475
+    },
+    "defaultZoom": 17,
+    "compassBearingDeg": 0,
+    "sanctumNameEn": "Sri Bhu Varaha Swamy Garbhalayam & Pushkarini Bank",
+    "sanctumNameTe": "శ్రీ భూ వరాహ స్వామి గర్భాలయం & పుష్కరిణి తీరం",
+    "routePath": [
+      [
+        430,
+        280
+      ],
+      [
+        130,
+        255
+      ],
+      [
+        270,
+        270
+      ],
+      [
+        270,
+        190
+      ],
+      [
+        150,
+        85
+      ],
+      [
+        270,
+        140
+      ],
+      [
+        390,
+        160
+      ],
+      [
+        430,
+        280
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Tirumala Central Parking / Ring Road",
+        "nameTe": "తిరుమల సెంట్రల్ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6828,
+        "lng": 79.3475,
+        "svgX": 430,
+        "svgY": 280,
+        "descEn": "Designated parking near CRO and Bata Gangamma square; pedestrian walk to Pushkarini.",
+        "descTe": "సి.ఆర్.ఓ సమీప పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Pushkarini Bank Footwear Stand",
+        "nameTe": "పాదరక్షల కేంద్రం",
+        "category": "footwear",
+        "lat": 13.6833,
+        "lng": 79.3474,
+        "svgX": 130,
+        "svgY": 255,
+        "descEn": "Free footwear custody counter near Pushkarini north bank.",
+        "descTe": "పాదరక్షలు విడిచే ఉచిత కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Varahaswamy Mukhadwaram Entry",
+        "nameTe": "ఆలయ ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6835,
+        "lng": 79.3476,
+        "svgX": 270,
+        "svgY": 270,
+        "descEn": "Main temple entrance facing Swami Pushkarini holy lake.",
+        "descTe": "స్వామి పుష్కరిణి ఎదురుగా ఉన్న ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Bali Peetham",
+        "nameTe": "ధ్వజస్తంభం & బలిపీఠం",
+        "category": "info",
+        "lat": 13.6838,
+        "lng": 79.3476,
+        "svgX": 270,
+        "svgY": 190,
+        "descEn": "Sacred brass flag mast inside the inner temple courtyard.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Adi Bhu Varaha Swamy Main Shrine",
+        "nameTe": "శ్రీ భూ వరాహ స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.6841,
+        "lng": 79.3476,
+        "svgX": 150,
+        "svgY": 85,
+        "descEn": "Ancient presiding deity Sri Bhu Varaha Swamy with Mother Earth (Bhudevi) on His lap. Traditional first darshan of Tirumala.",
+        "descTe": "భూదేవి సమేత శ్రీ ఆది వరాహ స్వామి మూలవిరాట్టు దర్శనం. తిరుమల సంప్రదాయం ప్రకారం మొదటి దర్శనం."
+      },
+      {
+        "id": "pushkarini",
+        "nameEn": "Swami Pushkarini Holy Teertham",
+        "nameTe": "స్వామి పుష్కరిణి తీర్థం",
+        "category": "info",
+        "lat": 13.6837,
+        "lng": 79.348,
+        "svgX": 270,
+        "svgY": 140,
+        "descEn": "Sacred Pushkarini water tank adjacent to the shrine for holy prokshana.",
+        "descTe": "ఆలయం పక్కనే ఉన్న పవిత్ర స్వామి పుష్కరిణి కోనేరు."
+      },
+      {
+        "id": "temple-way",
+        "nameEn": "Pathway to Sri Vari Temple",
+        "nameTe": "శ్రీవారి ప్రధాన ఆలయ మార్గం",
+        "category": "laddu",
+        "lat": 13.6835,
+        "lng": 79.3485,
+        "svgX": 390,
+        "svgY": 160,
+        "descEn": "Connecting stone walkway leading to Srivari Temple Mahadwaram after Varahaswamy darshan.",
+        "descTe": "వరాహస్వామి దర్శనం అనంతరం శ్రీవారి ఆలయం వైపు వెళ్ళే మార్గం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Pushkarini Approach & Footwear",
+        "titleTe": "పాదరక్షలు విడవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Deposit footwear at the north bank counter of Swami Pushkarini.",
+        "descTe": "పుష్కరిణి కౌంటర్ వద్ద పాదరక్షలు భద్రపరచండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Mukhadwaram Entry & Courtyard",
+        "titleTe": "ఆలయ ప్రవేశం",
+        "distance": "30m",
+        "timeMins": 2,
+        "descEn": "Enter through the Mukhadwaram into the temple courtyard.",
+        "descTe": "ముఖద్వారం గుండా ఆలయ ప్రాంగణంలోకి ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Sri Adi Bhu Varaha Swamy Darshan",
+        "titleTe": "శ్రీ భూ వరాహ స్వామి దర్శనం",
+        "distance": "50m",
+        "timeMins": 10,
+        "descEn": "Have the sacred darshan of Lord Varaha Swamy with Bhudevi (essential first darshan of Tirumala).",
+        "descTe": "ఆది వరాహ స్వామి మూలవిరాట్టును దర్శించుకోండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Swami Pushkarini Prokshana & Srivari Temple",
+        "titleTe": "పుష్కరిణి తీర్థం & శ్రీవారి ఆలయం",
+        "distance": "60m",
+        "timeMins": 5,
+        "descEn": "Take holy Pushkarini theertha prokshana and proceed along the eastern walkway to Sri Venkateswara Temple.",
+        "descTe": "పుష్కరిణి తీర్థ ప్రోక్షణ చేసుకుని శ్రీవారి ప్రధాన ఆలయం వైపు సాగండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Central Information Center (Tirumala)",
+        "titleTe": "తిరుమల సమాచార కేంద్రం",
+        "number": "08772277777"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "swami-pushkarini": {
+    "placeId": "swami-pushkarini",
+    "titleEn": "Swami Pushkarini Holy Lake & Stepped Ghats",
+    "titleTe": "స్వామి పుష్కరిణి పవిత్ర తీర్థం & ఘాట్లు",
+    "layoutType": "sacred-pushkarini",
+    "centerCoordinates": {
+      "lat": 13.6837,
+      "lng": 79.348
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        160,
+        240
+      ],
+      [
+        270,
+        140
+      ],
+      [
+        150,
+        85
+      ],
+      [
+        390,
+        160
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Central Tirumala Parking Bay",
+        "nameTe": "తిరుమల సెంట్రల్ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6828,
+        "lng": 79.3475,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Designated vehicle parking near CRO and Bata Gangamma square.",
+        "descTe": "సి.ఆర్.ఓ సమీపంలోని వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Swami Pushkarini Main Entrance",
+        "nameTe": "పుష్కరిణి ప్రధాన ప్రవేశ ద్వారం",
+        "category": "entry",
+        "lat": 13.6832,
+        "lng": 79.3478,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Main gateway leading into the sacred Pushkarini parikrama promenade.",
+        "descTe": "పుష్కరిణి ఘాట్ల వైపు వెళ్ళే ప్రధాన ద్వారం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear & Changing Room Stand",
+        "nameTe": "పాదరక్షలు & డ్రెస్సింగ్ రూమ్స్",
+        "category": "footwear",
+        "lat": 13.6833,
+        "lng": 79.3474,
+        "svgX": 160,
+        "svgY": 240,
+        "descEn": "Free footwear custody counter and separate changing rooms for pilgrims.",
+        "descTe": "చెప్పులు విడిచే స్థలం మరియు దుస్తులు మార్చుకునే గదులు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Swami Pushkarini Holy Stepped Tank",
+        "nameTe": "స్వామి పుష్కరిణి పవిత్ర తీర్థం (కోనేరు)",
+        "category": "sanctum",
+        "lat": 13.6837,
+        "lng": 79.348,
+        "svgX": 270,
+        "svgY": 140,
+        "descEn": "Sacred 1.5-acre holy water lake brought from Vaikuntam by Garuda. Taking a holy dip or prokshana here cleanses sins before Srivari Darshan.",
+        "descTe": "శ్రీవారి దర్శనానికి ముందు పుణ్యస్నానం ఆచరించే పవిత్ర దివ్య తీర్థం."
+      },
+      {
+        "id": "varahaswamy",
+        "nameEn": "Sri Bhu Varaha Swamy Temple (North Bank)",
+        "nameTe": "శ్రీ భూ వరాహ స్వామి ఆలయం",
+        "category": "info",
+        "lat": 13.6841,
+        "lng": 79.3476,
+        "svgX": 150,
+        "svgY": 85,
+        "descEn": "Ancient temple on the northwest bank of Pushkarini. By tradition, pilgrims visit Varahaswamy first.",
+        "descTe": "పుష్కరిణి ఒడ్డున ఉన్న ఆది వరాహ స్వామి ఆలయం."
+      },
+      {
+        "id": "temple-way",
+        "nameEn": "Pathway to Sri Vari Temple Mahadwaram",
+        "nameTe": "శ్రీవారి ప్రధాన ఆలయ మార్గం",
+        "category": "info",
+        "lat": 13.6835,
+        "lng": 79.3485,
+        "svgX": 390,
+        "svgY": 160,
+        "descEn": "Covered stone walkway connecting directly to the main entrance of Tirumala Temple.",
+        "descTe": "శ్రీవారి ప్రధాన ఆలయం మహాద్వారం వైపు వెళ్ళే మార్గం."
+      }
+    ]
+  },
+  "annaprasadam-complex": {
+    "placeId": "annaprasadam-complex",
+    "titleEn": "Matrusri Tarigonda Vengamamba Annaprasadam Complex",
+    "titleTe": "మాతృశ్రీ తరిగొండ వెంగమాంబ అన్నప్రసాదం భవనం",
+    "layoutType": "annaprasadam-complex",
+    "centerCoordinates": {
+      "lat": 13.6841,
+      "lng": 79.3498
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        160,
+        210
+      ],
+      [
+        270,
+        110
+      ],
+      [
+        390,
+        100
+      ],
+      [
+        380,
+        210
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "CRO & Rambag Vehicle Parking",
+        "nameTe": "రాంబాగ్‌ / సి.ఆర్.ఓ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6832,
+        "lng": 79.349,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Central Tirumala parking area near Ring Road and CRO office.",
+        "descTe": "రింగ్ రోడ్డు సమీపంలోని వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Annaprasadam Complex Main Entrance",
+        "nameTe": "అన్నప్రసాదం ప్రధాన ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6836,
+        "lng": 79.3495,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Spacious welcoming entrance foyer and pilgrim queue entrance.",
+        "descTe": "భక్తుల ప్రవేశ ముఖద్వారం."
+      },
+      {
+        "id": "holding-lounge",
+        "nameEn": "Devotee Waiting Lounge & Handwash Station",
+        "nameTe": "వేచి ఉండే హాల్ & చేతులు కడుగుకునే స్థలం",
+        "category": "queue",
+        "lat": 13.6838,
+        "lng": 79.3492,
+        "svgX": 160,
+        "svgY": 210,
+        "descEn": "Air-cooled waiting lounge with display screens and clean stainless steel washbasins.",
+        "descTe": "భక్తులు కూర్చునే హాలు మరియు వాష్‌బేసిన్ల సదుపాయం."
+      },
+      {
+        "id": "dining-halls",
+        "nameEn": "Grand Dining Halls (Halls 1–4, 4,000 Capacity)",
+        "nameTe": "ప్రధాన భోజన శాలలు (హాల్స్ 1-4, 4,000 సీటింగ్)",
+        "category": "food",
+        "lat": 13.6841,
+        "lng": 79.3498,
+        "svgX": 270,
+        "svgY": 110,
+        "descEn": "Four massive hygienic dining halls serving continuous, unlimited hot Mahaprasadam (Rice, Dal, Sambar, Rasam, Chutney & Sweet).",
+        "descTe": "స్వామివారి నిత్యాన్నదాన భోజన శాల - ఉచితంగా అపరిమిత భోజనం వడ్డిస్తారు."
+      },
+      {
+        "id": "mega-kitchen",
+        "nameEn": "Automated Steam Mega Kitchen & Potu",
+        "nameTe": "అత్యాధునిక ఆటోమేటిక్ స్టీమ్ కిచెన్",
+        "category": "info",
+        "lat": 13.6844,
+        "lng": 79.3502,
+        "svgX": 390,
+        "svgY": 100,
+        "descEn": "World-class automated steam boiler kitchen capable of cooking for 200,000 pilgrims per day.",
+        "descTe": "రోజుకు 2 లక్షల మందికి పైగా వంట చేసే భారీ అత్యాధునిక వంటశాల."
+      },
+      {
+        "id": "donor-office",
+        "nameEn": "Tarigonda Vengamamba Statue & Srivari Donor Desk",
+        "nameTe": "తరిగొండ వెంగమాంబ విగ్రహం & దాతల విభాగం",
+        "category": "info",
+        "lat": 13.6839,
+        "lng": 79.3505,
+        "svgX": 380,
+        "svgY": 210,
+        "descEn": "Life-size bronze statue of Saint Vengamamba and Srivari Nitya Annadanam trust donation counter.",
+        "descTe": "శ్రీవారి నిత్యాన్నదాన ట్రస్ట్ విరాళాల కౌంటర్."
+      }
+    ]
+  },
+  "srivari-museum": {
+    "placeId": "srivari-museum",
+    "titleEn": "Srivari Museum & TTD ₹125 Cr Modernization Project",
+    "titleTe": "శ్రీవారి మ్యూజియం & టీటీడీ ఆధునీకరణ ప్రాజెక్ట్",
+    "layoutType": "museum-gallery",
+    "centerCoordinates": {
+      "lat": 13.684,
+      "lng": 79.3433
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        170,
+        220
+      ],
+      [
+        270,
+        120
+      ],
+      [
+        380,
+        140
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Central CRO Visitor Parking",
+        "nameTe": "సి.ఆర్.ఓ సెంట్రల్ పార్కింగ్",
+        "category": "parking",
+        "lat": 13.6835,
+        "lng": 79.343,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Central Tirumala vehicle parking directly opposite the CRO office square.",
+        "descTe": "సి.ఆర్.ఓ కార్యాలయం ఎదురుగా ఉన్న వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Museum Welcome Arch & CRO Plaza",
+        "nameTe": "మ్యూజియం ప్రవేశ ద్వారం & ప్లాజా",
+        "category": "entry",
+        "lat": 13.6838,
+        "lng": 79.3432,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Main gateway facing the CRO office circle in central Tirumala.",
+        "descTe": "తిరుమల సి.ఆర్.ఓ కూడలి వద్ద ప్రధాన ప్రవేశం."
+      },
+      {
+        "id": "project-desk",
+        "nameEn": "TTD ₹125 Cr Modernization Project Info",
+        "nameTe": "టీటీడీ ₹125 కోట్ల ఆధునీకరణ సమాచార బోర్డు",
+        "category": "info",
+        "lat": 13.6839,
+        "lng": 79.3431,
+        "svgX": 170,
+        "svgY": 220,
+        "descEn": "Project briefing on the upcoming 3D spiritual digital museum in collaboration with TCS.",
+        "descTe": "టీసీఎస్ సహకారంతో నిర్మిస్తున్న అత్యాధునిక 3D డిజిటల్ మ్యూజియం వివరాలు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Srivari Museum Complex (Under Active Reconstruction)",
+        "nameTe": "శ్రీవారి మ్యూజియం కాంప్లెక్స్ (నిర్మాణ పనులలో ఉంది)",
+        "category": "sanctum",
+        "lat": 13.684,
+        "lng": 79.3433,
+        "svgX": 270,
+        "svgY": 120,
+        "descEn": "The historic museum building currently undergoing comprehensive structural redevelopment and digital exhibition setup.",
+        "descTe": "ప్రస్తుతం పునర్నిర్మాణంలో ఉన్న ప్రధాన మ్యూజియం భవనం."
+      },
+      {
+        "id": "future-gallery",
+        "nameEn": "Future 3D Immersive Spiritual Gallery Wing",
+        "nameTe": "నూతన 3D డిజిటల్ ఆధ్యాత్మిక ప్రదర్శన విభాగం",
+        "category": "info",
+        "lat": 13.6842,
+        "lng": 79.3435,
+        "svgX": 380,
+        "svgY": 140,
+        "descEn": "Upcoming state-of-the-art immersive halls showcasing Venkateswara Vaibhavam and sacred temple artifacts.",
+        "descTe": "శ్రీవారి వైభవాన్ని కళ్ళకు కట్టే నూతన డిజిటల్ గ్యాలరీ."
+      }
+    ]
+  },
+  "alipiri-padhala-mandapam": {
+    "placeId": "alipiri-padhala-mandapam",
+    "titleEn": "Alipiri Padhala Mandapam & Rajagopuram",
+    "titleTe": "అలిపిరి పాదాల మండపం & రాజగోపురం",
+    "layoutType": "trek-trail",
+    "centerCoordinates": {
+      "lat": 13.6542,
+      "lng": 79.4005
+    },
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        170,
+        230
+      ],
+      [
+        270,
+        160
+      ],
+      [
+        270,
+        70
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Alipiri Base Parking Plaza",
+        "nameTe": "అలిపిరి పార్కింగ్ కాంప్లెక్స్",
+        "category": "parking",
+        "lat": 13.6535,
+        "lng": 79.4,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Multi-level vehicle & two-wheeler parking opposite Garuda Circle.",
+        "descTe": "గరుడ సర్కిల్ వద్ద విశాలమైన వాహనాల పార్కింగ్."
+      },
+      {
+        "id": "entrance",
+        "nameEn": "Alipiri Raja Gopuram Gateway",
+        "nameTe": "అలిపిరి రాజగోపురం ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.654,
+        "lng": 79.4003,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Historic 7-tier gateway welcoming all pilgrims to the sacred hills.",
+        "descTe": "తిరుమల కొండల ప్రారంభంలోని పవిత్ర సప్తవర్ణ రాజగోపురం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Luggage & Footwear Transfer",
+        "nameTe": "ఉచిత లగేజ్ & పాదరక్షల రవాణా కౌంటర్",
+        "category": "footwear",
+        "lat": 13.6542,
+        "lng": 79.3998,
+        "svgX": 170,
+        "svgY": 230,
+        "descEn": "TTD free luggage transfer depot — deposit bags at Alipiri and collect at Tirumala summit.",
+        "descTe": "టీటీడీ ఉచిత లగేజ్ రవాణా కేంద్రం - తిరుమలలో ఉచితంగా అందుకోవచ్చు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Vari Padhala Mandapam (Holy Padukas)",
+        "nameTe": "శ్రీవారి పాదాల మండపం (దివ్య పాదుకలు)",
+        "category": "sanctum",
+        "lat": 13.6545,
+        "lng": 79.4005,
+        "svgX": 270,
+        "svgY": 160,
+        "descEn": "Sacred stone footprints of Lord Venkateswara where pilgrims touch their heads to the holy silver Padukas.",
+        "descTe": "శ్రీనివాసుని పవిత్ర పాదముద్రలు - భక్తులు తలపై పాదుకలను ఉంచుకుని ఆశీస్సులు పొందుతారు."
+      },
+      {
+        "id": "footpath",
+        "nameEn": "3,550-Step Tirumala Footpath Trailhead",
+        "nameTe": "3,550 మెట్ల నడక మార్గం ప్రారంభం",
+        "category": "info",
+        "lat": 13.6548,
+        "lng": 79.4008,
+        "svgX": 270,
+        "svgY": 70,
+        "descEn": "Starting waypoint for the sacred 9 km trek to Galigopuram and Tirumala.",
+        "descTe": "గాలిగోపురం మరియు తిరుమలకు వెళ్ళే 9 కి.మీ పవిత్ర నడక దారి."
+      }
+    ]
+  },
+  "kapila-theertham": {
+    "placeId": "kapila-theertham",
+    "titleEn": "Sri Kapileswara Swamy Temple & Waterfall",
+    "titleTe": "శ్రీ కపిలేశ్వర స్వామి ఆలయం & జలపాతం",
+    "layoutType": "hill-waterfall",
+    "centerCoordinates": {
+      "lat": 13.6548,
+      "lng": 79.4215
+    },
+    "routePath": [
+      [
+        412,
+        255
+      ],
+      [
+        135,
+        215
+      ],
+      [
+        270,
+        150
+      ],
+      [
+        270,
+        65
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Trailhead & Parking Bay",
+        "nameTe": "పార్కింగ్ ప్రదేశం",
+        "category": "parking",
+        "lat": 13.6536,
+        "lng": 79.4205,
+        "svgX": 412,
+        "svgY": 255,
+        "descEn": "Vehicles drop and starting point of the nature trail.",
+        "descTe": "వాహనాల పార్కింగ్ మరియు ట్రయల్ ప్రారంభం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Entrance Checkpoint & Gateway",
+        "nameTe": "ప్రవేశ ముఖద్వారం",
+        "category": "entry",
+        "lat": 13.6542,
+        "lng": 79.421,
+        "svgX": 270,
+        "svgY": 238,
+        "descEn": "Entry checkpoint and ticket counter.",
+        "descTe": "ప్రవేశ ద్వారం మరియు టికెట్ కేంద్రం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Footwear & Rest Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.654,
+        "lng": 79.4208,
+        "svgX": 135,
+        "svgY": 215,
+        "descEn": "Rest area and designated footwear stand before the holy pool.",
+        "descTe": "చెప్పులు భద్రపరిచే స్థలం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Lord Kapileswara Shiva Main Shrine",
+        "nameTe": "శ్రీ కపిలేశ్వర స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.6548,
+        "lng": 79.4215,
+        "svgX": 270,
+        "svgY": 150,
+        "descEn": "Primary sacred main shrine and viewing area.",
+        "descTe": "ప్రధాన దర్శన ప్రదేశం."
+      },
+      {
+        "id": "waterfall",
+        "nameEn": "Sacred Waterfall Cascade & Holy Kund",
+        "nameTe": "పవిత్ర జలపాతం & కుండం",
+        "category": "info",
+        "lat": 13.6554,
+        "lng": 79.4218,
+        "svgX": 270,
+        "svgY": 65,
+        "descEn": "Sacred mountain waterfall cascading into crystal theertham pool.",
+        "descTe": "పవిత్ర తీర్థం మరియు జలపాతం."
+      }
+    ]
+  },
+  "gudimallam-temple": {
+    "placeId": "gudimallam-temple",
+    "titleEn": "Sri Parasurameswara Swamy Temple (Gudimallam)",
+    "titleTe": "శ్రీ పరశురామేశ్వర స్వామి ఆలయం (గుడిమల్లం)",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.6037445,
+      "lng": 79.5785729
+    },
+    "routePath": [
+      [
+        412,
+        255
+      ],
+      [
+        270,
+        238
+      ],
+      [
+        135,
+        215
+      ],
+      [
+        140,
+        140
+      ],
+      [
+        270,
+        85
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Approach Parking Area",
+        "nameTe": "పార్కింగ్ స్థలం",
+        "category": "parking",
+        "lat": 13.6028,
+        "lng": 79.579,
+        "svgX": 412,
+        "svgY": 255,
+        "descEn": "Open parking space for vehicles.",
+        "descTe": "వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entrance",
+        "nameEn": "Mukha Mandapam / Gateway",
+        "nameTe": "ముఖ మండపం ద్వారం",
+        "category": "entry",
+        "lat": 13.6034,
+        "lng": 79.5787,
+        "svgX": 270,
+        "svgY": 238,
+        "descEn": "Historical stone entrance gateway under ASI protection.",
+        "descTe": "ఆలయ ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Courtyard Footwear Stand",
+        "nameTe": "పాదరక్షల స్టాండ్",
+        "category": "footwear",
+        "lat": 13.6032,
+        "lng": 79.5784,
+        "svgX": 135,
+        "svgY": 215,
+        "descEn": "Shoe custody counter outside courtyard.",
+        "descTe": "చెప్పులు విడిచే ప్రదేశం."
+      },
+      {
+        "id": "asi-info",
+        "nameEn": "Historical Heritage Inscriptions",
+        "nameTe": "పురావస్తు శాసనాలు",
+        "category": "info",
+        "lat": 13.6039,
+        "lng": 79.5782,
+        "svgX": 140,
+        "svgY": 140,
+        "descEn": "Ancient stone inscriptions and carvings detailing heritage.",
+        "descTe": "రాతి శాసనాలు మరియు చారిత్రక వివరాలు."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Trimurti Parasurameswara Main Shrine",
+        "nameTe": "త్రిమూర్తి పరశురామేశ్వర గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.6037445,
+        "lng": 79.5785729,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "World's oldest naturalistic Shiva Lingam (3rd Century BCE) carved on single stone with Brahma, Vishnu, and Shiva on a dwarf Yaksha.",
+        "descTe": "క్రీ.పూ 3వ శతాబ్దపు ప్రపంచంలోనే అత్యంత పురాతన సహజసిద్ధ శివలింగం."
+      }
+    ]
+  },
+  "mamanduru-forest": {
+    "placeId": "mamanduru-forest",
+    "titleEn": "Mamanduru Eco-Tourism & Forest Trail Map",
+    "titleTe": "మామండూరు ఎకో-టూరిజం & అటవీ మార్గం",
+    "layoutType": "forest-eco-reserve",
+    "centerCoordinates": {
+      "lat": 13.750691,
+      "lng": 79.466337
+    },
+    "defaultZoom": 16,
+    "compassBearingDeg": 0,
+    "sanctumNameEn": "Seshachalam Forest Trail & Canopy Walk",
+    "sanctumNameTe": "శేషాచలం అటవీ మార్గం & ప్రకృతి విహారం",
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        160,
+        190
+      ],
+      [
+        270,
+        100
+      ],
+      [
+        380,
+        140
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Eco-Park Parking Bay",
+        "nameTe": "పార్కింగ్ & అటవీ చెక్‌పోస్ట్",
+        "category": "parking",
+        "lat": 13.7495,
+        "lng": 79.467,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Designated vehicle parking near Kadapa Highway forest checkpost.",
+        "descTe": "హైవే సమీపంలోని వాహనాల పార్కింగ్ స్థలం."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Forest Reception & Entry Gate",
+        "nameTe": "ఎకో-టూరిజం ప్రవేశ ద్వారం & టికెట్ కౌంటర్",
+        "category": "entry",
+        "lat": 13.75,
+        "lng": 79.4663,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Forest Department reception, entry passes (₹50), and eco-guide counter.",
+        "descTe": "అటవీ శాఖ సమాచార కేంద్రం మరియు ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "cottages",
+        "nameEn": "1865 British Wooden Rest House",
+        "nameTe": "1865 నాటి చారిత్రక రెస్ట్ హౌస్ & కాటేజీలు",
+        "category": "info",
+        "lat": 13.7504,
+        "lng": 79.4658,
+        "svgX": 160,
+        "svgY": 190,
+        "descEn": "Colonial-era wooden forest rest houses built in 1865 surrounded by Red Sanders trees.",
+        "descTe": "1865 నాటి బ్రిటీష్ కాలపు చెక్క రెస్ట్ హౌస్ మరియు ఎర్రచందనం వనం."
+      },
+      {
+        "id": "trail",
+        "nameEn": "Peacock Trail & Jungle Trek",
+        "nameTe": "నెమలి ట్రెక్కింగ్ మార్గం ప్రారంభం",
+        "category": "info",
+        "lat": 13.751,
+        "lng": 79.466,
+        "svgX": 270,
+        "svgY": 100,
+        "descEn": "Scenic jungle trek trail with perennial streams and rare biodiversity.",
+        "descTe": "అటవీ వాగులు మరియు పక్షులతో కూడిన సుందరమైన ట్రెక్కింగ్ మార్గం."
+      },
+      {
+        "id": "watchtower",
+        "nameEn": "Canopy Walk & Watch Tower",
+        "nameTe": "వాచ్ టవర్ & వ్యూ పాయింట్",
+        "category": "info",
+        "lat": 13.7515,
+        "lng": 79.4668,
+        "svgX": 380,
+        "svgY": 140,
+        "descEn": "Elevated wooden watch tower overlooking Seshachalam hills and forest valley.",
+        "descTe": "శేషాచలం అడవి అందాలను తిలకించే వాచ్ టవర్ మరియు వ్యూ పాయింట్."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Arrival & Forest Checkpost Parking",
+        "titleTe": "పార్కింగ్ చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the visitor area near Mamanduru Forest Checkpost.",
+        "descTe": "వాహనాన్ని పార్క్ చేసి ఎకో పార్క్ వైపు నడవండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Forest Reception & Entry Passes",
+        "titleTe": "ప్రవేశ టికెట్ కౌంటర్",
+        "distance": "40m",
+        "timeMins": 2,
+        "descEn": "Collect Forest Department entry ticket (₹50) at reception.",
+        "descTe": "అటవీ శాఖ ప్రవేశ టికెట్ తీసుకుని లోపలికి వెళ్ళండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "1865 Heritage British Wooden Rest House",
+        "titleTe": "చారిత్రక రెస్ట్ హౌస్ సందర్శన",
+        "distance": "80m",
+        "timeMins": 15,
+        "descEn": "Explore the 1865 wooden rest house and Red Sanders botanical nursery.",
+        "descTe": "1865 నాటి చెక్క రెస్ట్ హౌస్ మరియు ఎర్రచందనం మొక్కలను చూడండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Peacock Jungle Trek Trail & Watch Tower",
+        "titleTe": "అటవీ ట్రెక్ & వాచ్ టవర్",
+        "distance": "120m",
+        "timeMins": 25,
+        "descEn": "Hike along the stream-side canopy trail and ascend the panoramic watch tower.",
+        "descTe": "అటవీ నడక మార్గం గుండా వాచ్ టవర్ వద్దకు చేరుకుని ప్రకృతి అందాలను ఆస్వాదించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "AP Forest Department Wildlife Division (Tirupati)",
+        "titleTe": "అటవీ శాఖ కంట్రోల్ రూమ్",
+        "number": "18004255909"
+      },
+      {
+        "titleEn": "Emergency Toll-Free Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "pakala-subramanya": {
+    "placeId": "pakala-subramanya",
+    "titleEn": "Sri Kalyana Subramanya Swamy Temple & 54-Ft Murugan Statue (Pakala)",
+    "titleTe": "శ్రీ కళ్యాణ సుబ్రమణ్య స్వామి ఆలయం & 54 అడుగుల మురుగన్ విగ్రహం (పాకాల ఆనందగిరి)",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.4452161,
+      "lng": 79.1008506
+    },
+    "defaultZoom": 17,
+    "compassBearingDeg": 0,
+    "sanctumNameEn": "Sri Valli Devasena Sametha Kalyana Subramanya Garbhalayam",
+    "sanctumNameTe": "శ్రీ వల్లీ దేవసేన సమేత కళ్యాణ సుబ్రమణ్య స్వామి గర్భాలయం",
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        145,
+        125
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        140
+      ],
+      [
+        395,
+        220
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Anandagiri Foothills Parking & Shaded Base",
+        "nameTe": "ఆనందగిరి కొండ దిగువన పార్కింగ్",
+        "category": "parking",
+        "lat": 13.4446,
+        "lng": 79.1002,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Designated parking for cars, tourist buses, and two-wheelers with refreshment stalls.",
+        "descTe": "వాహనాల పార్కింగ్ ప్రదేశం మరియు దుకాణాలు."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear & Baggage Counter",
+        "nameTe": "పాదరక్షల స్టాండ్ & బ్యాగేజ్ కౌంటర్",
+        "category": "footwear",
+        "lat": 13.4449,
+        "lng": 79.1004,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Safe custody counter for footwear before ascending the hillock steps.",
+        "descTe": "చెప్పులు భద్రపరిచే ఉచిత కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Shaded Steps Pathway & Entrance Arch",
+        "nameTe": "నీడ ఉన్న మెట్ల మార్గం & ప్రవేశ తోరణం",
+        "category": "entry",
+        "lat": 13.445,
+        "lng": 79.1006,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Concrete steps equipped with handrails and continuous overhead shade canopy.",
+        "descTe": "రక్షిత రెయిలింగ్‌లు మరియు నీడ షెల్టర్లతో కూడిన మెట్ల మార్గం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Peacock (Mayura) Mandapam",
+        "nameTe": "ధ్వజస్తంభం & మయూర వాహన మండపం",
+        "category": "info",
+        "lat": 13.4451,
+        "lng": 79.1007,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred flag mast and Lord Murugan's divine Peacock vahana in the open courtyard.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం మరియు మయూర వాహన సన్నిధి."
+      },
+      {
+        "id": "statue-54ft",
+        "nameEn": "Monumental 54-Foot Lord Murugan Statue with Sacred Vel",
+        "nameTe": "54 అడుగుల దివ్య మురుగన్ విగ్రహం (వేల్ ఆయుధం)",
+        "category": "info",
+        "lat": 13.4453,
+        "lng": 79.1006,
+        "svgX": 145,
+        "svgY": 125,
+        "descEn": "One of AP's tallest Murugan statues (54 ft), sculpted by 14 traditional Sthapathis over 11 months.",
+        "descTe": "14 మంది శిల్పులు 11 నెలల పాటు చెక్కిన ఆంధ్రప్రదేశ్‌లోనే అత్యంత ఎత్తైన 54 అడుగుల మురుగన్ విగ్రహం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Valli Devasena Kalyana Subramanya Garbhalayam",
+        "nameTe": "శ్రీ వల్లీ దేవసేన కళ్యాణ సుబ్రమణ్య స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.4452161,
+        "lng": 79.1008506,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Presiding deities Lord Kalyana Subramanya with Goddess Valli and Goddess Devasena. Revered for Kuja Dosham & marriage blessings.",
+        "descTe": "కుజ దోష నివారణ, కళ్యాణ యోగం మరియు సంతాన ప్రాప్తి ప్రసాదించే దివ్య మూలవిరాట్టు దర్శనం."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "Traditional Laddoo, Vada & Pulihora Prasadam Counter",
+        "nameTe": "లడ్డూ, వడ & పులిహోర ప్రసాదం కౌంటర్",
+        "category": "laddu",
+        "lat": 13.4452,
+        "lng": 79.1011,
+        "svgX": 395,
+        "svgY": 140,
+        "descEn": "Collect freshly prepared temple prasadam and special puja tickets.",
+        "descTe": "స్వామివారి పవిత్ర ప్రసాదాలు మరియు పూజా టికెట్ల కౌంటర్."
+      },
+      {
+        "id": "ttd-pac",
+        "nameEn": "TTD Pilgrim Amenities Complex (PAC) & Rest Rooms",
+        "nameTe": "టీటీడీ యాత్రికుల సౌకర్యాల సముదాయం (పీఏసీ)",
+        "category": "info",
+        "lat": 13.4448,
+        "lng": 79.1012,
+        "svgX": 395,
+        "svgY": 220,
+        "descEn": "TTD-supported pilgrim amenities complex offering RO drinking water, clean restrooms, and rest halls.",
+        "descTe": "తాగునీరు, విశ్రాంతి గదులు మరియు మరుగుదొడ్ల సౌకర్యం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Anandagiri Hill Base Arrival & Parking",
+        "titleTe": "ఆనందగిరి కొండ దిగువకు చేరుకోవడం",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the base of Anandagiri hillock in Utlavaripalli.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Footwear Deposit & Shaded Steps Ascent",
+        "titleTe": "చెప్పులు విడిచి మెట్లు ఎక్కడం",
+        "distance": "50m",
+        "timeMins": 4,
+        "descEn": "Deposit footwear at the free counter and climb the shaded steps with handrails.",
+        "descTe": "చెప్పులు విడిచి నీడ ఉన్న మెట్ల గుండా కొండపైకి చేరుకోండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Monumental 54-Ft Lord Murugan Statue Darshan",
+        "titleTe": "54 అడుగుల మురుగన్ విగ్రహ దర్శనం",
+        "distance": "60m",
+        "timeMins": 10,
+        "descEn": "Marvel at the grand 54-foot statue of Lord Subramanya holding his sacred Vel.",
+        "descTe": "మహిమాన్విత 54 అడుగుల మురుగన్ విగ్రహాన్ని దర్శించి ప్రార్థించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Kalyana Subramanya Swamy Main Temple Darshan",
+        "titleTe": "శ్రీ కళ్యాణ సుబ్రమణ్య స్వామి గర్భాలయ దర్శనం",
+        "distance": "40m",
+        "timeMins": 15,
+        "descEn": "Offer prayers at the main shrine for Kuja Dosha Nivarana and marriage blessings.",
+        "descTe": "కుజ దోష నివారణ మరియు కళ్యాణ యోగం కోసం స్వామివారిని దర్శించుకోండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Prasadam Collection & TTD PAC Complex",
+        "titleTe": "ప్రసాదం & టీటీడీ పీఏసీ సౌకర్యాలు",
+        "distance": "50m",
+        "timeMins": 5,
+        "descEn": "Collect delicious temple Laddoo/Vada prasadam and use the TTD amenities hall.",
+        "descTe": "లడ్డూ, వడ ప్రసాదాలు స్వీకరించి విశ్రాంతి తీసుకోండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Temple Trust Office (Pakala Anandagiri)",
+        "titleTe": "ఆలయ ట్రస్ట్ కార్యాలయం",
+        "number": "08572282450"
+      },
+      {
+        "titleEn": "APSRTC Pakala Bus Station",
+        "titleTe": "ఆర్టీసీ బస్ స్టేషన్ పాకాల",
+        "number": "08572282422"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "penchalakona-narasimha": {
+    "placeId": "penchalakona-narasimha",
+    "titleEn": "Sri Penusila Lakshmi Narasimha Swamy Devasthanam & Waterfalls",
+    "titleTe": "శ్రీ పెనుశిల లక్ష్మీ నరసింహ స్వామి దేవస్థానం & జలపాతం (పెంచలకోన)",
+    "layoutType": "hill-waterfall",
+    "centerCoordinates": {
+      "lat": 14.3364684,
+      "lng": 79.4103894
+    },
+    "defaultZoom": 17,
+    "compassBearingDeg": 0,
+    "sanctumNameEn": "Swayambhu Sri Shantha Lakshmi Narasimha Swamy Garbhalayam",
+    "sanctumNameTe": "స్వయంభూ శ్రీ శాంత లక్ష్మీ నరసింహ స్వామి గర్భాలయం",
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        145,
+        125
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        140
+      ],
+      [
+        395,
+        220
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Penchalakona Foothills Parking & Bus Terminal",
+        "nameTe": "పెంచలకోన పార్కింగ్ & బస్ బే",
+        "category": "parking",
+        "lat": 14.3358,
+        "lng": 79.4098,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Expansive parking area for RTC buses, tourist vehicles, and private cars with shade trees.",
+        "descTe": "ఆర్టీసీ బస్సులు మరియు ప్రైవేట్ వాహనాల పార్కింగ్ ప్రదేశం."
+      },
+      {
+        "id": "waterfalls",
+        "nameEn": "Sacred Kona Waterfalls & Snana Ghats",
+        "nameTe": "పవిత్ర కోన జలపాతం & స్నాన ఘట్టాలు",
+        "category": "info",
+        "lat": 14.3368,
+        "lng": 79.4096,
+        "svgX": 145,
+        "svgY": 125,
+        "descEn": "Medicinal mountain stream originating from Vedagiri hills where pilgrims take a holy cleansing dip.",
+        "descTe": "వేదగిరి కొండల ఔషధ మూలికల గుండా ప్రవహించే పవిత్ర జలపాతం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear & Cloakroom Counter",
+        "nameTe": "పాదరక్షల స్టాండ్ & క్లాక్‌రూమ్",
+        "category": "footwear",
+        "lat": 14.3361,
+        "lng": 79.4101,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Safe custody counters for shoes, luggage, and mobile phones near temple entrance.",
+        "descTe": "చెప్పులు మరియు లగేజ్ భద్రపరిచే కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "Temple Gateway & Mukha Mandapam",
+        "nameTe": "ఆలయ రాజగోపురం & ముఖ మండపం",
+        "category": "entry",
+        "lat": 14.3362,
+        "lng": 79.4103,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Main entrance archway leading to the ancient stone mandapam.",
+        "descTe": "ఆలయ ప్రధాన ప్రవేశ ద్వారం."
+      },
+      {
+        "id": "dhwajasthambham",
+        "nameEn": "Dhwajasthambham & Garuda Sannidhi",
+        "nameTe": "ధ్వజస్తంభం & గరుడ సన్నిధి",
+        "category": "info",
+        "lat": 14.3363,
+        "lng": 79.4104,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Sacred brass-clad flag mast and Lord Garuda's shrine facing the main temple.",
+        "descTe": "పవిత్ర ధ్వజస్తంభం మరియు గరుత్మంతుని సన్నిధి."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Swayambhu Rock Garbhalayam (Sri Shantha Narasimha)",
+        "nameTe": "స్వయంభూ శిలా గర్భాలయం (శాంత నరసింహ స్వామి)",
+        "category": "sanctum",
+        "lat": 14.3364684,
+        "lng": 79.4103894,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Ancient self-manifested rock formation where Goddess Chenchu Lakshmi embraced and calmed Lord Narasimha.",
+        "descTe": "చెంచు లక్ష్మి ఆలింగనంతో శాంతించిన స్వయంభూ శ్రీ లక్ష్మీ నరసింహ స్వామి దివ్య దర్శనం."
+      },
+      {
+        "id": "annadanam",
+        "nameEn": "Free Nitya Annadana Satram (12:30 PM – 2:30 PM)",
+        "nameTe": "నిత్య అన్నదాన సత్రం (మధ్యాహ్నం 12:30 - 2:30)",
+        "category": "food",
+        "lat": 14.3365,
+        "lng": 79.4108,
+        "svgX": 395,
+        "svgY": 140,
+        "descEn": "Devasthanam dining hall providing free, nutritious hot meals daily to all visiting devotees.",
+        "descTe": "భక్తులందరికీ ఉచిత రుచికరమైన నిత్య అన్నప్రసాద వితరణ."
+      },
+      {
+        "id": "cottages",
+        "nameEn": "TTD / Endowments Choultries & Guest Cottages",
+        "nameTe": "టీటీడీ & దేవాదాయ ధర్మసత్రాలు",
+        "category": "info",
+        "lat": 14.3359,
+        "lng": 79.4109,
+        "svgX": 395,
+        "svgY": 220,
+        "descEn": "Comfortable AC and non-AC budget accommodation rooms for overnight pilgrims.",
+        "descTe": "యాత్రికుల బస కోసం సౌకర్యవంతమైన గదులు మరియు సత్రాలు."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Penchalakona Foothills Arrival & Parking",
+        "titleTe": "పెంచలకోన చేరుకోవడం & పార్కింగ్",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle at the base near the bus bay.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Holy Cleansing Dip in Kona Waterfalls",
+        "titleTe": "పవిత్ర కోన జలపాతంలో స్నానం",
+        "distance": "80m",
+        "timeMins": 15,
+        "descEn": "Take a refreshing holy dip in the therapeutic mountain stream waters.",
+        "descTe": "ఔషధ గుణాలు గల పవిత్ర జలపాతంలో స్నానం చేయండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Footwear Custody & Mukha Mandapam Entry",
+        "titleTe": "చెప్పులు విడిచి మండపం ప్రవేశం",
+        "distance": "60m",
+        "timeMins": 3,
+        "descEn": "Deposit footwear at the counter and proceed through the gateway.",
+        "descTe": "పాదరక్షలు విడిచి ఆలయ ముఖమండపంలోకి ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Swayambhu Sri Lakshmi Narasimha Darshan",
+        "titleTe": "స్వయంభూ శ్రీ లక్ష్మీ నరసింహ స్వామి దర్శనం",
+        "distance": "40m",
+        "timeMins": 20,
+        "descEn": "Offer prayers at the self-manifested rock shrine for peace, protection, and family prosperity.",
+        "descTe": "శాంత నరసింహ స్వామిని దర్శించి ప్రత్యేక పూజలు చేయండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Free Nitya Annadanam & Prasadam Counter",
+        "titleTe": "నిత్య అన్నదానం & ప్రసాద స్వీకరణ",
+        "distance": "60m",
+        "timeMins": 15,
+        "descEn": "Receive sanctified Laddoo prasadam and partake in the free Nitya Annadanam meal.",
+        "descTe": "లడ్డూ ప్రసాదం స్వీకరించి నిత్య అన్నదాన ప్రసాదాన్ని ఆరగించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "Devasthanam Executive Officer (Penchalakona)",
+        "titleTe": "దేవస్థానం కార్యనిర్వాహక అధికారి",
+        "number": "08612345678"
+      },
+      {
+        "titleEn": "APSRTC Rapur Depot",
+        "titleTe": "ఆర్టీసీ రాపూరు డిపో",
+        "number": "08612345123"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  },
+  "nagalapuram-temple": {
+    "placeId": "nagalapuram-temple",
+    "titleEn": "Sri Veda Narayana Swamy Temple Precinct Map (Nagalapuram)",
+    "titleTe": "శ్రీ వేదనారాయణ స్వామి ఆలయ ప్రాంగణ మ్యాప్ (నాగలాపురం)",
+    "layoutType": "ancient-shrine",
+    "centerCoordinates": {
+      "lat": 13.3876691,
+      "lng": 79.7965048
+    },
+    "defaultZoom": 17,
+    "compassBearingDeg": 0,
+    "sanctumNameEn": "Sri Matsya Veda Narayana Swamy Garbhalayam",
+    "sanctumNameTe": "శ్రీ మత్స్య వేదనారాయణ స్వామి గర్భాలయం",
+    "routePath": [
+      [
+        430,
+        290
+      ],
+      [
+        375,
+        265
+      ],
+      [
+        270,
+        275
+      ],
+      [
+        270,
+        195
+      ],
+      [
+        145,
+        125
+      ],
+      [
+        270,
+        85
+      ],
+      [
+        395,
+        140
+      ],
+      [
+        395,
+        220
+      ],
+      [
+        430,
+        290
+      ]
+    ],
+    "pins": [
+      {
+        "id": "parking",
+        "nameEn": "Outer Courtyard & Temple Parking Bay",
+        "nameTe": "ఆలయ ప్రాంగణం బయట పార్కింగ్ స్థలం",
+        "category": "parking",
+        "lat": 13.387,
+        "lng": 79.796,
+        "svgX": 430,
+        "svgY": 290,
+        "descEn": "Spacious vehicle parking area in front of the outer Rajagopuram.",
+        "descTe": "వాహనాల పార్కింగ్ ప్రదేశం."
+      },
+      {
+        "id": "footwear",
+        "nameEn": "Free Footwear Stand & Luggage Cloakroom",
+        "nameTe": "పాదరక్షల స్టాండ్ & క్లాక్‌రూమ్",
+        "category": "footwear",
+        "lat": 13.3873,
+        "lng": 79.7962,
+        "svgX": 375,
+        "svgY": 265,
+        "descEn": "Free TTD footwear deposit counter before the main gopuram.",
+        "descTe": "ఉచిత చెప్పుల కౌంటర్."
+      },
+      {
+        "id": "entry",
+        "nameEn": "16th-Century Vijayanagara Rajagopuram Entrance",
+        "nameTe": "శ్రీకృష్ణదేవరాయల కాలం నాటి రాజగోపురం",
+        "category": "entry",
+        "lat": 13.3874,
+        "lng": 79.7963,
+        "svgX": 270,
+        "svgY": 275,
+        "descEn": "Massive stone gopuram constructed by Sri Krishnadevaraya featuring sculpted Dasavatharam motifs.",
+        "descTe": "దశావతార శిల్పాలతో అలరారే చారిత్రక రాజగోపురం."
+      },
+      {
+        "id": "surya-path",
+        "nameEn": "630-Foot Surya Puja Solar Axis & Mandapam",
+        "nameTe": "630 అడుగుల సూర్య పూజా మార్గం & మహా మండపం",
+        "category": "info",
+        "lat": 13.3875,
+        "lng": 79.7964,
+        "svgX": 270,
+        "svgY": 195,
+        "descEn": "Astronomical axis where setting sun rays travel 630 ft through multiple stone doorways to illuminate the deity in March.",
+        "descTe": "ప్రతి ఏటా మార్చిలో సూర్యకిరణాలు నేరుగా స్వామివారిని తాకే అద్భుత ఖగోళ వాస్తు మార్గం."
+      },
+      {
+        "id": "thayar",
+        "nameEn": "Sri Vedavalli Thayar Sannidhi",
+        "nameTe": "శ్రీ వేదవల్లి తాయారు సన్నిధి",
+        "category": "info",
+        "lat": 13.3876,
+        "lng": 79.7967,
+        "svgX": 395,
+        "svgY": 140,
+        "descEn": "Standalone shrine dedicated to Goddess Vedavalli Thayar in peaceful seated posture.",
+        "descTe": "శ్రీ వేదవల్లి తాయారు అమ్మవారి ప్రత్యేక ఆలయం."
+      },
+      {
+        "id": "sanctum",
+        "nameEn": "Sri Matsya Veda Narayana Swamy Garbhalayam",
+        "nameTe": "శ్రీ మత్స్య వేదనారాయణ స్వామి గర్భాలయం",
+        "category": "sanctum",
+        "lat": 13.3876691,
+        "lng": 79.7965048,
+        "svgX": 270,
+        "svgY": 85,
+        "descEn": "Presiding deity in Matsya Avatar (half-human, half-fish) holding Sudarshana Chakra in Prayoga stance with Sridevi & Bhudevi.",
+        "descTe": "ప్రయోగ చక్రంతో శోభిల్లే అరుదైన మత్స్యావతార శ్రీ వేదనారాయణ స్వామి దివ్య దర్శనం."
+      },
+      {
+        "id": "varaha-narasimha",
+        "nameEn": "Sri Lakshmi Varaha & Bhumi Narasimha Shrines",
+        "nameTe": "శ్రీ లక్ష్మీ వరాహ & భూమి నరసింహ స్వామి ఉపాలయాలు",
+        "category": "info",
+        "lat": 13.3877,
+        "lng": 79.7962,
+        "svgX": 145,
+        "svgY": 125,
+        "descEn": "Sacred subsidiary shrines for Lord Varaha, Lord Narasimha, Venugopala Swamy, and Veera Anjaneya.",
+        "descTe": "వరాహ, నరసింహ, వేణుగోపాల మరియు వీరాంజనేయ స్వామి ఉపాలయాలు."
+      },
+      {
+        "id": "laddu",
+        "nameEn": "TTD Free Prasadam & Seva Counter",
+        "nameTe": "టీటీడీ ప్రసాదం & పూజా టికెట్ కౌంటర్",
+        "category": "laddu",
+        "lat": 13.3874,
+        "lng": 79.7967,
+        "svgX": 395,
+        "svgY": 220,
+        "descEn": "Collect consecrated TTD laddu prasadam and book special Archanas and Sevas.",
+        "descTe": "టీటీడీ లడ్డూ ప్రసాదం మరియు పూజా టికెట్ల కేంద్రం."
+      }
+    ],
+    "routeSteps": [
+      {
+        "stepNumber": 1,
+        "titleEn": "Nagalapuram Outer Gopuram Arrival & Parking",
+        "titleTe": "నాగలాపురం చేరుకోవడం & పార్కింగ్",
+        "distance": "0.0 km",
+        "timeMins": 0,
+        "descEn": "Park vehicle in the spacious outer courtyard.",
+        "descTe": "వాహనాన్ని పార్క్ చేయండి."
+      },
+      {
+        "stepNumber": 2,
+        "titleEn": "Footwear Stand & Rajagopuram Entry",
+        "titleTe": "చెప్పులు విడిచి రాజగోపురం ప్రవేశం",
+        "distance": "40m",
+        "timeMins": 3,
+        "descEn": "Deposit footwear and enter through the 16th-century Vijayanagara Gopuram.",
+        "descTe": "పాదరక్షలు విడిచి రాజగోపురం గుండా ప్రవేశించండి."
+      },
+      {
+        "stepNumber": 3,
+        "titleEn": "Surya Puja Mandapam & Dasavatharam Pillars",
+        "titleTe": "సూర్య పూజ మండపం & దశావతార స్తంభాలు",
+        "distance": "60m",
+        "timeMins": 8,
+        "descEn": "Admire the 630-ft solar alignment corridor and intricately carved stone pillars.",
+        "descTe": "చారిత్రక సూర్యపూజ మార్గం మరియు రాతి శిల్పాలను వీక్షించండి."
+      },
+      {
+        "stepNumber": 4,
+        "titleEn": "Sri Matsya Veda Narayana Swamy Darshan",
+        "titleTe": "శ్రీ మత్స్య వేదనారాయణ స్వామి మూలవిరాట్టు దర్శనం",
+        "distance": "50m",
+        "timeMins": 15,
+        "descEn": "Receive the divine blessings of Lord Vishnu in His first incarnation as Matsya with Prayoga Chakra.",
+        "descTe": "మత్స్యావతార స్వామివారి దివ్య దర్శనం మరియు ఆశీస్సులు పొందండి."
+      },
+      {
+        "stepNumber": 5,
+        "titleEn": "Sri Vedavalli Thayar & Sub-Shrines Pradakshina",
+        "titleTe": "శ్రీ వేదవల్లి తాయారు & ఉపాలయాల దర్శనం",
+        "distance": "80m",
+        "timeMins": 12,
+        "descEn": "Offer prayers at Vedavalli Thayar, Lakshmi Varaha, and Narasimha shrines.",
+        "descTe": "వేదవల్లి తాయారు మరియు ఇతర సన్నిధులను దర్శించండి."
+      },
+      {
+        "stepNumber": 6,
+        "titleEn": "TTD Prasadam Collection",
+        "titleTe": "టీటీడీ ప్రసాదం స్వీకరణ",
+        "distance": "40m",
+        "timeMins": 5,
+        "descEn": "Collect consecrated TTD laddu and holy theertham prasadam.",
+        "descTe": "పవిత్ర లడ్డూ ప్రసాదాన్ని స్వీకరించండి."
+      }
+    ],
+    "emergencyContacts": [
+      {
+        "titleEn": "TTD Temple Information Center (Nagalapuram)",
+        "titleTe": "టీటీడీ ఆలయ సమాచార కేంద్రం",
+        "number": "08772277777"
+      },
+      {
+        "titleEn": "APSRTC Nagalapuram Bus Stand",
+        "titleTe": "ఆర్టీసీ నాగలాపురం బస్ స్టాండ్",
+        "number": "08577222123"
+      },
+      {
+        "titleEn": "Emergency Helpline",
+        "titleTe": "అత్యవసర హెల్ప్‌లైన్",
+        "number": "112"
+      }
+    ]
+  }
+}

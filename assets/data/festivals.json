@@ -1,0 +1,3003 @@
+[
+  {
+    "id": "new-year-2026",
+    "name": "New Year's Day 2026",
+    "date": "2026-01-01",
+    "location": "Tirumala Srivari Temple & Tirupati Town",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple",
+      "kapila-theertham"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 10:00 PM",
+    "dressCode": "Traditional Festive Attire",
+    "parking": "Limited / Transit Buses Recommended",
+    "specialTips": "Massive influx of pilgrims seeking blessings for the beginning of the English New Year.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pausha-putrada-ekadashi",
+    "name": "Pausha Putrada Ekadashi",
+    "date": "2026-01-02",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 9:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Tirumala Hill Parking",
+    "specialTips": "Auspicious Vishnu Ekadashi for family well-being and child boons.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-jan-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-01-04",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Base Parking",
+    "specialTips": "Twilight Shiva puja with Bilvarchana at the foot of the waterfalls.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "national-youth-day",
+    "name": "National Youth Day (Swami Vivekananda Jayanti)",
+    "date": "2026-01-10",
+    "location": "SV University & Regional Science Centre",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "9:00 AM - 2:00 PM",
+    "dressCode": "Smart Casual",
+    "parking": "Available",
+    "specialTips": "Youth conventions, yoga demonstrations, and cultural discourses across universities.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "bhogi",
+    "name": "Bhogi (Telugu Sankranti Day 1)",
+    "date": "2026-01-13",
+    "location": "Kapila Theertham & Tirupati Town",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 10:00 AM",
+    "dressCode": "Traditional Telugu Attire",
+    "parking": "Available",
+    "specialTips": "Bhogi Mantalu bonfire at dawn, colorful muggulu (rangoli) with Gobbemmalu in traditional houses.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "makara-sankranti",
+    "name": "Makara Sankranti (Telugu Harvest Festival & Pongal)",
+    "date": "2026-01-14",
+    "location": "Sri Venkateswara Swamy Temple & Tirupati",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple",
+      "kapila-theertham"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 9:00 PM",
+    "dressCode": "Traditional Festive Attire",
+    "parking": "Limited",
+    "specialTips": "Grand Telugu harvest festival. Special pujas, Haridasu sankeertanas, and Pongal offerings.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "kanuma",
+    "name": "Kanuma (Cattle & Farmer Worship Festival)",
+    "date": "2026-01-15",
+    "location": "SV Zoological Park & Countryside",
+    "placeId": "sv-zoo-park",
+    "relatedTemples": [
+      "silparamam-tirupati"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 4:00 PM",
+    "dressCode": "Casual / Traditional",
+    "parking": "Available",
+    "specialTips": "Pasuvu Puja (decorating cows and bulls), family picnics at Zoo Park, and traditional feasts.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "mukkanuma",
+    "name": "Mukkanuma",
+    "date": "2026-01-16",
+    "location": "Tirupati Town Area",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "padmavathi-temple"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "9:00 AM - 5:00 PM",
+    "dressCode": "Casual",
+    "parking": "Town Center",
+    "specialTips": "Day 4 of Telugu Sankranti celebrations for family gatherings and village sports.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "shattila-ekadashi",
+    "name": "Shattila Ekadashi (Sesame Puja)",
+    "date": "2026-01-18",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Use of sesame in 6 sacred ways (Til Daan, Til Snan) for purification.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "vaikunta-ekadashi-jan",
+    "name": "Vaikuntha Ekadasi (January Uttara Dwara Darshanam)",
+    "date": "2026-01-19",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "3:00 AM - 11:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Very Limited",
+    "specialTips": "Passing through Vaikuntha Dwaram; tickets must be booked in advance.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-jan-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-01-20",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Base Parking",
+    "specialTips": "Evening Nandi abhishekam and Shiva Stotram chanting.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "pausha-amavasya",
+    "name": "Pausha Amavasya (Mauni Amavasya)",
+    "date": "2026-01-22",
+    "location": "Kapila Theertham & Swami Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:30 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Silent contemplation (Mauna Vrata) and ancestral tarpanam at sacred waters.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "rathasapthami-jan",
+    "name": "Ratha Saptami (Surya Jayanthi)",
+    "date": "2026-01-24",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "alipiri-mettu",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Witness seven vahanams of Lord Malayappa Swamy from morning to night.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "bhishma-ashtami",
+    "name": "Bhishma Ashtami (Tarpanam)",
+    "date": "2026-01-25",
+    "location": "Sri Govindaraja Swamy Pushkarini",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 11:30 AM",
+    "dressCode": "Traditional",
+    "parking": "Town Center",
+    "specialTips": "Special tarpana rituals commemorating Pitamaha Bhishma.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "republic-day",
+    "name": "Republic Day (National Festival)",
+    "date": "2026-01-26",
+    "location": "Regional Science Centre & Town Parade",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "silparamam-tirupati"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 12:00 PM",
+    "dressCode": "Formal / Smart Casual",
+    "parking": "Available",
+    "specialTips": "Flag hoisting ceremonies, parades, and cultural programs across Tirupati.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "martyrs-day",
+    "name": "Martyrs' Day (Mahatma Gandhi Punyatithi)",
+    "date": "2026-01-30",
+    "location": "Gandhi Road & Regional Science Centre",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 5,
+    "expectedCrowd": "Low",
+    "recommendedTime": "10:30 AM - 12:00 PM",
+    "dressCode": "Casual",
+    "parking": "Available",
+    "specialTips": "Two-minute national silence observed at 11:00 AM in memory of freedom fighters.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "thaipusam",
+    "name": "Thaipusam (Subrahmanya Swamy Shashti)",
+    "date": "2026-02-01",
+    "location": "Sri Subrahmanya Swamy Temple & Kapila Theertham",
+    "placeId": "subrahmanya-temple",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available at Base",
+    "specialTips": "Sacred Kavadi offerings and milk abhishekam to Lord Murugan/Subrahmanya.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "vasanta-panchami",
+    "name": "Vasanta Panchami (Sri Saraswati Puja)",
+    "date": "2026-02-02",
+    "location": "SVU Saraswati Shrine & Tirupati Schools",
+    "placeId": "sv-university",
+    "relatedTemples": [
+      "iskcon-tirupati",
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Yellow / Traditional Attire",
+    "parking": "Campus Parking",
+    "specialTips": "Aksharabhyasam ritual for young children seeking blessings of Goddess Saraswati on Magha Sukla Panchami.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "ratha-saptami",
+    "name": "Ratha Saptami (Surya Jayanthi - Mini Brahmotsavam)",
+    "date": "2026-02-04",
+    "location": "Tirumala Srivari Temple & Alipiri",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "alipiri-mettu",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Strictly Restricted",
+    "specialTips": "One-day mini Brahmotsavam where Lord Malayappa Swamy rides 7 different vahanams from sunrise to night.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "bhishma-ekadashi",
+    "name": "Bhishma Ekadashi (Vishnu Sahasranama Jayanti)",
+    "date": "2026-02-08",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Magha Sukla Ekadashi. Mass chanting of Sri Vishnu Sahasranama Stotram in all Vaishnavite temples.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-feb-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-02-10",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Base Parking",
+    "specialTips": "Twilight prayers preceding Maha Shivaratri week.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "magha-purnima",
+    "name": "Magha Purnima (Guru Ravidas Jayanti)",
+    "date": "2026-02-12",
+    "location": "Kapila Theertham & Govindaraja Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 8:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Holy full moon dips in sacred tanks and charity distribution.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "maha-shivaratri",
+    "name": "Maha Shivaratri (Grand Shiva Vigil)",
+    "date": "2026-02-15",
+    "location": "Sri Kapileswara Swamy Temple & Srikalahasti",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti",
+      "parasurameswara-temple",
+      "gudimallam-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - Midnight (Akhanda Jaagaram)",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Kapila Outer Grounds & Town Center",
+    "specialTips": "Holy bath in Kapila waterfall, Lingodbhava Abhishekam at midnight, and all-night bhajan vigil.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "phalguna-amavasya-feb",
+    "name": "Phalguna Amavasya (Somavara Vratam)",
+    "date": "2026-02-17",
+    "location": "Kapila Theertham Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Pithru tarpana offerings on holy new moon.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "ramakrishna-jayanti",
+    "name": "Sri Ramakrishna Paramahamsa Jayanti",
+    "date": "2026-02-22",
+    "location": "Ramakrishna Mission & ISKCON Tirupati",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 1:00 PM",
+    "dressCode": "Modest",
+    "parking": "Available",
+    "specialTips": "Spiritual discourses, meditation, and devotional bhajans.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "vijaya-ekadashi",
+    "name": "Vijaya Ekadashi",
+    "date": "2026-02-24",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Fasting and prayer for victory over internal obstacles and sins.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-feb-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-02-26",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening Bilvarchana and Shiva Deeparadhana.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "national-science-day",
+    "name": "National Science Day (Raman Effect Discovery)",
+    "date": "2026-02-28",
+    "location": "Regional Science Centre, Tirupati",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 5:00 PM",
+    "dressCode": "Casual",
+    "parking": "Science Centre Parking",
+    "specialTips": "Free interactive science exhibitions, sky observation, and robotic demos for students.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "kumaradhara-theertha-mukkoti",
+    "name": "Kumaradhara Theertha Mukkoti",
+    "date": "2026-03-03",
+    "location": "Kumaradhara Theertham, Tirumala Hills",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 4:00 PM",
+    "dressCode": "Casual / Trekking attire",
+    "parking": "Tirumala Base Only",
+    "specialTips": "Annual sacred forest trek permitted on Magha Purnima for holy dip in Kumaradhara Waterfall.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "holi-kamuni-dahanam",
+    "name": "Holi & Kamuni Dahanam (Gaura Purnima)",
+    "date": "2026-03-03",
+    "location": "Sri Radha Govinda ISKCON Temple",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 2:00 PM",
+    "dressCode": "Casual White Attire",
+    "parking": "ISKCON Grounds",
+    "specialTips": "Organic herbal color celebration, Gaura Purnima Harinam Sankirtan, and traditional Kamuni Dahanam bonfire.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "dhulandi-holi",
+    "name": "Rangwali Holi (Dhulandi)",
+    "date": "2026-03-04",
+    "location": "ISKCON Tirupati & Town Squares",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:30 AM - 1:00 PM",
+    "dressCode": "Casual White / Old Clothes",
+    "parking": "Town Parking",
+    "specialTips": "Festival of vibrant gulal colors, sweets distribution, and temple kirtan celebrations.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "womens-day",
+    "name": "International Women's Day",
+    "date": "2026-03-08",
+    "location": "Sri Padmavathi Ammavari Temple & SVU",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "sv-university",
+      "vakula-matha"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 8:00 PM",
+    "dressCode": "Traditional / Formal",
+    "parking": "Available",
+    "specialTips": "Special honors and Kumkumarchana for women devotees at Goddess Padmavathi Temple.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "tumburu-theertha-mukkoti",
+    "name": "Tumburu Theertha Mukkoti",
+    "date": "2026-03-12",
+    "location": "Tirumala Seshachalam Forest Theertham",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 2:00 PM",
+    "dressCode": "Trekking Modest",
+    "parking": "Papavinasam Dam Parking",
+    "specialTips": "Annual holy bath in Tumburu Theertham canyon on Phalguna Purnima; mass forest pilgrimage.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "papavinasam-theertha-mukkoti",
+    "name": "Papavinasam Theertha Mukkoti",
+    "date": "2026-03-15",
+    "location": "Papavinasam Theertham, Tirumala",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 3:00 PM",
+    "dressCode": "Modest / Traditional",
+    "parking": "Papavinasam Parking",
+    "specialTips": "Holy waterfall dip to cleanse all accumulated sins.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "papmochani-ekadashi",
+    "name": "Papmochani Ekadashi",
+    "date": "2026-03-16",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Auspicious Ekadashi preceding the Telugu New Year.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-mar-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-03-17",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening twilight prayers and lingam abhishekam.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "phalguna-amavasya-mar",
+    "name": "Phalguna Amavasya (Year-End Amavasya)",
+    "date": "2026-03-19",
+    "location": "Kapila Theertham & Swami Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Last new moon of the outgoing Telugu samvatsaram.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "ugadi",
+    "name": "Ugadi (Telugu New Year - Sri Parabhava Samvatsaram)",
+    "date": "2026-03-20",
+    "location": "Tirumala Srivari Temple & Tirupati Town",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "padmavathi-temple",
+      "govindaraja",
+      "kapila-theertham"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "New Traditional Silk Attire",
+    "parking": "Restricted",
+    "specialTips": "Ugadi Pachadi prasadam, annual Panchanga Sravanam at Srivari Temple, and floral Asthanam ceremony.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "cheti-chand",
+    "name": "Cheti Chand (Jhulelal Jayanti)",
+    "date": "2026-03-21",
+    "location": "Sri Govindaraja Swamy Temple Circle",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "iskcon-tirupati"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "9:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Town Center",
+    "specialTips": "Sindhi New Year processions and water offerings (Bahrana Sahib).",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "matsya-jayanti",
+    "name": "Matsya Jayanti (Lord Vishnu Fish Avatar)",
+    "date": "2026-03-22",
+    "location": "Sri Vedanarayana Swamy Temple, Nagalapuram",
+    "placeId": "nagalapuram-temple",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Nagalapuram Parking",
+    "specialTips": "Annual Surya Pooja miracle at Nagalapuram where sun rays directly touch Lord Matsya idol inside the main shrine.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "sri-rama-navami",
+    "name": "Sri Rama Navami (Sitarama Kalyana Mahotsavam)",
+    "date": "2026-03-27",
+    "location": "Sri Kodandarama Swamy Temple, Tirupati & Vontimitta",
+    "placeId": "kodandarama",
+    "relatedTemples": [
+      "vontimitta-kodandarama",
+      "venkateswara"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kodandarama Temple Grounds",
+    "specialTips": "Grand Sitarama Kalyanam in the morning, Panakam & Vadapappu distribution, and evening Hanumantha Vahana Seva.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "kamada-ekadashi",
+    "name": "Kamada Ekadashi",
+    "date": "2026-03-29",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Fulfiller of all pure spiritual desires on Chaitra Sukla Ekadashi.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-mar-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-03-30",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening sacred prayers at the Kapila waterfalls shrine.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "mahavir-jayanti",
+    "name": "Mahavir Jayanti",
+    "date": "2026-03-31",
+    "location": "Tirupati Town Jain Temples & Gandhi Road",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "regional-science-centre"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 1:00 PM",
+    "dressCode": "Traditional / White",
+    "parking": "Town Parking",
+    "specialTips": "Ahimsa peace processions, charity feedings, and prayers honoring Bhagavan Mahavira.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "chitra-pournami",
+    "name": "Chitra Pournami (Chaitra Purnima)",
+    "date": "2026-04-02",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 PM - 10:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Full moon evening Garuda Seva procession along the four Mada streets at Tirumala.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "good-friday",
+    "name": "Good Friday",
+    "date": "2026-04-03",
+    "location": "Tirupati Town Churches & Central Landmarks",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "regional-science-centre"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "11:00 AM - 3:30 PM",
+    "dressCode": "Modest / Formal",
+    "parking": "Town Center",
+    "specialTips": "Solemn Stations of the Cross services and prayer assemblies.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "easter-sunday",
+    "name": "Easter Sunday (Resurrection Feast)",
+    "date": "2026-04-05",
+    "location": "Tirupati Churches & Town Centers",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "sv-zoo-park"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Festive Attire",
+    "parking": "Available",
+    "specialTips": "Dawn resurrection mass, choir hymns, and family celebrations.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "ambedkar-jayanti",
+    "name": "Dr. B.R. Ambedkar Jayanti",
+    "date": "2026-04-13",
+    "location": "SV University & Ambedkar Statue, Town Center",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 2:00 PM",
+    "dressCode": "Formal",
+    "parking": "Available",
+    "specialTips": "Garlanding of statues, constitutional symposiums, and cultural rallies.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "tamil-new-year",
+    "name": "Mesha Sankranti (Tamil Puthandu & Vishu)",
+    "date": "2026-04-14",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Heavy arrival of Tamil and Kerala devotees for Solar New Year auspicious darshan.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "varuthini-ekadashi",
+    "name": "Varuthini Ekadashi",
+    "date": "2026-04-15",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Auspicious protective Ekadashi on Vaisakha Krishna Paksha.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-apr-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-04-17",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight water and milk abhishekam at the base of Kapila Falls.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "vaishakha-amavasya",
+    "name": "Vaishakha Amavasya (Darsha Amavasya)",
+    "date": "2026-04-18",
+    "location": "Kapila Theertham & Govindaraja Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Pithru tarpana snanam before summer peak.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "akshaya-tritiya",
+    "name": "Akshaya Tritiya (Golden Lakshmi Vratam)",
+    "date": "2026-04-20",
+    "location": "Sri Padmavathi Ammavari Temple, Tiruchanur",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:30 AM - 9:30 PM",
+    "dressCode": "Traditional Silk Attire",
+    "parking": "Tiruchanur Special Grounds",
+    "specialTips": "Swarna Ratham (Golden Chariot) procession and special Lakshmi Kubera pujas for eternal prosperity.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "ramanuja-jayanti",
+    "name": "Sri Ramanuja Acharya Jayanti",
+    "date": "2026-04-22",
+    "location": "Sri Govindaraja Swamy Temple & Tirumala",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Traditional Vaishnavite",
+    "parking": "Town Center Parking",
+    "specialTips": "Commemorating Vaishnavite reformer Sri Ramanujacharya with special Divya Prabandham recitations.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "ganga-saptami",
+    "name": "Ganga Saptami (Ganga Jayanti)",
+    "date": "2026-04-23",
+    "location": "Kapila Theertham Waterfalls",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Base",
+    "specialTips": "Rebirth of River Ganga celebration with special deeparadhana at water tanks.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "sita-navami",
+    "name": "Sita Navami (Janaki Jayanti)",
+    "date": "2026-04-25",
+    "location": "Sri Kodandarama Swamy Temple",
+    "placeId": "kodandarama",
+    "relatedTemples": [
+      "padmavathi-temple"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:30 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Special Kalyanotsavam and floral decorations for Goddess Sita Devi.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "mohini-ekadashi",
+    "name": "Mohini Ekadashi",
+    "date": "2026-04-28",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Commemorating Lord Vishnu in Mohini Avatar granting amrita to Devas.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-apr-2",
+    "name": "Pradosha Vratam & Narasimha Jayanti Eve",
+    "date": "2026-04-29",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Pradosha Shiva puja before Narasimha Jayanti full moon.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "telugu-hanuman-jayanthi",
+    "name": "Hanuman Jayanthi (Telugu Deeksha Viramam)",
+    "date": "2026-04-30",
+    "location": "Sri Bedi Anjaneya & Japali Hanuman Temple",
+    "placeId": "bedi-anjaneya",
+    "relatedTemples": [
+      "japali-hanuman",
+      "alipiri-mettu"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 8:00 PM",
+    "dressCode": "Orange / Traditional",
+    "parking": "Japali Forest Base Point",
+    "specialTips": "Conclusion of 41-day Hanuman Deeksha. Massive Sindoor Abhishekam, Vadamala pujas, and Japali forest prayers.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "narasimha-jayanti",
+    "name": "Sri Narasimha Jayanti & May Day (Pournami Garuda Seva)",
+    "date": "2026-05-01",
+    "location": "Tirumala Srivari Temple & Yoga Narasimha Shrine",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 PM - 10:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Limited",
+    "specialTips": "Vaisakha Purnima. Special Abhishekam at inside Yoga Narasimha shrine and full moon Garuda Vahana Seva.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "annamacharya-jayanthi",
+    "name": "Annamacharya Jayanthi (Birth of Saint Singer)",
+    "date": "2026-05-02",
+    "location": "Tallapaka & Govindaraja Swamy Temple",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "govindaraja",
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 PM - 9:30 PM",
+    "dressCode": "Modest",
+    "parking": "Available",
+    "specialTips": "Saptagiri Sankeertana concerts celebrating saint-poet Tallapaka Annamacharya.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "mothers-day",
+    "name": "Mother's Day (Matru Devo Bhava)",
+    "date": "2026-05-10",
+    "location": "Sri Vakula Matha Temple & Padmavathi Temple",
+    "placeId": "vakula-matha",
+    "relatedTemples": [
+      "padmavathi-temple"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Special blessings at Lord Venkateswara's foster mother Vakula Matha temple on Peruru hillock.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "apara-ekadashi",
+    "name": "Apara Ekadashi",
+    "date": "2026-05-14",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Jyeshta Krishna Ekadashi granting infinite spiritual merit.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-may-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-05-15",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight Bilva archana and deeparadhana.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "shani-jayanti",
+    "name": "Shani Jayanti & Vat Savitri Vratam",
+    "date": "2026-05-16",
+    "location": "Kapila Theertham Navagraha Shrine",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Black / Traditional",
+    "parking": "Kapila Grounds",
+    "specialTips": "Sesame oil deepam lighting for Lord Shani and Banyan tree circumambulation for married women.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "nammalwar-utsavams",
+    "name": "Nammalwar Utsavams",
+    "date": "2026-05-21",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Annual religious festival commemorating Vaishnavite saint Sri Nammalwar.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "ganga-dussehra",
+    "name": "Ganga Dussehra",
+    "date": "2026-05-26",
+    "location": "Kapila Theertham Waterfalls",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Theertham Base",
+    "specialTips": "Sacred waterfall snanam (bath) to seek absolution of ten sins on Jyeshta Sukla Dasami.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "nirjala-ekadashi-may",
+    "name": "Nirjala Ekadashi (Bhimseni Ekadashi)",
+    "date": "2026-05-28",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Waterless fasting Ekadashi equivalent to all 24 Ekadashis of the year. Heavy devotional prayers.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-may-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-05-29",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening sacred prayers at the Kapila waterfalls shrine.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "buddha-purnima",
+    "name": "Buddha Purnima & Vaikasi Visakam",
+    "date": "2026-05-31",
+    "location": "Sri Radha Govinda ISKCON Temple & Subrahmanya Shrine",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "kapila-theertham",
+      "subrahmanya-temple"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:00 AM - 1:00 PM",
+    "dressCode": "Traditional / White",
+    "parking": "ISKCON Parking Grounds",
+    "specialTips": "Peace prayers, meditation sessions, and Subrahmanya Swamy janma nakshatram rituals.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "environment-day",
+    "name": "World Environment Day (Vana Samrakshana)",
+    "date": "2026-06-05",
+    "location": "SV Zoological Park & Seshachalam Biosphere",
+    "placeId": "sv-zoo-park",
+    "relatedTemples": [
+      "silparamam-tirupati"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:30 AM - 4:00 PM",
+    "dressCode": "Casual Outdoor",
+    "parking": "Available",
+    "specialTips": "Sapling plantation drives and eco-awareness walks in the Seshachalam reserve forest.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "yogini-ekadashi",
+    "name": "Yogini Ekadashi",
+    "date": "2026-06-11",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Fasting for spiritual health and freedom from long-standing illnesses.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-jun-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-06-13",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight Shiva puja with water abhishekam.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "jyeshta-amavasya",
+    "name": "Jyeshta Amavasya (Vat Purnima Snanam)",
+    "date": "2026-06-14",
+    "location": "Kapila Theertham Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Holy bath in Kapila waterfalls and ancestral tarpana.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "ratha-yatra-puri",
+    "name": "Jagannath Ratha Yatra (Chariot Festival)",
+    "date": "2026-06-16",
+    "location": "Sri Radha Govinda ISKCON Temple, Tirupati",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "3:00 PM - 8:30 PM",
+    "dressCode": "Traditional Festive Attire",
+    "parking": "ISKCON Grounds",
+    "specialTips": "Grand chariot procession of Lord Jagannath, Baladeva, and Subhadra with ecstatic kirtans.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "international-yoga-day",
+    "name": "International Yoga Day & Summer Solstice",
+    "date": "2026-06-21",
+    "location": "Silathoranam Natural Arch & SVU Grounds",
+    "placeId": "silathoranam",
+    "relatedTemples": [
+      "sv-university",
+      "srivari-padalu"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 9:00 AM",
+    "dressCode": "Yoga Wear / Comfortable",
+    "parking": "Silathoranam Parking",
+    "specialTips": "Sunrise mass Surya Namaskar sessions atop Tirumala hills against the natural geological rock arch.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "jyeshtabhishekam-day1",
+    "name": "Srivari Jyeshtabhishekam (Kavacha Pratishtha - Day 1)",
+    "date": "2026-06-25",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Tirumala Hill Parking",
+    "specialTips": "Abhidheyaka Abhishekam on Jyeshta Nakshatram to protect centuries-old Utsava murtis. Diamond Armour (Vajra Kavacham) adorned.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "jyeshtabhishekam-day2",
+    "name": "Srivari Jyeshtabhishekam (Muthangi Kavacham - Day 2)",
+    "date": "2026-06-26",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Limited",
+    "specialTips": "Lord Malayappa Swamy adorned in splendid Pearl Armour (Muthu Kavacham).",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "jyeshtabhishekam-day3",
+    "name": "Srivari Jyeshtabhishekam (Swarna Kavacham - Day 3) & Bakrid",
+    "date": "2026-06-27",
+    "location": "Tirumala Srivari Temple & Town Squares",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Limited",
+    "specialTips": "Poornahuti with Gold Armour (Swarna Kavacham) which remains on the deities throughout the year. Community brotherhood greetings.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-jun-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-06-29",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening sacred prayers at the Kapila waterfalls shrine.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "tholi-ekadashi",
+    "name": "Tholi Ekadashi (Devshayani / Ashadha Sukla Ekadashi)",
+    "date": "2026-07-10",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 10:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Commencement of Chaturmasya Vratam. Major Telugu festive day with heavy statewide pilgrim arrivals.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "bonalu",
+    "name": "Bonalu (Telugu Ashadha Goddess Festival)",
+    "date": "2026-07-12",
+    "location": "Tataiah Gunta Gangamma & Kapila Theertham",
+    "placeId": "tataiah-gunta-gangamma",
+    "relatedTemples": [
+      "kapila-theertham",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:00 AM - 4:00 PM",
+    "dressCode": "Traditional Silk Saree / Kurta",
+    "parking": "Available",
+    "specialTips": "Women carry decorated brass pots (Bonam) with neem leaves & lighted lamps to offer to Mother Goddess Gangamma.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "soma-pradosham-jul",
+    "name": "Soma Pradosha Vratam",
+    "date": "2026-07-13",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Auspicious Monday Pradosham Shiva worship during Ashadha.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "ashadha-amavasya",
+    "name": "Ashadha Amavasya (Chukkala Amavasya / Deepa Puja)",
+    "date": "2026-07-14",
+    "location": "Kapila Theertham & Padmavathi Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "padmavathi-temple"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Lighting sesame oil lamps for family protection before Sravana month begins.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "anivara-asthanam",
+    "name": "Anivara Asthanam (Annual TTD Accounts Festival)",
+    "date": "2026-07-16",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "7:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Historic TTD financial new year festival; priests hand over the temple keys and bundle of accounts (Bhashyakara) to Lord Venkateswara.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "muharram",
+    "name": "Muharram (Youm-e-Ashura)",
+    "date": "2026-07-17",
+    "location": "Tirupati Central Landmarks & Procession Routes",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "regional-science-centre"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 4:00 PM",
+    "dressCode": "Modest",
+    "parking": "Town Center",
+    "specialTips": "Peaceful mourning processions and Sharbat distribution honoring Imam Hussain.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "karkataka-sankranti",
+    "name": "Karkataka Sankranti (Dakshinayana Punyakalam)",
+    "date": "2026-07-24",
+    "location": "Tirumala Srivari Temple & Kapila Theertham",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 2:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Southern movement of the Sun begins; auspicious punyakaala snanam.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "kamika-ekadashi-jul",
+    "name": "Kamika Ekadashi",
+    "date": "2026-07-26",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Tulasi leaf puja to Lord Vishnu on Ashadha Krishna Ekadashi.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-jul-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-07-27",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening sacred prayers at the Kapila waterfalls shrine.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "guru-purnima",
+    "name": "Guru Purnima (Vyasa Purnima)",
+    "date": "2026-07-29",
+    "location": "Sri Kapileswara Swamy & ISKCON Tirupati",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "venkateswara",
+      "iskcon-tirupati"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:30 PM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Theertham Grounds",
+    "specialTips": "Guru Purnima celebrations and special abhishekam rituals honoring Maharshi Veda Vyasa.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "sankashtahara-chaturthi-aug1",
+    "name": "Sankashtahara Chaturthi (Friendship Day)",
+    "date": "2026-08-02",
+    "location": "Sri Varasiddhi Vinayaka Temple, Kanipakam & Tirupati",
+    "placeId": "kanipakam-temple",
+    "relatedTemples": [
+      "govindaraja",
+      "kapila-theertham"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional / Casual",
+    "parking": "Available",
+    "specialTips": "Sacred Ganesha Chaturthi vratam during morning and moonrise timings. Special Ganapathi Abhishekam.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "aslesha-karte",
+    "name": "Aslesha Karte",
+    "date": "2026-08-04",
+    "location": "Kapila Theertham & SV Zoological Park",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "sv-zoo-park"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Casual",
+    "parking": "Available",
+    "specialTips": "Agricultural monsoon rain cycle transition according to Telugu Panchangam.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "hiroshima-day",
+    "name": "Hiroshima Peace Day",
+    "date": "2026-08-06",
+    "location": "Regional Science Centre & SVU Peace Forum",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 5,
+    "expectedCrowd": "Low",
+    "recommendedTime": "10:00 AM - 1:00 PM",
+    "dressCode": "Smart Casual",
+    "parking": "Available",
+    "specialTips": "Peace pledge, science lectures, and nuclear non-proliferation exhibits.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "kamika-ekadashi",
+    "name": "Kamika Ekadashi (Bonalu Celebrations)",
+    "date": "2026-08-09",
+    "location": "Tirumala Srivari Temple & Tirupati",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:00 AM - 9:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Limited",
+    "specialTips": "Auspicious Vishnu Ekadashi during Sravana month. Heavy pilgrim footfall for Lord Venkateswara darshan.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "soma-pradosham-aug",
+    "name": "Soma Pradosha Vratam",
+    "date": "2026-08-10",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti",
+      "parasurameswara-temple"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Theertham Base Parking",
+    "specialTips": "Pradosha twilight Shiva puja. Special Bilvarchana and water abhishekam at the base of the sacred waterfalls.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "masa-shivaratri-aug",
+    "name": "Masa Shivaratri (Sravana Masa)",
+    "date": "2026-08-11",
+    "location": "Sri Kapileswara Swamy Temple & Srikalahasti",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti",
+      "parasurameswara-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available at Base",
+    "specialTips": "Monthly holy Shivaratri in the sacred Sravana month. Night lingodbhava abhishekam and deeparadhana.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "sravana-amavasya",
+    "name": "Sravana Amavasya (Polala Amavasya)",
+    "date": "2026-08-12",
+    "location": "Sri Kapileswara Swamy & Govindaraja Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja",
+      "venkateswara"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Holy new moon day for ancestral offerings (Pithru Tarpana) at sacred pushkarinis.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "chandrodayam-aug",
+    "name": "Chandrodayam (Chandra Darshan)",
+    "date": "2026-08-13",
+    "location": "Tirumala Srivari Temple & Alipiri",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "alipiri-mettu"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:30 PM - 8:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Auspicious sighting of the crescent moon marking the beginning of Sukla Paksha.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "independence-day",
+    "name": "Independence Day & Parsi New Year (Navroz)",
+    "date": "2026-08-15",
+    "location": "Regional Science Centre & Town Parks",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "silparamam-tirupati",
+      "sv-zoo-park"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:00 AM - 1:00 PM",
+    "dressCode": "Smart Casual / Patriotic",
+    "parking": "Available",
+    "specialTips": "Flag hoisting, science exhibitions, and cultural parades at Science Centre & SVU Grounds.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "garuda-nag-panchami",
+    "name": "Garuda Panchami & Nag Panchami (Simha Sankranti)",
+    "date": "2026-08-17",
+    "location": "Alipiri Garuda Statue & Tirumala Srivari Temple",
+    "placeId": "alipiri-mettu",
+    "relatedTemples": [
+      "venkateswara",
+      "srikalahasti"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 6:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Alipiri Footpath Parking Complex",
+    "specialTips": "Special pujas to Sri Garuda Bhagavan at Alipiri and evening Garuda Seva procession at Tirumala.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "skanda-shashti-aug",
+    "name": "Skanda Shashti Vratam",
+    "date": "2026-08-18",
+    "location": "Sri Subrahmanya Swamy Temple, Kapila Theertham",
+    "placeId": "subrahmanya-temple",
+    "relatedTemples": [
+      "kapila-theertham"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "7:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Panchamrita abhishekam to Lord Murugan on Sukla Shashti.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "tulsidas-jayanti",
+    "name": "Tulsidas Jayanti & World Photography Day",
+    "date": "2026-08-19",
+    "location": "Sri Bedi Anjaneya Swamy Temple",
+    "placeId": "bedi-anjaneya",
+    "relatedTemples": [
+      "japali-hanuman",
+      "venkateswara"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "7:00 AM - 11:30 AM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking Slots",
+    "specialTips": "Shravana Shukla Saptami. Special Ramcharitmanas recitation and akhanda bhajan.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "durga-ashtami-aug",
+    "name": "Durga Ashtami Vratam",
+    "date": "2026-08-20",
+    "location": "Sri Padmavathi Ammavari Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "tataiah-gunta-gangamma"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 8:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Tiruchanur Parking",
+    "specialTips": "Kumkumarchana and Lalitha Sahasranama chanting for Goddess Durga.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "varalakshmi-vratam",
+    "name": "Varalakshmi Vratam (Grand Telugu Women's Festival)",
+    "date": "2026-08-21",
+    "location": "Sri Padmavathi Ammavari Temple, Tiruchanur",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja",
+      "vakula-matha"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "Traditional Silk Saree (Pattu Langa)",
+    "parking": "Tiruchanur Special Parking Grounds",
+    "specialTips": "Major Telugu festival for married women. Grand Varalakshmi Vrata Puja at Tiruchanur Temple.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "tirumala-pavitrotsavam-start",
+    "name": "Tirumala Srivari Pavitrotsavam (Commencement)",
+    "date": "2026-08-22",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Tirumala Hills Parking",
+    "specialTips": "Sacred purification festival begins. Priests adorn Lord Venkateswara with colourful silk sacred threads.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "sravana-putrada-ekadashi",
+    "name": "Sravana Putrada Ekadashi",
+    "date": "2026-08-23",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "iskcon-tirupati"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Highly revered Ekadashi during Pavitrotsavam week. Fasting and devotional chants throughout the hill.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosha-milad-aug",
+    "name": "Pradosha Vratam & Milad-un-Nabi (Eid-e-Milad)",
+    "date": "2026-08-25",
+    "location": "Sri Kapileswara Swamy & Tirupati Town",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja",
+      "srikalahasti"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional / Modest",
+    "parking": "Town Center Public Parking",
+    "specialTips": "Sacred Pradosha worship at Kapila Theertham alongside community harmony gatherings in Tirupati.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "pavitrotsavam-onam",
+    "name": "Srivari Pavitrotsavam Samapthi & Onam (Thiruvonam)",
+    "date": "2026-08-26",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 8:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Grand Poornahuti of Pavitrotsavam at Tirumala main temple, with festive Onam floral decorations across town.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pournami-vratam-satyanarayana",
+    "name": "Pournami Vratam (Sri Satyanarayana Swamy Puja)",
+    "date": "2026-08-27",
+    "location": "Sri Govindaraja Swamy Temple",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "venkateswara",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 PM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Town Center Parking",
+    "specialTips": "Special Satyanarayana Swamy Vrata Pujas on the eve of Shravana Purnima.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "raksha-bandhan-hayagriva",
+    "name": "Raksha Bandhan (Sravana Purnima, Jandhyala Pournami & Hayagriva Jayanti)",
+    "date": "2026-08-28",
+    "location": "Sri Padmavathi Ammavari Temple & Tirumala",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 8:00 PM",
+    "dressCode": "Traditional Festive Attire",
+    "parking": "Tiruchanur Temple Parking Complex",
+    "specialTips": "Shravana Purnima (Jandhyala Pournami). Upakarma sacred thread ceremony and Kumkumarchana at Tiruchanur.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "pubba-karte",
+    "name": "Pubba Karte",
+    "date": "2026-08-30",
+    "location": "SV Zoological Park & Countryside",
+    "placeId": "sv-zoo-park",
+    "relatedTemples": [
+      "silparamam-tirupati"
+    ],
+    "gravityScore": 5,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 2:00 PM",
+    "dressCode": "Casual",
+    "parking": "Available",
+    "specialTips": "Mid-monsoon seasonal change period in the Rayalaseema agricultural calendar.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "sankashtahara-chaturthi-aug2",
+    "name": "Sankashtahara Chaturthi",
+    "date": "2026-08-31",
+    "location": "Sri Varasiddhi Vinayaka Temple, Kanipakam",
+    "placeId": "kanipakam-temple",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available at Kanipakam",
+    "specialTips": "Evening moonrise prayers and special Ganesha modaka archana.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "krishna-janmashtami",
+    "name": "Krishna Janmashtami (Gokulashtami & Utlotsavam)",
+    "date": "2026-09-04",
+    "location": "Sri Radha Govinda ISKCON Temple",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "govindaraja",
+      "venkateswara"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - Midnight",
+    "dressCode": "Traditional Festive Attire",
+    "parking": "Hare Krishna Road Parking Grounds",
+    "specialTips": "Bhadrapada Krishna Ashtami. Grand midnight Abhishekam, Utlotsavam (pot breaking), and kirtans.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "teachers-day",
+    "name": "Teachers' Day (Dr. Sarvepalli Radhakrishnan Jayanti)",
+    "date": "2026-09-05",
+    "location": "Sri Venkateswara University Campus",
+    "placeId": "sv-university",
+    "relatedTemples": [
+      "regional-science-centre"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "9:00 AM - 1:00 PM",
+    "dressCode": "Formal / Smart Casual",
+    "parking": "SVU Auditorium Parking",
+    "specialTips": "Honoring Dr. Sarvepalli Radhakrishnan with academic seminars and student tributes.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "aja-ekadashi",
+    "name": "Aja Ekadashi (Ananda Ekadashi)",
+    "date": "2026-09-08",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Fasting on Bhadrapada Krishna Ekadashi for absolution of all past misdeeds.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-sep-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-09-09",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening twilight worship of Lord Shiva.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "bhadrapada-amavasya",
+    "name": "Bhadrapada Amavasya (Mahalaya Pitru Paksha Begins)",
+    "date": "2026-09-11",
+    "location": "Kapila Theertham & Govindaraja Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja",
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:30 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Commencement of the 15-day holy Pitru Paksha for honoring departed ancestors.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "ganesh-chaturthi",
+    "name": "Ganesh Chaturthi (Vinayaka Chavithi) & Hindi Diwas",
+    "date": "2026-09-14",
+    "location": "Sri Vinayaka Shrine at Kapila Theertham",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "kanipakam-temple",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 9:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Kapila Theertham Outer Grounds",
+    "specialTips": "Bhadrapada Vinayaka Chavithi. Clay Ganesha idols, Patri Puja (21 sacred leaves), and holy waterfall dips.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "salakatla-brahmotsavam",
+    "name": "Salakatla Brahmotsavam Begins (Dhwajarohanam) & Engineer's Day",
+    "date": "2026-09-15",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple",
+      "alipiri-mettu"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 11:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Strictly Transit Buses Only",
+    "specialTips": "Annual 9-day grand Brahmotsavam begins with Dhwajarohanam flag hoisting ceremony.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "rishi-panchami",
+    "name": "Rishi Panchami (Saptharshi Vratam)",
+    "date": "2026-09-16",
+    "location": "Kapila Theertham Waterfalls Shrine",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Honoring the Saptharshis (seven great sages) with holy water purification snanam.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "brahmotsavam-garuda-seva",
+    "name": "Salakatla Brahmotsavam (Grand Garuda Seva)",
+    "date": "2026-09-19",
+    "location": "Tirumala Srivari Temple - Four Mada Streets",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "alipiri-mettu",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 PM - Midnight",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Massive Transit Only - Hill Access Controlled",
+    "specialTips": "Peak moment of the Brahmotsavams. Over 300,000 pilgrims witness Lord Malayappa on the Golden Garuda Vahanam.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "parsva-ekadashi",
+    "name": "Parsva Ekadashi (Parivartini Ekadashi)",
+    "date": "2026-09-22",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Lord Vishnu changes his resting posture from left to right side during Yoga Nidra.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "salakatla-chakra-snanam",
+    "name": "Salakatla Brahmotsavam Chakra Snanam & Autumnal Equinox",
+    "date": "2026-09-23",
+    "location": "Swami Pushkarini, Tirumala & Silathoranam",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "silathoranam",
+      "srivari-padalu"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:30 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Transit Only",
+    "specialTips": "Holy conclusion of Brahmotsavam with sacred bath of Sri Sudarshana Chakrathalwar in Swami Pushkarini.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "anantha-padmanabha-vratam",
+    "name": "Anantha Padmanabha Vratam & Pradosha Vratam",
+    "date": "2026-09-24",
+    "location": "Sri Govindaraja Swamy Temple",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "venkateswara",
+      "kapila-theertham"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Traditional Silk",
+    "parking": "Town Center",
+    "specialTips": "Tying the 14-knot sacred Anantha red thread (Anantha Daram) after special puja.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "bhadrapada-purnima",
+    "name": "Bhadrapada Purnima (Umamaheshwara Vratam)",
+    "date": "2026-09-26",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti",
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:30 PM - 9:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Grounds",
+    "specialTips": "Special Umamaheshwara puja for marital harmony and spiritual peace.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "gandhi-jayanti",
+    "name": "Mahatma Gandhi Jayanti & Lal Bahadur Shastri Jayanti",
+    "date": "2026-10-02",
+    "location": "Regional Science Centre & Peace Park",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "silparamam-tirupati"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 12:00 PM",
+    "dressCode": "Khadi / Casual",
+    "parking": "Available",
+    "specialTips": "Cleanliness drives (Swachhata) and devotional prayer assemblies.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "indira-ekadashi",
+    "name": "Indira Ekadashi (Pitru Mukti Ekadashi)",
+    "date": "2026-10-08",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Tirumala Parking",
+    "specialTips": "Ashwina Krishna Ekadashi performed during Mahalaya Paksha for ancestral liberation.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-oct-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-10-09",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight Bilvarchana at Kapila Theertham waterfalls shrine.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "mahalaya-amavasya",
+    "name": "Mahalaya Amavasya (Sarva Pitru Amavasya) & Bathukamma Begins",
+    "date": "2026-10-10",
+    "location": "Kapila Theertham Waterfalls & Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:30 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Grounds",
+    "specialTips": "Grand finale of Pitru Paksha with thousands performing holy water tarpanam. Women start Engili Pula Bathukamma.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "navaratri-brahmotsavam",
+    "name": "Navaratri Brahmotsavam (Sharan Navaratri Day 1 - Kalasha Sthapana)",
+    "date": "2026-10-11",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "padmavathi-temple",
+      "govindaraja",
+      "alipiri-mettu"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 11:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Transit Only",
+    "specialTips": "Second grand Brahmotsavam of 2026 begins at Tirumala (Oct 11–20). Double festive rush.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "lalita-panchami",
+    "name": "Lalita Panchami (Upang Lalita Vratam)",
+    "date": "2026-10-14",
+    "location": "Sri Padmavathi Ammavari Temple, Tiruchanur",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "tataiah-gunta-gangamma"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 8:30 PM",
+    "dressCode": "Traditional Silk Saree",
+    "parking": "Tiruchanur Parking",
+    "specialTips": "Special Lalitha Sahasranama Kumkumarchana at the main temple shrine.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "saraswati-puja-navaratri",
+    "name": "Navaratri Saraswati Puja (Moola Nakshatra Alankaram)",
+    "date": "2026-10-15",
+    "location": "SVU Saraswati Shrine & Padmavathi Temple",
+    "placeId": "sv-university",
+    "relatedTemples": [
+      "padmavathi-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:30 AM - 8:00 PM",
+    "dressCode": "White / Yellow Silk",
+    "parking": "Campus Grounds",
+    "specialTips": "Goddess adorned as Sri Maha Saraswati. Books and musical instruments placed for sacred blessings.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "navaratri-garuda-seva",
+    "name": "Navaratri Brahmotsavam (Garuda Vahana Seva)",
+    "date": "2026-10-16",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "alipiri-mettu",
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 PM - Midnight",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Transit Buses Only",
+    "specialTips": "Garuda Seva of the Navaratri Brahmotsavams with Malayappa Swamy in dazzling jewel adornment.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "durga-ashtami",
+    "name": "Durgashtami (Maha Ashtami Vratam)",
+    "date": "2026-10-18",
+    "location": "Sri Padmavathi Ammavari Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "tataiah-gunta-gangamma",
+      "kapila-theertham"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 9:00 PM",
+    "dressCode": "Traditional Silk Saree / Kurta",
+    "parking": "Padmavathi Temple Parking Grounds",
+    "specialTips": "Special Chandi Homam, Kumkumarchana, and Gaja Vahanam procession for Goddess Padmavathi.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "maha-navami",
+    "name": "Maha Navami (Ayudha Puja)",
+    "date": "2026-10-19",
+    "location": "Sri Padmavathi Ammavari Temple & Tirupati Commercial Hubs",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 10:00 PM",
+    "dressCode": "Festive Traditional",
+    "parking": "Town Parking",
+    "specialTips": "Vehicles, tools, and instruments washed and decorated with flowers and kumkum.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "dussehra",
+    "name": "Vijayadashami (Dussehra / Saddula Bathukamma / Shami Puja)",
+    "date": "2026-10-20",
+    "location": "Sri Padmavathi Ammavari Temple & Lakes",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja",
+      "tataiah-gunta-gangamma"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "Traditional Festive",
+    "parking": "Tiruchanur Complex",
+    "specialTips": "Grand finale of Bathukamma immersion and Vijayadashami Shami tree worship for victory.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "madhvacharya-jayanti",
+    "name": "Madhvacharya Jayanti & Papankusha Ekadashi",
+    "date": "2026-10-21",
+    "location": "Sri Govindaraja Swamy Temple",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 1:00 PM",
+    "dressCode": "Traditional Dhotis / Saree",
+    "parking": "Town Center",
+    "specialTips": "Celebration of Dvaita philosophy founder Sri Madhvacharya with scholarly discourses.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "pradosham-oct-2",
+    "name": "Pradosha Vratam",
+    "date": "2026-10-23",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight prayers honoring Lord Shiva.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "valmiki-jayanti",
+    "name": "Valmiki Jayanti & Sharad Purnima (Kojagiri Purnima / Meerabai Jayanti)",
+    "date": "2026-10-26",
+    "location": "Sri Bedi Anjaneya & ISKCON Tirupati",
+    "placeId": "bedi-anjaneya",
+    "relatedTemples": [
+      "japali-hanuman",
+      "iskcon-tirupati"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "7:00 AM - 8:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Ashwina Purnima. Continuous Ramayana chanting, Kheer offering under moonlight, and Meera bhajans.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "atla-tadde",
+    "name": "Atla Tadde (Telugu Women's Fasting Festival)",
+    "date": "2026-10-28",
+    "location": "Sri Padmavathi Ammavari Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "vakula-matha",
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:00 PM",
+    "dressCode": "Traditional Telugu Silk Saree",
+    "parking": "Tiruchanur Grounds",
+    "specialTips": "Traditional Telugu festival. Women fast, swing on jhulas (Uyyala), and prepare mini mini Atlu (crepes).",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "karwa-chauth",
+    "name": "Karwa Chauth (Sankashtahara Chaturthi)",
+    "date": "2026-10-29",
+    "location": "Sri Padmavathi Ammavari Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "vakula-matha"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 PM - 9:30 PM",
+    "dressCode": "Festive Red Saree / Lehenga",
+    "parking": "Tiruchanur Parking Grounds",
+    "specialTips": "Special evening Arghya rituals to the Moon for longevity of spouses.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "national-unity-day",
+    "name": "National Unity Day (Rashtriya Ekta Diwas - Sardar Patel Jayanti)",
+    "date": "2026-10-31",
+    "location": "SV University & Regional Science Centre",
+    "placeId": "regional-science-centre",
+    "relatedTemples": [
+      "sv-university"
+    ],
+    "gravityScore": 6,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "8:00 AM - 11:30 AM",
+    "dressCode": "Smart Casual",
+    "parking": "Available",
+    "specialTips": "Run for Unity marathon and national integration pledge.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "dhanteras",
+    "name": "Dhanteras (Dhanvantari Jayanti & Yamadeepdaan)",
+    "date": "2026-11-02",
+    "location": "Sri Padmavathi Ammavari Temple & Jewellery Bazaars",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "6:00 AM - 9:30 PM",
+    "dressCode": "Traditional Festive",
+    "parking": "Tiruchanur Parking",
+    "specialTips": "Auspicious day for purchasing gold, silver, and utensils. Yamadeepdaan lamp lighting in the evening.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "nagula-chavithi",
+    "name": "Nagula Chavithi (Telugu Snake Worship Festival)",
+    "date": "2026-11-03",
+    "location": "Kapila Theertham Sacred Ant-hills",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti",
+      "parasurameswara-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Grounds",
+    "specialTips": "Pouring milk, offering Chimili (sesame sweets) and Chalimidi at snake ant-hills (Putta).",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "rama-ekadashi",
+    "name": "Rama Ekadashi & Govatsa Dwadashi (Vasubaras)",
+    "date": "2026-11-05",
+    "location": "Tirumala Srivari Temple & ISKCON Goshala",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "iskcon-tirupati",
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Cow and calf worship (Govatsa) and fasting preceding Diwali.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-nov-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-11-06",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight Shiva puja before Deepavali.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "narak-chaturdashi",
+    "name": "Naraka Chaturdashi (Abhyangana Snanam & Choti Diwali)",
+    "date": "2026-11-07",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:00 AM - 9:00 AM",
+    "dressCode": "Traditional Festive",
+    "parking": "Kapila Outer Grounds",
+    "specialTips": "Dawn oil bath (Abhyangana Snanam) and lighting early morning crackers.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "diwali",
+    "name": "Deepavali (Diwali, Lakshmi Puja & Kedareswara Vratam)",
+    "date": "2026-11-08",
+    "location": "Sri Padmavathi Ammavari Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "venkateswara",
+      "govindaraja",
+      "kapila-theertham"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 AM - 10:00 PM",
+    "dressCode": "Bright Traditional Silk",
+    "parking": "Tiruchanur Temple Parking",
+    "specialTips": "Festival of Lights. 10,000 oil lamps lit at Goddess Padmavathi shrine & Kedareswara Vratam pujas.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "govardhan-puja",
+    "name": "Govardhan Puja (Annakuta & Bali Padyami)",
+    "date": "2026-11-09",
+    "location": "Sri Radha Govinda ISKCON Temple",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "govindaraja",
+      "venkateswara"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:00 AM - 2:00 PM",
+    "dressCode": "Traditional",
+    "parking": "ISKCON Campus Grounds",
+    "specialTips": "Huge Annakuta mountain of prasadam sweets offered to Lord Krishna.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "bhaiya-dooj",
+    "name": "Bhaiya Dooj (Bhagini Hasta Bhojanam & Yama Dwitiya)",
+    "date": "2026-11-10",
+    "location": "Sri Padmavathi Ammavari Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 5:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Tiruchanur Parking",
+    "specialTips": "Kartika Dwitiya. Brothers visit sisters for traditional festive lunch and divine blessings.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "childrens-day",
+    "name": "Children's Day (Nehru Jayanti) & Labh Panchami",
+    "date": "2026-11-14",
+    "location": "SV Zoological Park & Deer Park",
+    "placeId": "sv-zoo-park",
+    "relatedTemples": [
+      "regional-science-centre"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:30 AM - 5:00 PM",
+    "dressCode": "Casual",
+    "parking": "Zoo Entrance Multi-Tier Parking",
+    "specialTips": "Free battery cart rides and wildlife educational tours for children.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "chhath-puja",
+    "name": "Chhath Puja (Surya Shashthi)",
+    "date": "2026-11-15",
+    "location": "Kapila Theertham Waterfalls & Tank",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "alipiri-mettu"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "4:30 AM - 7:30 AM & 4:30 PM",
+    "dressCode": "Traditional Fasting Attire",
+    "parking": "Kapila Base Parking",
+    "specialTips": "Holy Arghya offered to Rising and Setting Sun God at Kapila Pushkarini tank.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "gopashtami",
+    "name": "Gopashtami (Sacred Cow Worship)",
+    "date": "2026-11-18",
+    "location": "SV Dairy Farm Goshala & ISKCON Tirupati",
+    "placeId": "iskcon-tirupati",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "8:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Special feeding and decorating cows with turmeric and garlands.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "akshaya-navami",
+    "name": "Akshaya Navami (Amla Navami)",
+    "date": "2026-11-19",
+    "location": "Purusaivari Thota & Padmavathi Temple",
+    "placeId": "padmavathi-temple",
+    "relatedTemples": [
+      "venkateswara"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "7:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Puja under Amla (gooseberry) tree and community outdoor meals.",
+    "coverImage": "/assets/temples/padmavathi.png"
+  },
+  {
+    "id": "devutthana-ekadashi",
+    "name": "Devutthana Ekadashi (Prabodhini Ekadashi / Tulasi Kalyanam Begins)",
+    "date": "2026-11-20",
+    "location": "Tirumala Srivari Temple & Govindaraja Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 10:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Limited",
+    "specialTips": "Lord Vishnu awakens from 4-month Chaturmasya sleep. Beginning of auspicious Hindu wedding season and Tulasi Vivaham.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "ksheerabdi-dwadashi",
+    "name": "Ksheerabdi Dwadashi (Chilku Dwadashi) & Pradosha Vratam",
+    "date": "2026-11-22",
+    "location": "Sri Govindaraja Swamy Temple Pushkarini",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "padmavathi-temple",
+      "kapila-theertham"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:30 PM - 9:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Town Center",
+    "specialTips": "Lighting Amla deepams on Tulasi plants in temple pushkarinis at dusk.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "karthika-purnima",
+    "name": "Karthika Purnima (Jwala Toranam / 365 Wicks / Guru Nanak Jayanti)",
+    "date": "2026-11-24",
+    "location": "Sri Kapileswara Swamy Temple & Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti",
+      "venkateswara",
+      "govindaraja",
+      "iskcon-tirupati"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "5:00 PM - 10:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Kapila Outer Grounds",
+    "specialTips": "365 wicks lighting ritual, 108 oil lamps floating in Kapila Pushkarini, sacred Jwala Toranam bonfire, and Sikh Nagar Kirtan.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "sankashtahara-chaturthi-nov",
+    "name": "Sankashtahara Chaturthi",
+    "date": "2026-11-28",
+    "location": "Sri Varasiddhi Vinayaka Temple, Kanipakam",
+    "placeId": "kanipakam-temple",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Evening moonrise prayer rituals.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "world-aids-day",
+    "name": "World AIDS Day",
+    "date": "2026-12-01",
+    "location": "SVIMS & RUIA Hospital Complex",
+    "placeId": "ruia-hospital",
+    "relatedTemples": [],
+    "gravityScore": 5,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "9:00 AM - 1:00 PM",
+    "dressCode": "Formal",
+    "parking": "SVIMS Visitor Parking",
+    "specialTips": "Awareness rallies and medical health camps hosted by SVIMS medical university.",
+    "coverImage": "https://images.unsplash.com/photo-1514222134-b57cbf8ce673?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "kartika-vanabhojana",
+    "name": "Kartika Vanabhojana Utsavam",
+    "date": "2026-12-03",
+    "location": "Purusaivari Thota, Tirumala",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 3:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Community garden feast in the sacred botanical groves of Tirumala Hills.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "utpanna-ekadashi",
+    "name": "Utpanna Ekadashi",
+    "date": "2026-12-04",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "5:00 AM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Birth of Goddess Ekadashi from Lord Vishnu on Margashirsha Krishna Ekadashi.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "pradosham-dec-1",
+    "name": "Pradosha Vratam",
+    "date": "2026-12-06",
+    "location": "Sri Kapileswara Swamy Temple",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "srikalahasti"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "4:30 PM - 8:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Twilight Bilvarchana at Kapila Falls shrine.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "margashirsha-amavasya",
+    "name": "Margashirsha Amavasya (Pithru Snanam)",
+    "date": "2026-12-09",
+    "location": "Kapila Theertham Pushkarini",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "govindaraja"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:00 AM - 12:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Winter holy water bath and ancestor oblations.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "subrahmanya-sashti",
+    "name": "Subrahmanya Sashti (Skanda Sashti / Champa Sashti)",
+    "date": "2026-12-15",
+    "location": "Sri Valli Devasena Subrahmanya Shrine, Kapila Theertham",
+    "placeId": "kapila-theertham",
+    "relatedTemples": [
+      "subrahmanya-temple"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 2:00 PM",
+    "dressCode": "Traditional Yellow Attire",
+    "parking": "Kapila Grounds",
+    "specialTips": "Special Abhishekam to Lord Subrahmanya Swamy with milk and panchamritam; Kavadi offerings.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "dhanurmasa-pooja",
+    "name": "Dhanurmasa Pooja Begins (Tiruppavai Recitation)",
+    "date": "2026-12-16",
+    "location": "Tirumala Srivari Temple & All Vaishnavite Temples",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple",
+      "kodandarama"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "3:30 AM - 8:00 AM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Limited",
+    "specialTips": "Month-long early dawn Tiruppavai pasuram singing in place of Suprabhatam to wake Lord Venkateswara.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "mokshada-gita-jayanti",
+    "name": "Mokshada Ekadashi & Gita Jayanti",
+    "date": "2026-12-19",
+    "location": "Tirumala Srivari Temple & ISKCON Tirupati",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "iskcon-tirupati",
+      "govindaraja"
+    ],
+    "gravityScore": 9,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:30 AM - 9:30 PM",
+    "dressCode": "Traditional",
+    "parking": "Limited",
+    "specialTips": "Day Lord Krishna delivered the Bhagavad Gita to Arjuna on the battlefield of Kurukshetra. Mass Gita recitation.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "matsya-dwadashi",
+    "name": "Matsya Dwadashi & Pradosha Vratam",
+    "date": "2026-12-20",
+    "location": "Sri Vedanarayana Swamy Temple, Nagalapuram & Kapila Theertham",
+    "placeId": "nagalapuram-temple",
+    "relatedTemples": [
+      "kapila-theertham",
+      "venkateswara"
+    ],
+    "gravityScore": 8,
+    "expectedCrowd": "High",
+    "recommendedTime": "6:00 AM - 1:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Available",
+    "specialTips": "Lord Vishnu Matsya avatar puja and evening Shiva Pradosham.",
+    "coverImage": "/assets/temples/kapila-theertham.png"
+  },
+  {
+    "id": "shortest-day-of-year",
+    "name": "Winter Solstice (Shortest Day of the Year)",
+    "date": "2026-12-22",
+    "location": "Silathoranam Natural Arch",
+    "placeId": "silathoranam",
+    "relatedTemples": [
+      "srivari-padalu"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "Moderate",
+    "recommendedTime": "6:30 AM - 9:30 AM",
+    "dressCode": "Warm / Outdoor",
+    "parking": "Silathoranam Parking",
+    "specialTips": "Witness the winter sunrise over the ancient 1.5-billion-year-old rock arch.",
+    "coverImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "vaikunta-ekadashi-dec",
+    "name": "Vaikuntha Ekadasi (Mukkoti Ekadasi - Vaikuntha Dwaram Opens)",
+    "date": "2026-12-23",
+    "location": "Tirumala Srivari Temple",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "3:00 AM - 11:00 PM",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Strictly Restricted",
+    "specialTips": "Vaikuntha Dwaram opens for 10 holy days (Dec 23, 2026 - Jan 1, 2027). Heavy statewide rush.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "vaikunta-dwadashi-dec",
+    "name": "Vaikuntha Dwadasi (Chakra Snanam in Swami Pushkarini) & Dattatreya Jayanti",
+    "date": "2026-12-24",
+    "location": "Swami Pushkarini, Tirumala",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - 2:00 PM",
+    "dressCode": "Traditional",
+    "parking": "Restricted",
+    "specialTips": "Chakra Snanam in Swami Pushkarini temple tank during morning hours on Margashirsha Purnima.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  },
+  {
+    "id": "merry-christmas",
+    "name": "Merry Christmas",
+    "date": "2026-12-25",
+    "location": "Tirupati Central Landmarks & Town Churches",
+    "placeId": "govindaraja",
+    "relatedTemples": [
+      "iskcon-tirupati"
+    ],
+    "gravityScore": 7,
+    "expectedCrowd": "High",
+    "recommendedTime": "9:00 AM - 9:00 PM",
+    "dressCode": "Festive Casual",
+    "parking": "Town Center Parking",
+    "specialTips": "Christmas midnight mass, festive illumination, and cake distribution across town.",
+    "coverImage": "/assets/temples/govindaraja.png"
+  },
+  {
+    "id": "new-years-eve",
+    "name": "New Year's Eve (Year-End Darshan Rush)",
+    "date": "2026-12-31",
+    "location": "Tirumala Srivari Temple & Town Center",
+    "placeId": "venkateswara",
+    "relatedTemples": [
+      "govindaraja",
+      "padmavathi-temple"
+    ],
+    "gravityScore": 10,
+    "expectedCrowd": "Very High",
+    "recommendedTime": "4:00 AM - Midnight",
+    "dressCode": "Traditional (Mandatory)",
+    "parking": "Transit Only",
+    "specialTips": "Devotees gather at midnight at Tirumala hills for the dawn of the New Year.",
+    "coverImage": "/assets/temples/venkateswara.png"
+  }
+]

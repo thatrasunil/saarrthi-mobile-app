@@ -1,0 +1,84 @@
+{
+  "waitTime": "8-12 Hours ",
+  "bestTime": "",
+  "crowdLevel": "high",
+  "sevaStatus": "All sevas open",
+  "notice": "HIGH CROWD WARNING: Ghat road traffic slow. Exercise caution.",
+  "lastUpdated": "2026-09-25T04:20:59.568+00:00",
+  "darshanSpeed": "normal",
+  "accommodationStatus": "available",
+  "ladduAvailability": "available",
+  "weather": "Auto (API)",
+  "darshans": [
+    {
+      "name": "Sarva Darshan (Free)",
+      "waitTime": "8-12 Hours ",
+      "peakHours": "Daily 10 AM - 6 PM"
+    },
+    {
+      "name": "Special Entry (₹300)",
+      "waitTime": "2-5 Hours ",
+      "peakHours": "Daily 9 AM - 3 PM"
+    },
+    {
+      "name": "Divya Darshan (Footpath)",
+      "waitTime": "4-7 Hours",
+      "peakHours": "Daily 8 AM - 4 PM"
+    },
+    {
+      "name": "VIP / Srivani Break",
+      "waitTime": "1.5 hours",
+      "peakHours": "Daily 6 AM - 8 AM"
+    }
+  ],
+  "ssdTokenStatus": "closed-for-day",
+  "ssdNextTokenTime": "SSD & DD Tokens Issue started from 7:30 pm",
+  "ssdTokenSlots": [
+    {
+      "slotTime": "5:00 AM - 7:00 AM",
+      "status": "closed",
+      "tokensLeft": "Full"
+    },
+    {
+      "slotTime": "7:00 AM - 9:00 AM",
+      "status": "closed",
+      "tokensLeft": "Full"
+    },
+    {
+      "slotTime": "9:00 AM - 11:00 AM",
+      "status": "closed",
+      "tokensLeft": "Full"
+    },
+    {
+      "slotTime": "11:00 AM - 1:00 PM",
+      "status": "closed",
+      "tokensLeft": "Full"
+    },
+    {
+      "slotTime": "2:00 PM - 4:00 PM",
+      "status": "closed",
+      "tokensLeft": "Full"
+    },
+    {
+      "slotTime": "4:00 PM - 6:00 PM",
+      "status": "closed",
+      "tokensLeft": "Full"
+    }
+  ],
+  "ssdNotice": "",
+  "ssdTimingsGuide": "SSD Tokens – Current Status*\n\n  ✅ • Available Tokens: completed",
+  "ssdCounters": [
+    {
+      "name": "Vishnu Nivasam Counter",
+      "description": "Located opposite Tirupati Railway Station (Highly convenient for train travelers)"
+    },
+    {
+      "name": "Srinivasam Complex Counter",
+      "description": "Located opposite Tirupati RTC Central Bus Stand (Ideal for bus travelers)"
+    },
+    {
+      "name": "Bhudevi Complex Counter",
+      "description": "Located near Alipiri Footpath Link Road (Ideal for pedestrian pilgrims)"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "success": true,
+  "todaysCompanion": {
+    "priorityLevel": 2,
+    "priorityReason": "Lakshmi Friday",
+    "theme": "Divine Grace & Compassion",
+    "headline": "Today's Divine Guidance for Goddess Lakshmi",
+    "divineMoment": {
+      "quote": "Darshan is complete only when your heart is filled with compassion for every fellow pilgrim.",
+      "author": "Tiruchanoor Temple Tradition",
+      "duration": "30-Sec Reflection",
+      "reflectionTip": "Take three deep breaths and silently chant \"Om Namo Venkatesaya\"."
+    },
+    "significance": {
+      "title": "Tirupati Laddu GI Tag",
+      "category": "Prasadam",
+      "description": "The famous Tirupati Laddu prasadam, prepared with pure ghee and cardamom, holds a global Geographical Indication (GI) tag."
+    },
+    "sevas": [
+      {
+        "id": "gen-1",
+        "label": "Stay hydrated during warm hours",
+        "iconName": "droplets",
+        "category": "preparation"
+      },
+      {
+        "id": "gen-2",
+        "label": "Yield way to walking pilgrims",
+        "iconName": "footprints",
+        "category": "community"
+      },
+      {
+        "id": "gen-3",
+        "label": "Keep sacred hills plastic-free",
+        "iconName": "shield",
+        "category": "safety"
+      }
+    ],
+    "audio": {
+      "id": "suprabhatam",
+      "title": "Sri Venkateswara Suprabhatam",
+      "artist": "Traditional Chanting",
+      "duration": "30 sec",
+      "category": "Morning Wakeup"
+    },
+    "journeyMessage": {
+      "stage": "general",
+      "title": "Before Your Darshan",
+      "actionableAdvice": "Prepare your mind and body with pure devotion before entering the queue."
+    },
+    "moodPrompt": {
+      "question": "How are you feeling today on your yatra?",
+      "options": [
+        {
+          "id": "peaceful",
+          "iconName": "heart",
+          "label": "Peaceful",
+          "feedback": "May Lord Venkateswara bless you with enduring serenity."
+        },
+        {
+          "id": "excited",
+          "iconName": "smile",
+          "label": "Excited",
+          "feedback": "Your joyful devotion brings warmth to the entire pilgrimage!"
+        },
+        {
+          "id": "grateful",
+          "iconName": "sparkles",
+          "label": "Grateful",
+          "feedback": "Gratitude opens the gateway to divine grace."
+        },
+        {
+          "id": "patient",
+          "iconName": "shield",
+          "label": "Patient",
+          "feedback": "Patience transforms every waiting moment into sacred seva."
+        }
+      ]
+    },
+    "habitPrompt": {
+      "text": "Come back tomorrow for a new story, divine guidance, and daily seva."
+    }
+  },
+  "todayFestival": null,
+  "learn": {
+    "storyOfTheDay": {
+      "id": "story-tirupati-laddu",
+      "slug": "secret-of-tirupati-laddu",
+      "title": "The Secret Behind Tirumala Laddu Prasadam",
+      "subtitle": "Centuries of Sacred Culinary Heritage",
+      "category": "pilgrim_knowledge",
+      "readTime": "2 min read",
+      "image": "/assets/temples/venkateswara.png",
+      "trustBadge": "Verified by TTD Potu Wing",
+      "quickSummary": "The famous Tirupati Laddu is prepared in the temple kitchen called Potu. Over 3 lakh laddus are crafted daily using pure cow ghee, cashew, cardamom, raisins, and golden gram flour.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Sacred Kitchen (Potu)",
+          "content": "The temple kitchen, known as Potu, has been operating continuously for centuries. Only designated temple cooks (Potu Workers) following strict purificatory rituals prepare the prasadam."
+        },
+        {
+          "type": "Legend",
+          "title": "Introduction of the Laddu",
+          "content": "While sweet offerings existed earlier, the modern recipe known as 'Dittam' was formalized in 1803 under British administration records and perfected over 200 years of TTD governance."
+        },
+        {
+          "type": "Meaning",
+          "title": "Geographical Indication (GI Tag)",
+          "content": "In 2009, Tirupati Laddu was awarded a Geographical Indication (GI) tag, legally protecting its unique recipe and preventing any commercial imitation worldwide."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "Every bite of the laddu is infused with the divine vibrations of daily Vedic chanting inside the temple precinct."
+        }
+      ],
+      "didYouKnow": [
+        "Over 300,000 laddus are produced daily in the automated and manual Potu kitchens.",
+        "Every batch adheres strictly to the 'Dittam' ratio of ghee, nuts, and spices.",
+        "The GI tag ensures no other organization in the world can replicate the name."
+      ],
+      "relatedPlaceIds": [
+        "venkateswara"
+      ],
+      "sources": [
+        "✓ TTD Potu Department",
+        "✓ Geographical Indication Registry"
+      ],
+      "tags": [
+        "laddu",
+        "prasadam",
+        "potu",
+        "ttd",
+        "gi tag"
+      ],
+      "isFeatured": false
+    }
+  },
+  "story": {
+    "id": "story-tirupati-laddu",
+    "slug": "secret-of-tirupati-laddu",
+    "title": "The Secret Behind Tirumala Laddu Prasadam",
+    "subtitle": "Centuries of Sacred Culinary Heritage",
+    "category": "pilgrim_knowledge",
+    "readTime": "2 min read",
+    "image": "/assets/temples/venkateswara.png",
+    "trustBadge": "Verified by TTD Potu Wing",
+    "quickSummary": "The famous Tirupati Laddu is prepared in the temple kitchen called Potu. Over 3 lakh laddus are crafted daily using pure cow ghee, cashew, cardamom, raisins, and golden gram flour.",
+    "storyBlocks": [
+      {
+        "type": "Beginning",
+        "title": "The Sacred Kitchen (Potu)",
+        "content": "The temple kitchen, known as Potu, has been operating continuously for centuries. Only designated temple cooks (Potu Workers) following strict purificatory rituals prepare the prasadam."
+      },
+      {
+        "type": "Legend",
+        "title": "Introduction of the Laddu",
+        "content": "While sweet offerings existed earlier, the modern recipe known as 'Dittam' was formalized in 1803 under British administration records and perfected over 200 years of TTD governance."
+      },
+      {
+        "type": "Meaning",
+        "title": "Geographical Indication (GI Tag)",
+        "content": "In 2009, Tirupati Laddu was awarded a Geographical Indication (GI) tag, legally protecting its unique recipe and preventing any commercial imitation worldwide."
+      },
+      {
+        "type": "TodayImportance",
+        "title": "Why It Matters Today",
+        "content": "Every bite of the laddu is infused with the divine vibrations of daily Vedic chanting inside the temple precinct."
+      }
+    ],
+    "didYouKnow": [
+      "Over 300,000 laddus are produced daily in the automated and manual Potu kitchens.",
+      "Every batch adheres strictly to the 'Dittam' ratio of ghee, nuts, and spices.",
+      "The GI tag ensures no other organization in the world can replicate the name."
+    ],
+    "relatedPlaceIds": [
+      "venkateswara"
+    ],
+    "sources": [
+      "✓ TTD Potu Department",
+      "✓ Geographical Indication Registry"
+    ],
+    "tags": [
+      "laddu",
+      "prasadam",
+      "potu",
+      "ttd",
+      "gi tag"
+    ],
+    "isFeatured": false
+  },
+  "allStories": [
+    {
+      "id": "story-seven-hills",
+      "slug": "seven-hills",
+      "title": "Why is Tirumala Called the Seven Hills?",
+      "subtitle": "The Sacred Anatomy of Adisesha",
+      "category": "mythology",
+      "readTime": "2 min read",
+      "image": "/assets/temples/swami-pushkarini.png",
+      "trustBadge": "Verified by TTD Literature",
+      "quickSummary": "The sacred Tirumala hills are revered as the physical manifestation of Adisesha, the cosmic seven-headed serpent upon whom Lord Vishnu reclines. Each of the seven peaks represents a divine energy center.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Divine Topography",
+          "content": "Tirumala is nestled in the Seshachalam range, where seven distinct mountain peaks form the sacred landscape. Puranic texts state that the entire hill range is none other than Lord Sesha who descended from Vaikuntha to serve as the divine abode for Lord Venkateswara."
+        },
+        {
+          "type": "Legend",
+          "title": "The Trial of Strength",
+          "content": "According to the Bhavishyottara Purana, a contest arose between Vayu (the Wind God) and Adisesha regarding strength. When Adisesha encircled Mount Meru, Vayu blew fiercely. Adisesha temporarily released his grip, causing a portion of Meru to fall onto Earth in South India. This holy fragment became Seshachalam."
+        },
+        {
+          "type": "Meaning",
+          "title": "The Seven Sacred Peaks",
+          "content": "The seven peaks represent the seven hoods of Adisesha: Seshadri, Neeladri, Garudadri, Anjanadri, Vrushabhadri, Narayanadri, and Venkatadri. The main temple of Lord Venkateswara rests on Venkatadri, the peak of salvation."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "Recognizing Tirumala as Adisesha reminds pilgrims that every step taken on these holy hills is taken on sacred ground. This is why tradition recommends walking barefoot up the Alipiri or Srivari Mettu footpaths."
+        }
+      ],
+      "didYouKnow": [
+        "Seshadri — Peak of Lord Sesha",
+        "Neeladri — Named after Neela Devi who gave her hair",
+        "Garudadri — Abode of Lord Garuda",
+        "Anjanadri — Birthplace of Lord Hanuman",
+        "Vrushabhadri — Peak of Nandi the Bull",
+        "Narayanadri — Where Sage Narayana meditated",
+        "Venkatadri — Peak of Lord Venkateswara"
+      ],
+      "relatedPlaceIds": [
+        "venkateswara",
+        "silathoranam",
+        "akasaganga"
+      ],
+      "sources": [
+        "✓ TTD Publications",
+        "✓ Bhavishyottara Purana",
+        "✓ Temple Inscriptions",
+        "✓ Ground Verification"
+      ],
+      "tags": [
+        "seven hills",
+        "seshadri",
+        "venkatadri",
+        "mythology",
+        "adisesha"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "story-tonsure-hair",
+      "slug": "why-offering-hair",
+      "title": "Why Do Devotees Offer Their Hair at Tirumala?",
+      "subtitle": "The Eternal Gift of Neela Devi",
+      "category": "tradition",
+      "readTime": "2 min read",
+      "image": "/assets/temples/kapila-theertham.png",
+      "trustBadge": "Verified by TTD Literature",
+      "quickSummary": "Tonsuring hair at Kalyana Katta is more than a ritual — it is the ultimate symbol of shedding human ego and pride. The tradition honors Goddess Neela Devi who sacrificed her own hair for the Lord.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Ritual of Humility",
+          "content": "Over 30,000 pilgrims offer their hair daily at Tirumala's Kalyana Katta. In Indian tradition, hair is considered a primary element of personal beauty and identity. Surrendering it signifies shedding false pride before God."
+        },
+        {
+          "type": "Legend",
+          "title": "The Sacrifice of Neela Devi",
+          "content": "Legend says that during the Lord's stay on Earth, a small portion of his scalp was struck, causing hair loss. Seeing this, Gandharva princess Neela Devi immediately cut a portion of her own beautiful tresses and transplanted them onto the Lord's head with divine devotion."
+        },
+        {
+          "type": "Meaning",
+          "title": "The Divine Boon",
+          "content": "Pleased by her selfless love, Lord Venkateswara declared that anyone who surrenders their hair at Tirumala will have their devotion accepted by Him, and the merit of the offering will reach Neela Devi. The second peak, Neeladri, honors her memory."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "When you step out of Kalyana Katta with a shaved head, rich and poor look identical. It establishes absolute spiritual equality in the presence of the Almighty."
+        }
+      ],
+      "didYouKnow": [
+        "Over 500 licensed barbers work around the clock at Kalyana Katta.",
+        "Surgical hygiene and fresh blade protocols are strictly enforced for every pilgrim.",
+        "All revenue from hair auctions directly funds free Annaprasadam meals and TTD hospitals."
+      ],
+      "relatedPlaceIds": [
+        "venkateswara"
+      ],
+      "sources": [
+        "✓ TTD Official Guide",
+        "✓ Temple Priests",
+        "✓ Varaha Purana"
+      ],
+      "tags": [
+        "hair",
+        "tonsure",
+        "kalyana katta",
+        "neela devi",
+        "tradition",
+        "ego"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "story-kubera-loan",
+      "slug": "kubera-loan",
+      "title": "The Story Behind Lord Venkateswara's Loan from Kubera",
+      "subtitle": "The Divine Celestial Wedding Expense",
+      "category": "mythology",
+      "readTime": "2.5 min read",
+      "image": "https://res.cloudinary.com/kniegqlj/image/upload/v1785912384/sri-laxmi-venkataramana_jo1cxb.jpg",
+      "trustBadge": "Verified by TTD + Temple Priests",
+      "quickSummary": "To marry Goddess Padmavathi at Narayanavanam, Lord Srinivasa borrowed wealth from Kubera, the treasurer of the heavens. Devotees contribute to the Hundi to help repay the interest.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Divine Romance",
+          "content": "When Lord Srinivasa sought to marry Princess Padmavathi (daughter of King Akasa Raja), royal wedding customs demanded a grand wedding arrangement and dowry settlement."
+        },
+        {
+          "type": "Legend",
+          "title": "The Celestial Contract",
+          "content": "As Srinivasa lived as a humble hermit in Seshachalam, He approached Kubera for a loan of 14 lakh coins of gold. Viswakarma, the divine architect, drew up the loan agreement, with Lord Brahma and Lord Shiva acting as witnesses."
+        },
+        {
+          "type": "Meaning",
+          "title": "The Repayment Clause",
+          "content": "The agreement stipulated that Lord Srinivasa would repay the interest on the loan until the end of Kali Yuga. The coins dropped by devotees into the Srivari Hundi are dedicated towards this cosmic obligation."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "Giving to the Hundi is not paying a fee; it is participating in a cosmic act of devotion, assisting the Divine Lord in fulfilling His vow."
+        }
+      ],
+      "didYouKnow": [
+        "The wedding took place at Narayanavanam, 36 km from Tirupati.",
+        "Brahma and Shiva signed as primary witnesses on the celestial deed.",
+        "The Srivari Hundi is emptied and counted daily under strict CCTV surveillance."
+      ],
+      "relatedPlaceIds": [
+        "venkateswara",
+        "narayanavanam",
+        "tiruchanur-temple"
+      ],
+      "sources": [
+        "✓ Padma Purana",
+        "✓ TTD Heritage Cell",
+        "✓ Temple Literature"
+      ],
+      "tags": [
+        "kubera",
+        "hundi",
+        "wedding",
+        "padmavathi",
+        "narayanavanam"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "story-silathoranam-arch",
+      "slug": "silathoranam-mystery",
+      "title": "The Mystery of Silathoranam — 2.5 Billion Year Old Arch",
+      "subtitle": "Where Geology Meets Divine History",
+      "category": "nature",
+      "readTime": "2 min read",
+      "image": "/assets/temples/silathoranam.png",
+      "trustBadge": "Verified by Geological Survey of India",
+      "quickSummary": "Silathoranam is a rare geological natural rock arch in Tirumala formed over 1.5 to 2.5 billion years ago. It is believed to mark the spot where Lord Venkateswara first stepped on Earth.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "A Natural Wonder",
+          "content": "Located 1 km from the main temple, Silathoranam is one of only three natural rock arches of its geological age in the entire world."
+        },
+        {
+          "type": "Legend",
+          "title": "The Divine Footprint",
+          "content": "According to temple lore, when Lord Venkateswara descended from Vaikuntha to Earth, He first set foot at this precise spot before walking towards Swami Pushkarini."
+        },
+        {
+          "type": "Meaning",
+          "title": "Conch and Discus Formation",
+          "content": "Look closely at the rock arch: its natural curves closely resemble the Shankha (Conch), Chakra (Discus), and the divine serpent hood of Adisesha."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "Visiting Silathoranam allows pilgrims to witness a site where ancient geological history and deep spiritual faith converge seamlessly."
+        }
+      ],
+      "didYouKnow": [
+        "Only 3 natural arches of this pre-Cambrian rock type exist globally.",
+        "Geologists measure the quartz rock age at over 1,500 million years.",
+        "Surrounded by tranquil gardens, it is a serene spot for quiet reflection."
+      ],
+      "relatedPlaceIds": [
+        "silathoranam",
+        "venkateswara",
+        "chakratheertham"
+      ],
+      "sources": [
+        "✓ Geological Survey of India",
+        "✓ TTD Archaeology Wing"
+      ],
+      "tags": [
+        "silathoranam",
+        "rock arch",
+        "geology",
+        "nature",
+        "tirumala"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "story-tirupati-laddu",
+      "slug": "secret-of-tirupati-laddu",
+      "title": "The Secret Behind Tirumala Laddu Prasadam",
+      "subtitle": "Centuries of Sacred Culinary Heritage",
+      "category": "pilgrim_knowledge",
+      "readTime": "2 min read",
+      "image": "/assets/temples/venkateswara.png",
+      "trustBadge": "Verified by TTD Potu Wing",
+      "quickSummary": "The famous Tirupati Laddu is prepared in the temple kitchen called Potu. Over 3 lakh laddus are crafted daily using pure cow ghee, cashew, cardamom, raisins, and golden gram flour.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Sacred Kitchen (Potu)",
+          "content": "The temple kitchen, known as Potu, has been operating continuously for centuries. Only designated temple cooks (Potu Workers) following strict purificatory rituals prepare the prasadam."
+        },
+        {
+          "type": "Legend",
+          "title": "Introduction of the Laddu",
+          "content": "While sweet offerings existed earlier, the modern recipe known as 'Dittam' was formalized in 1803 under British administration records and perfected over 200 years of TTD governance."
+        },
+        {
+          "type": "Meaning",
+          "title": "Geographical Indication (GI Tag)",
+          "content": "In 2009, Tirupati Laddu was awarded a Geographical Indication (GI) tag, legally protecting its unique recipe and preventing any commercial imitation worldwide."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "Every bite of the laddu is infused with the divine vibrations of daily Vedic chanting inside the temple precinct."
+        }
+      ],
+      "didYouKnow": [
+        "Over 300,000 laddus are produced daily in the automated and manual Potu kitchens.",
+        "Every batch adheres strictly to the 'Dittam' ratio of ghee, nuts, and spices.",
+        "The GI tag ensures no other organization in the world can replicate the name."
+      ],
+      "relatedPlaceIds": [
+        "venkateswara"
+      ],
+      "sources": [
+        "✓ TTD Potu Department",
+        "✓ Geographical Indication Registry"
+      ],
+      "tags": [
+        "laddu",
+        "prasadam",
+        "potu",
+        "ttd",
+        "gi tag"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "story-annaprasadam",
+      "slug": "how-annaprasadam-feeds-lakhs",
+      "title": "How Annaprasadam Feeds Lakhs of Pilgrims Daily",
+      "subtitle": "The Miracle of Endless Service",
+      "category": "pilgrim_knowledge",
+      "readTime": "2.5 min read",
+      "image": "/assets/temples/swami-pushkarini.png",
+      "trustBadge": "Verified by TTD Annaprasadam Trust",
+      "quickSummary": "The Tarigonda Vengamamba Annaprasadam Complex serves hot, nutritious vegetarian meals to over 100,000 pilgrims every single day without charging a single rupee.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Legacy of Vengamamba",
+          "content": "Saint Matrusri Tarigonda Vengamamba initiated the tradition of serving free meals to pilgrims in the 18th century. Today, TTD carries forward her noble vision on a massive scale."
+        },
+        {
+          "type": "Legend",
+          "title": "The Infinite Vessel",
+          "content": "Legend says Goddess Annapurna herself blesses the cauldrons of Tirumala so that no devotee ever leaves the hills hungry."
+        },
+        {
+          "type": "Meaning",
+          "title": "Zero Waste Precision",
+          "content": "Massive solar steam cooking systems allow four dining halls to seat 4,000 pilgrims simultaneously every 20 minutes, serving piping hot rice, sambar, chutney, and payasam."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Why It Matters Today",
+          "content": "Eating at Annaprasadam unites people of all castes, income levels, and backgrounds side by side on identical mats."
+        }
+      ],
+      "didYouKnow": [
+        "Serves 100,000+ meals daily, scaling to 200,000+ during Brahmotsavam.",
+        "Uses eco-friendly solar thermal technology for cooking fuel.",
+        "Entirely funded by voluntary devotee donations to the Nitya Annadanam Trust."
+      ],
+      "relatedPlaceIds": [
+        "annaprasadam-complex",
+        "venkateswara"
+      ],
+      "sources": [
+        "✓ TTD Annadanam Trust Report",
+        "✓ Ground Operations Audit"
+      ],
+      "tags": [
+        "annaprasadam",
+        "vengamamba",
+        "free food",
+        "service",
+        "charity"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "story-gangamma-jatara",
+      "slug": "tirupati-ganga-jatara",
+      "title": "The 900-Year Legend of Tirupati Ganga Jatara",
+      "subtitle": "Sri Tataiahgunta Gangamma: Guardian Deity & Sister of Lord Venkateswara",
+      "category": "festival",
+      "readTime": "3 min read",
+      "image": "https://res.cloudinary.com/kniegqlj/image/upload/v1786898380/tirupati-gangamma-jathara-copy_vnxhrd.jpg",
+      "trustBadge": "Verified by State Cultural & Heritage Archives",
+      "quickSummary": "Sri Tataiahgunta Gangamma is the revered Grama Devatha of Tirupati and younger sister of Lord Venkateswara. Every May, Tirupati erupts into a vibrant 900-year-old folk festival celebrating her victory over tyranny.",
+      "storyBlocks": [
+        {
+          "type": "Beginning",
+          "title": "The Grama Devatha of Tirupati",
+          "content": "Sri Tataiahgunta Gangamma is worshipped as the divine guardian of Tirupati. Local tradition holds her in high reverence as the beloved younger sister of Lord Venkateswara of Tirumala."
+        },
+        {
+          "type": "Legend",
+          "title": "The Avilala Birth & The Fall of Palegandulu",
+          "content": "According to centuries-old lore, Gangamma manifested in the village of Avilala near Tirupati. During that era, a tyrannical local chieftain (Palegandulu) terrorized the region and harassed women. When he attempted to harm Gangamma, she revealed her fierce cosmic form. Terrified, the chieftain fled into hiding. To lure him out, the goddess assumed various creative disguises over successive days until she confronted and slayed him, restoring peace and righteousness."
+        },
+        {
+          "type": "Meaning",
+          "title": "Vichitra Veshadarana & Sibling Love (Parisu)",
+          "content": "To honor the disguises assumed by the Goddess, devotees participate in the iconic Vichitra Veshadarana—dressing as hermits (Bhairagi), forest tribes (Matangi), and lords (Dora), with men also adorning female attire to fulfill sacred vows. As a symbol of eternal brotherly bond, sacred silk vastrams (Parisu) and traditional offerings are sent directly from Lord Venkateswara’s temple atop Tirumala to Gangamma’s temple in Tirupati."
+        },
+        {
+          "type": "TodayImportance",
+          "title": "Viswaroopa Darshanam & Sacred Prasadam",
+          "content": "The grand climax of the 8-day festival features a massive clay idol of Goddess Gangamma. On the final night, during Viswaroopa Darshanam, the idol is ritually dismantled, and small fragments of the consecrated clay are eagerly collected by thousands of devotees as powerful protective prasadam."
+        }
+      ],
+      "didYouKnow": [
+        "Over 900 years old, Ganga Jatara is Tirupati's grandest and oldest community folk festival.",
+        "Lord Venkateswara formally sends Parisu (silk sarees and jewels) to Gangamma as her elder brother.",
+        "Devotees wear elaborate natural body paints, neem leaves, and traditional masks during the festival.",
+        "The sacred clay from the Viswaroopa idol is preserved in homes for good health, prosperity, and protection."
+      ],
+      "relatedPlaceIds": [
+        "tataiahgunta-gangamma",
+        "venkateswara",
+        "govindaraja"
+      ],
+      "sources": [
+        "✓ Wikipedia Cultural Archives",
+        "✓ AP State Tourism & Cultural Heritage",
+        "✓ TTD Historic Records"
+      ],
+      "tags": [
+        "gangamma",
+        "ganga jatara",
+        "tataiahgunta",
+        "grama devatha",
+        "tirupati festival",
+        "folk tradition"
+      ],
+      "isFeatured": true
+    }
+  ]
+}

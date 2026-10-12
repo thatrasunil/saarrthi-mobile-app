@@ -1,0 +1,45 @@
+name: saarthi_mobile
+description: "Saarthi: Tirumala & Tirupati Divine Pilgrim Companion"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  supabase_flutter: ^2.8.0
+  shared_preferences: ^2.3.0
+  intl: ^0.19.0
+  url_launcher: ^6.3.0
+  geolocator: ^12.0.0
+  video_player: ^2.8.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/places.json
+    - assets/data/festivals.json
+    - assets/data/gita_shlokas.json
+    - assets/data/temple_layouts.json
+    - assets/data/govinda_namas.json
+    - assets/data/alerts.json
+    - assets/data/live_status.json
+    - assets/data/daily_companion.json
+    - assets/banner/
+    - assets/onboarding-tirumala.jpg
+    - assets/temples/
+    - assets/food/
+    - assets/leisure/
+    - assets/nature/
+    - assets/history/
+    - assets/icons/
+

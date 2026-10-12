@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tirumala-darshan-advisory",
+    "titleEn": "Tirumala Live Darshan & SSD Token Advisory",
+    "titleTe": "తిరుమల లైవ్ దర్శనం & SSD టోకెన్ సమాచారం",
+    "descEn": "Sarva Darshan queue moving at normal pace (2-3 hrs). Slotted SSD offline counters at Vishnu Nivasam & Srinivasam open daily at 05:00 AM. Original Aadhaar is mandatory.",
+    "descTe": "సర్వదర్శనం సాధారణ వేగంతో (2-3 గంటలు) సాగుతోంది. విష్ణు నివాసం & శ్రీనివాసం వద్ద రోజూ ఉదయం 5 గంటలకు ఆఫ్ లైన్ SSD టోకెన్లు జారీ చేస్తారు. అసలు ఆధార్ కార్డు తప్పనిసరి.",
+    "category": "High Priority",
+    "severity": "Medium",
+    "cta": "Open Queue",
+    "timeAgo": "15m ago",
+    "timeAgoTe": "15 నిమిషాల క్రితం",
+    "isRead": false
+  },
+  {
+    "id": "ghat-road-safety-rules",
+    "titleEn": "Ghat Road Timings & Speed Monitoring",
+    "titleTe": "ఘాట్ రోడ్డు వేళలు & ప్రయాణ నిబంధనలు",
+    "descEn": "Up-Ghat road open 03:00 AM to 11:00 PM. Down-Ghat road closes at 12:00 midnight. Minimum journey time of 28 minutes is strictly enforced at toll gates to ensure safety.",
+    "descTe": "పైకి వెళ్లే ఘాట్ రోడ్డు ఉదయం 3:00 నుండి రాత్రి 11:00 వరకు తెరిచి ఉంటుంది. టోల్ గేట్ల వద్ద కనీస ప్రయాణ సమయం 28 నిమిషాలు ఖచ్చితంగా పాటించాలి.",
+    "category": "Advisory",
+    "severity": "Low",
+    "cta": "Open Maps",
+    "timeAgo": "1h ago",
+    "timeAgoTe": "1 గంట క్రితం",
+    "isRead": false
+  },
+  {
+    "id": "annaprasadam-amenities-alert",
+    "titleEn": "Free Annaprasadam Complex Operating Continuously",
+    "titleTe": "నిత్య అన్నప్రసాదం భవనం నిరంతర సేవలు",
+    "descEn": "Tarigonda Vengamamba Complex serves hot sacred vegetarian meals continuously until 11:00 PM without token requirement. Free luggage lockers available at PAC-1, 2 & 5.",
+    "descTe": "తరిగొండ వెంగమాంబ అన్నప్రసాద భవనంలో రాత్రి 11:00 వరకు టోకెన్ లేకుండా ఉచితంగా భోజన ప్రసాదం లభిస్తుంది. పీఏసీ 1, 2, 5 ల వద్ద ఉచిత లాకర్లు అందుబాటులో ఉన్నాయి.",
+    "category": "Information",
+    "severity": "Low",
+    "cta": "Open Essentials",
+    "timeAgo": "3h ago",
+    "timeAgoTe": "3 గంటల క్రితం",
+    "isRead": true
+  },
+  {
+    "id": "special-entry-slot-notice",
+    "titleEn": "₹300 Special Entry Slots Reporting Verification",
+    "titleTe": "₹300 ప్రత్యేక ప్రవేశ దర్శనం హాజరు మార్గదర్శకాలు",
+    "descEn": "Devotees with ₹300 booked tickets must report at ATC car parking 30 minutes before your reporting slot with original photo ID cards.",
+    "descTe": "₹300 టికెట్ ఉన్న భక్తులు రిపోర్టింగ్ సమయానికి 30 నిమిషాల ముందే ఎటిసి కార్ పార్కింగ్ వద్ద అసలు ఐడీ కార్డుతో హాజరుకావాలి.",
+    "category": "Information",
+    "severity": "Low",
+    "cta": "Open Queue",
+    "timeAgo": "5h ago",
+    "timeAgoTe": "5 గంటల క్రితం",
+    "isRead": true
+  }
+]
