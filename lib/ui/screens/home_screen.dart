@@ -434,19 +434,19 @@ class _HomeScreenState extends State<HomeScreen> {
             ],
           ),
           child: Row(
-            children: const [
+            children: [
               Text(
-                'Wed, 23 Sept',
-                style: TextStyle(fontSize: 11.5, fontWeight: FontWeight.w800, color: Color(0xFFB45309)),
+                _appState.formattedCurrentDate,
+                style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.w800, color: Color(0xFFB45309)),
               ),
-              SizedBox(width: 4),
-              Text('•', style: TextStyle(color: Color(0xFF94A3B8))),
-              SizedBox(width: 4),
-              Icon(Icons.wb_sunny_rounded, size: 13, color: Color(0xFFD97706)),
-              SizedBox(width: 4),
+              const SizedBox(width: 4),
+              const Text('•', style: TextStyle(color: Color(0xFF94A3B8))),
+              const SizedBox(width: 4),
+              const Icon(Icons.wb_sunny_rounded, size: 13, color: Color(0xFFD97706)),
+              const SizedBox(width: 4),
               Text(
-                '27°C',
-                style: TextStyle(fontSize: 11.5, fontWeight: FontWeight.w700, color: Color(0xFF334155)),
+                '${_appState.temperatureCelsius}°C',
+                style: const TextStyle(fontSize: 11.5, fontWeight: FontWeight.w700, color: Color(0xFF334155)),
               ),
             ],
           ),
@@ -573,15 +573,19 @@ class _HomeScreenState extends State<HomeScreen> {
                   setState(() => _isLoading = true);
                   _loadLiveStatus();
                 },
-                child: Row(
-                  children: [
-                    const Text(
-                      '12h ago',
-                      style: TextStyle(fontSize: 11, fontWeight: FontWeight.w600, color: Color(0xFF64748B)),
-                    ),
-                    const SizedBox(width: 4),
-                    const Icon(Icons.refresh_rounded, size: 14, color: Color(0xFF64748B)),
-                  ],
+                borderRadius: BorderRadius.circular(12),
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 2),
+                  child: Row(
+                    children: [
+                      Text(
+                        _appState.relativeSyncTime,
+                        style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w600, color: Color(0xFF64748B)),
+                      ),
+                      const SizedBox(width: 4),
+                      const Icon(Icons.refresh_rounded, size: 14, color: Color(0xFF64748B)),
+                    ],
+                  ),
                 ),
               ),
             ],
@@ -627,17 +631,24 @@ class _HomeScreenState extends State<HomeScreen> {
 
               // Column 3: SSD Tokens (Timed Slot)
               Expanded(
-                child: _buildQueueColumnCard(
-                  icon: Icons.confirmation_num_outlined,
-                  iconColor: const Color(0xFF059669),
-                  iconBg: const Color(0xFFDCFCE7),
-                  sublabel: isTelugu ? 'టైమ్డ్ స్లాట్' : 'TIMED SLOT',
-                  title: isTelugu ? 'SSD టోకెన్లు' : 'SSD Tokens',
-                  wait: _appState.ssdTokenStatus,
-                  waitBg: const Color(0xFFDCFCE7),
-                  waitColor: const Color(0xFF166534),
-                  borderColor: const Color(0xFFBBF7D0),
-                  onTap: _openDarshanScreen,
+                child: Builder(
+                  builder: (context) {
+                    final isClosed = _appState.ssdTokenStatus.toLowerCase().contains('close') ||
+                        _appState.ssdTokenStatus.toLowerCase().contains('cancel') ||
+                        _appState.ssdTokenStatus.toLowerCase().contains('exhaust');
+                    return _buildQueueColumnCard(
+                      icon: Icons.confirmation_num_outlined,
+                      iconColor: isClosed ? const Color(0xFFDC2626) : const Color(0xFF059669),
+                      iconBg: isClosed ? const Color(0xFFFEE2E2) : const Color(0xFFDCFCE7),
+                      sublabel: isTelugu ? 'టైమ్డ్ స్లాట్' : 'TIMED SLOT',
+                      title: isTelugu ? 'SSD టోకెన్లు' : 'SSD Tokens',
+                      wait: _appState.ssdTokenStatus,
+                      waitBg: isClosed ? const Color(0xFFFEE2E2) : const Color(0xFFDCFCE7),
+                      waitColor: isClosed ? const Color(0xFFB91C1C) : const Color(0xFF166534),
+                      borderColor: isClosed ? const Color(0xFFFECACA) : const Color(0xFFBBF7D0),
+                      onTap: _openDarshanScreen,
+                    );
+                  },
                 ),
               ),
             ],

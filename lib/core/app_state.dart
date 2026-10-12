@@ -60,6 +60,33 @@ class AppState extends ChangeNotifier {
   String get weatherCondition => _weatherCondition;
   DateTime get lastSyncTime => _lastSyncTime;
 
+  String get formattedCurrentDate {
+    final now = DateTime.now();
+    const weekdaysEn = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+    const weekdaysTe = ['సోమ', 'మంగళ', 'బుధ', 'గురు', 'శుక్ర', 'శని', 'ఆది'];
+    const monthsEn = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const monthsTe = ['జన', 'ఫిబ్ర', 'మార్చి', 'ఏప్రి', 'మే', 'జూన్', 'జూలై', 'ఆగ', 'సెప్టెం', 'అక్టో', 'నవం', 'డిసెం'];
+    
+    final dayName = isTelugu ? weekdaysTe[now.weekday - 1] : weekdaysEn[now.weekday - 1];
+    final monthName = isTelugu ? monthsTe[now.month - 1] : monthsEn[now.month - 1];
+    return isTelugu ? '$dayName, ${now.day} $monthName' : '$dayName, ${now.day} $monthName';
+  }
+
+  String get relativeSyncTime {
+    final diff = DateTime.now().difference(_lastSyncTime);
+    if (diff.inSeconds < 45) {
+      return isTelugu ? 'ఇప్పుడే అప్‌డేట్ అయింది' : 'Just now';
+    } else if (diff.inMinutes < 60) {
+      final m = diff.inMinutes;
+      return isTelugu ? '$m నిమి క్రితం' : '${m}m ago';
+    } else if (diff.inHours < 24) {
+      final h = diff.inHours;
+      return isTelugu ? '$h గం క్రితం' : '${h}h ago';
+    } else {
+      return isTelugu ? 'నిన్న' : 'Yesterday';
+    }
+  }
+
   /// Updates state dynamically from Admin API payload (Web Admin Panel reflection)
   void updateFromAdminLiveStatus(Map<String, dynamic> data) {
     // 1. Crowd / Darshan Times
